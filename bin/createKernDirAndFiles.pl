@@ -94,6 +94,7 @@ sub check_duplicates {
     foreach my $kern (@existing_kern) {
         open (my $filehandle, "<", $kern);
         push (@existing_keys, readline $filehandle =~ s/!!key:\ //);
+        close ($filehandle);
     }
     my @duplicates;
     foreach my $key (@files) {
