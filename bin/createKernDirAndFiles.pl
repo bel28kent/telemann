@@ -38,19 +38,27 @@ print "Searching metadata for files . . . ";
 my @files = search_metadata();
 die "No possible files found!\n" if (scalar (@files) == 0);
 
+my @files_to_create;
 if $override {
     print "Skipping checks for duplicates\n";
+    @files_to_create = @files;
 } else {
     print "Checking possible files for potential duplicates . . .\n";
     my @duplicates = check_duplicates();
     print "DONE!\n";
     if (scalar (@duplicates) > 0) {
         print "Filtering duplicate files from possible files . . . ";
-        filter_duplicates(\@duplicates);
+        @files_to_create = filter_duplicates(\@duplicates);
         print "DONE!\n";
+    } else {
+        @files_to_create = @files;
     }
 }
+delete @files;
 
+print "Making files . . .\n";
+make_files (\@files_to_create);
+print "DONE!\n";
 
 #########################
 #    SUBROUTINES
@@ -99,8 +107,7 @@ sub check_duplicates {
     my @duplicates;
     foreach my $key (@files) {
         print "$key . . . ";
-        my $is_member = member ($key, \@existing_keys);        
-        if ($is_member = 0) {
+        if (member ($key, \@existing_keys) == 0) {
             print "OKAY\n";
         } else {
             push (@duplicates, $key);
@@ -124,8 +131,31 @@ sub member {
 }
 
 # filter_duplicates
-# @ -> void
-# removes elements in @ that are in @files
+# @ -> @
+# removes elements in @files that are in @
 sub filter_duplicates {
-    
+    my @duplicates = @{$_[0]};    
+    foreach my $file (@files) {
+        if (member ($file, \@duplicates) == 0) {
+            push (@files_to_create, $file);
+        }
+    }
+}
+
+# make_files
+# @ -> void
+# foreach element, make a file at kern/directory_name/ with element as filename
+sub make_files {
+    my @files = @{$_[0]};
+    foreach my $file (@files) {
+        print "$file . . . ";
+        open (my $filehandle, ">", "kern/$directory_name/$file.krn");
+        print $filehandle "!!key: $file";
+        close ($filehandle);
+        if (-e "kern/$directory_name/$file.krn") {
+            print "DONE!\n";
+        } else {
+            print "ERROR!\n";
+        }
+    }
 }
