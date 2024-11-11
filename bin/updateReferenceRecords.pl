@@ -58,7 +58,7 @@ print "DONE!\n";
 
 # hash_metadata
 # void -> %
-# produces a hash of reference records
+# produces a hash of metadata
 sub hash_metadata {
     my %meta;
     chomp (my @contents = `cat metadata/reference_records.tsv`);
@@ -67,8 +67,9 @@ sub hash_metadata {
         my $key =~ m/tele.{+}\t/;
         $key =~ s/\t//;
         my $val = $content =~ s/tele.{+}\t//; 
-        $metadata{$key} = $val;
+        $meta{$key} = $val;
     }
+    return %meta;
 }
 
 # get_keys
