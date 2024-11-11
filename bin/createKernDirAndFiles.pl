@@ -114,6 +114,7 @@ sub check_duplicates {
             print "EXISTS\n";
         }
     }
+    return @duplicates
 }
 
 # member
@@ -131,7 +132,7 @@ sub member {
 }
 
 # filter_duplicates
-# @ -> @
+# @ -> void
 # removes elements in @files that are in @
 sub filter_duplicates {
     my @duplicates = @{$_[0]};    
