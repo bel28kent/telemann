@@ -9,8 +9,8 @@
 #
 #    directory_name is specified without "kern/"
 #
-#    files are initialized with reference records from
-#    metadata/reference_records.tsv
+#    files are initialized with "!!key: " and the key from
+#    metadata
 #
 #    files are given the name of the key found in metadata
 #
@@ -150,7 +150,7 @@ sub make_files {
     foreach my $file (@files) {
         print "$file . . . ";
         open (my $filehandle, ">", "kern/$directory_name/$file.krn");
-        print $filehandle "!!key: $file";
+        print $filehandle "!!key: $file\n";
         close ($filehandle);
         if (-e "kern/$directory_name/$file.krn") {
             print "DONE!\n";
