@@ -54,7 +54,6 @@ unless ($override) {
     print "Skipping checks for duplicates\n";
     @files_to_create = @files;
 }
-delete @files;
 
 print "Making files . . .\n";
 make_files (\@files_to_create);
