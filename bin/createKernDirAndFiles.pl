@@ -96,11 +96,13 @@ sub search_metadata {
 # void -> @
 # returns an array of keys in existing kern files duplicated in possible files 
 sub check_duplicates {
-    my @existing_kern = `find kern -name '*krn' -print`;
+    chomp (my @existing_kern = `find kern -name '*krn' -print`);
     my @existing_keys;
     foreach my $kern (@existing_kern) {
         open (my $filehandle, "<", $kern);
-        push (@existing_keys, readline $filehandle =~ s/!!key:\ //);
+        my $key = readline ($filehandle);
+        $key =~ s/!!key:\ //;
+        push (@existing_keys, $key);
         close ($filehandle);
     }
     my @duplicates;
@@ -122,6 +124,9 @@ sub check_duplicates {
 sub member {
     my $key = $_[0];
     my @existing_keys = @{$_[1]};
+    if (scalar (@existing_keys) == 0) {
+        return 0;
+    }
     foreach my $element (@existing_keys) {
         if ($element eq $key) {
             return 1;
