@@ -39,10 +39,7 @@ my @files = search_metadata();
 die "No possible files found!\n" if (scalar (@files) == 0);
 
 my @files_to_create;
-if $override {
-    print "Skipping checks for duplicates\n";
-    @files_to_create = @files;
-} else {
+unless ($override) {
     print "Checking possible files for potential duplicates . . .\n";
     my @duplicates = check_duplicates();
     print "DONE!\n";
@@ -53,6 +50,9 @@ if $override {
     } else {
         @files_to_create = @files;
     }
+} else {
+    print "Skipping checks for duplicates\n";
+    @files_to_create = @files;
 }
 delete @files;
 
