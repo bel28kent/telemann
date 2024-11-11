@@ -34,7 +34,7 @@ or die ("Error in options!\n");
 print "Creating $directory_name in kern/ . . . ";
 create_directory();
 
-print "Searching metadata for files . . . ";
+print "Searching metadata for files . . .\n";
 my @files = search_metadata();
 die "No possible files found!\n" if (scalar (@files) == 0);
 
@@ -96,7 +96,7 @@ sub search_metadata {
 # void -> @
 # returns an array of keys in existing kern files duplicated in possible files 
 sub check_duplicates {
-    my @existing_kern = `find kern`;
+    my @existing_kern = `find kern -name '*krn' -print`;
     my @existing_keys;
     foreach my $kern (@existing_kern) {
         open (my $filehandle, "<", $kern);
