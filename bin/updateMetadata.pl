@@ -2,7 +2,7 @@
 
 # Programmer:  Bryan Jacob Bell
 # Begun:       Sat Nov  9 20:33:36 PST 2024
-# Modified:    Tue Nov 12 12:26:14 PST 2024
+# Modified:    Tue Nov 12 13:55:38 PST 2024
 # File:        updateMetadata.pl
 # Syntax:      Perl 5
 # Description: get data from telemann_metadata reference_records
@@ -40,6 +40,9 @@ my $url = "https://docs.google.com/spreadsheets/d/e/$id/pub?gid=0&single=true&ou
 print "Creating new metadata/reference_records.tsv . . . \n";
 `wget -O ./$filename "$url"`;
 if (-e ($filename)) {
+    print "Processing carriage returns . . .";
+    process_returns();
+    print "DONE!\n";
     print "SUCCESS!\n";
 } else {
     print "ERROR!\n";
@@ -52,6 +55,25 @@ remove_header() if $header;
 #########################
 #    SUBROUTINES
 
+# process_returns
+# void -> void
+# replaces carriage returns in file with newlines
+sub process_returns {
+    local $/ = "\r";
+    chomp (my @contents = `cat $filename`);
+    open (my $filehandle, ">", "temp.tsv");
+    foreach my $content (@contents) {
+        print $filehandle "$content";
+    }
+    close ($filehandle);
+    `rm $filename`;
+    `mv temp.tsv $filename`;
+}
+
+
+# remove_header
+# void -> void
+# removes top header from sheet
 sub remove_header {
     chomp (my @current_file = `cat $filename`);
     shift (@current_file);
