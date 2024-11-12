@@ -2,7 +2,7 @@
 
 # Programmer:  Bryan Jacob Bell
 # Begun:       Sat Nov  9 20:42:53 PST 2024
-# Modified:    Tue Nov 12 12:26:42 PST 2024
+# Modified:    Tue Nov 12 13:45:57 PST 2024
 # File:        updateReferenceRecords.pl
 # Syntax:      Perl 5
 # Description: update reference records in kern files
@@ -40,7 +40,7 @@ print "DONE!\n";
 if ($initialize) {
     print "Initializing files that only contain keys . . .\n";
     initialize_files();
-    print "DONE!";
+    print "DONE!\n";
     exit 0;
 }
 
@@ -113,7 +113,7 @@ sub get_references {
 # produce the tag of this reference record
 sub get_ref_tag {
     my $ref_record = $_[0];
-    $ref_record =~ /([\w\d-@]{3,})/;
+    $ref_record =~ /([\w\d\-@]{3,})/;
     return $1;
 }
 
