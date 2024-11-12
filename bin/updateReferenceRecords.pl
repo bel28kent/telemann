@@ -22,7 +22,7 @@ my @REF = ("COM", "CDT", "CBL", "CDL", "CNT",
            "AST", "AGN", "AMT", "AIN",
            "RTL1", "RPN1", "RMM1", "RC#1", "RRD1", "RLC1", "RDT1", "RT#1",
            "RTL2", "RPN2", "RMM2", "RC#2", "RRD2", "RLC2", "RDT2", "RT#2",
-           "RTL3", "RPN3", "RMM3", "RC#3", "RRD3", "RLC3", "RDT3", "RT#3")
+           "RTL3", "RPN3", "RMM3", "RC#3", "RRD3", "RLC3", "RDT3", "RT#3");
 my %metadata = hash_metadata();
 
 my $initialize;
@@ -222,7 +222,7 @@ sub search_uninitialized {
 # update metadata in each kern file in files_to_update
 sub update_metadata {
     foreach my $kern (@files_to_update) {
-        print "$kern . . .\n"
+        print "$kern . . .\n";
         my %references = get_references($kern);
         chomp (my @contents = `cat $kern`);
         my @new_contents;
@@ -249,7 +249,7 @@ sub update_metadata {
 # write @ to file at String
 sub write_new_contents {
     my $kern = $_[0];
-    my $to_write = @{$_[1]};
+    my @to_write = @{$_[1]};
     print "writing to temp.krn\n";
     open (my $filehandle, ">", "temp.krn");
     foreach my $line (@to_write) {
