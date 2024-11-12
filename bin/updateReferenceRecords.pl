@@ -68,7 +68,8 @@ sub get_key {
     open (my $filehandle, "<", $kern);
     chomp (my $key = readline ($filehandle));
     close ($filehandle);
-    return $key =~ s/!!key:\ //;
+    $key =~ /(tele[^\t]+)/;
+    return $1;
 }
 
 # get_keys
@@ -112,8 +113,8 @@ sub get_references {
 # produce the tag of this reference record
 sub get_ref_tag {
     my $ref_record = $_[0];
-    my $tag = $ref_record =~ s/:\s.*$//;
-    return $tag =~ s/!!!//;
+    $ref_record =~ /([\w\d-@]{3,})/;
+    return $1;
 }
 
 
@@ -174,8 +175,10 @@ sub hash_metadata {
     chomp (my @contents = `cat metadata/reference_records.tsv`);
     shift (@contents); # remove header
     foreach my $content (@contents) {
-        my $key = $content =~ s/\t.*$//r;
-        my $val = $content =~ s/tele.+\t//r;
+        $content =~ /(tele[^\t]+)/;
+        my $key = $1;
+        $content =~ /(Telemann.+$)/;
+        my $val = $1;
         $meta{$key} = $val;
     }
     return %meta;
