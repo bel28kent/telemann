@@ -113,7 +113,7 @@ sub get_references {
 # produce the tag of this reference record
 sub get_ref_tag {
     my $ref_record = $_[0];
-    $ref_record =~ /([\w\d\-@]{3,})/;
+    $ref_record =~ /([\w\d\-@#]{3,})/;
     return $1;
 }
 
@@ -207,6 +207,7 @@ sub initialize_files {
 # void -> @
 # report if file in kern_files is unitialized, else add to files_to_update
 sub search_uninitialized {
+    my @files;
     foreach my $kern (@kern_files) {
         chomp (my @contents = `cat $kern`);
         if (scalar (@contents) == 0) {
@@ -217,8 +218,9 @@ sub search_uninitialized {
             print "\n$kern is uninitialized.\n";
             next;
         }
-        push (@files_to_update, $kern);
+        push (@files, $kern);
     }
+    return @files;
 }
 
 # update_metadata
@@ -233,7 +235,7 @@ sub update_metadata {
         foreach my $content (@contents) {
             if (is_reference ($content)) {
                 my $tag = get_ref_tag($content);
-                if (member ($tag, \@REF)) {
+                if (member($tag, \@REF)) {
                     my $new_ref = "!!!" . $tag . ": " . $references{$tag};
                     push (@new_contents, $new_ref);
                 } else {
