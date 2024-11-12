@@ -77,9 +77,7 @@ sub hash_metadata {
 sub get_keys {
     my @keys;
     foreach my $kern (@kern_files) {
-        open (my $filehandle, "<", $kern);
-        chomp (my $key = readline ($filehandle));
-        $key =~ s/!!key:\ //;
+        my $key = get_key($kern);
         push (@keys, $key);
         close ($filehandle);
     }
@@ -131,7 +129,7 @@ sub get_metadata {
 
 # search_uninitialized
 # void -> @
-# if file in kern_files is unitialized, report to user, else add to files_to_update
+# report if file in kern_files is unitialized, else add to files_to_update
 sub search_uninitialized {
     foreach my $kern (@kern_files) {
         chomp (my @contents = `cat $kern`);
@@ -170,14 +168,27 @@ sub update_metadata {
 # String -> %
 # return a hash of key-val pairs for each $REF
 sub get_references {
-    #TODO
+    my $kern = $_[0];
+    my $key = get_key($kern);
+    my @meta = get_metadata($key);
+    my %references;
+    for (my $i = 0; $i < scalar (@REF); $i++) {
+        my $ref = $REF[$i];
+        my $val = $meta[$i];
+        $references{$ref} = $val;
+    }
+    return %references;
 }
 
 # is_reference
 # String -> 1 or 0
 # if string starts with !!! return 1, else 0
 sub is_reference {
-    #TODO
+    my $record = $_[0];
+    if ($record =~ m/^!!!/) {
+        return 1;
+    }
+    return 0;
 }
 
 # write_new_contents
@@ -185,4 +196,15 @@ sub is_reference {
 # write @ to file at String
 sub write_new_contents {
     #TODO
+}
+
+# get_key
+# String -> String
+# produce key from file
+sub get_key {
+    my $kern = $_[0];
+    open (my $filehandle, "<", $kern);
+    chomp (my $key = readline ($filehandle));
+    close ($filehandle);
+    return $key =~ s/!!key:\ //;
 }
