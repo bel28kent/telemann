@@ -2,7 +2,7 @@
 
 # Programmer:  Bryan Jacob Bell
 # Begun:       Sun Nov 10 13:47:24 PST 2024
-# Modified:    Mon Nov 11 12:29:00 PST 2024
+# Modified:    Tue Nov 12 12:25:54 PST 2024
 # File:        createKernDirAndFiles.pl
 # Syntax:      Perl 5
 # Description: make a directory with kern files
@@ -69,7 +69,7 @@ sub create_directory {
     my $kern_dir = "kern/" . $directory_name;
     if (-e ($kern_dir)) {
         print "\nERROR: $kern_dir already exists!\n";
-        exit (1);
+        exit 1;
     } else {
         `mkdir $kern_dir`;
         print "SUCCESS!\n";

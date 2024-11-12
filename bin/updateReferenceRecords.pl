@@ -2,7 +2,7 @@
 
 # Programmer:  Bryan Jacob Bell
 # Begun:       Sat Nov  9 20:42:53 PST 2024
-# Modified:    Tue Nov 12 11:59:00 PST 2024
+# Modified:    Tue Nov 12 12:26:42 PST 2024
 # File:        updateReferenceRecords.pl
 # Syntax:      Perl 5
 # Description: update reference records in kern files
@@ -41,7 +41,7 @@ if ($initialize) {
     print "Initializing files that only contain keys . . .\n";
     initialize_files();
     print "DONE!";
-    exit (0);
+    exit 0;
 }
 
 print "Searching for uninitialized files . . . ";
@@ -154,6 +154,7 @@ sub add_references {
     my $path = $_[0];
     my $key = $_[1];
     my @meta = get_metadata($key);
+    if (scalar (@meta) != scalar (@REF)) { exit 1; }
     open (my $filehandle, ">", $path);
     for (my $i = 0; $i < scalar (@REF); $i++) {
         if ($meta[$i] eq "NA") {
@@ -173,7 +174,7 @@ sub hash_metadata {
     chomp (my @contents = `cat metadata/reference_records.tsv`);
     shift (@contents); # remove header
     foreach my $content (@contents) {
-        chomp (my $key = `awk ' BEGIN { \$0 = "$content" ; print \$1 } '`);
+        my $key = $content =~ s/\t.*$//r;
         my $val = $content =~ s/tele.+\t//r;
         $meta{$key} = $val;
     }

@@ -2,7 +2,7 @@
 
 # Programmer:  Bryan Jacob Bell
 # Begun:       Sat Nov  9 20:33:36 PST 2024
-# Modified:    Sun Nov 10 13:32:00 PST 2024
+# Modified:    Tue Nov 12 12:26:14 PST 2024
 # File:        updateMetadata.pl
 # Syntax:      Perl 5
 # Description: get data from telemann_metadata reference_records
@@ -26,7 +26,7 @@ if (-e ($filename)) {
     `rm $filename`;
     if (-e ($filename)) {
         print "ERROR!\n";
-        exit (1);
+        exit 1;
     } else {
         print "DONE!\n";
     }
@@ -43,7 +43,7 @@ if (-e ($filename)) {
     print "SUCCESS!\n";
 } else {
     print "ERROR!\n";
-    exit (1);
+    exit 1;
 }
 
 remove_header() if $header;
