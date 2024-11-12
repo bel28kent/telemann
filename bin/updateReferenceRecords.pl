@@ -64,9 +64,8 @@ sub hash_metadata {
     chomp (my @contents = `cat metadata/reference_records.tsv`);
     shift (@contents); # remove header
     foreach my $content (@contents) {
-        my $key = $content =~ m/tele.{+}\t/;
-        $key =~ s/\t//;
-        my $val = $content =~ s/tele.{+}\t//; 
+        chomp (my $key = `awk ' BEGIN { \$0 = "$content" ; print \$1 } '`);
+        my $val = $content =~ s/tele.+\t//r;
         $meta{$key} = $val;
     }
     return %meta;
