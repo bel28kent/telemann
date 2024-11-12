@@ -156,7 +156,7 @@ sub add_references {
     my $key = $_[1];
     my @meta = get_metadata($key);
     if (scalar (@meta) != scalar (@REF)) { exit 1; }
-    open (my $filehandle, ">", $path);
+    open (my $filehandle, ">>", $path);
     for (my $i = 0; $i < scalar (@REF); $i++) {
         if ($meta[$i] eq "NA") {
             next;
