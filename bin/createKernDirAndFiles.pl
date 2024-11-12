@@ -2,7 +2,7 @@
 
 # Programmer:  Bryan Jacob Bell
 # Begun:       Sun Nov 10 13:47:24 PST 2024
-# Modified:    Sun Nov 10 13:47:24 PST 2024
+# Modified:    Mon Nov 11 12:29:00 PST 2024
 # File:        createKernDirAndFiles.pl
 # Syntax:      Perl 5
 # Description: make a directory with kern files
