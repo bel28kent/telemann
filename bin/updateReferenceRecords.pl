@@ -153,8 +153,37 @@ sub search_uninitialized {
 # update metadata in each kern file in files_to_update
 sub update_metadata {
     foreach my $kern (@files_to_update) {
-        open (my $filehandle, "<", $kern);
-        my $key = readline ($filehandle);
-        my $metadatum = $metadata{$key};
+        my %references = get_references($kern);
+        chomp (my @contents = `cat $kern`);
+        my @new_contents;
+        foreach my $content (@contents) {
+            if (is_reference ($content)) {
+                #TODO
+            } else {
+                push (@new_contents, $content);
+            }
+        }
+        write_new_contents ($kern, \@new_contents);
     }
+}
+
+# get_references
+# String -> %
+# return a hash of key-val pairs for each $REF
+sub get_references {
+    #TODO
+}
+
+# is_reference
+# String -> 1 or 0
+# if string starts with !!! return 1, else 0
+sub is_reference {
+    #TODO
+}
+
+# write_new_contents
+# String @ -> void
+# write @ to file at String
+sub write_new_contents {
+    #TODO
 }
