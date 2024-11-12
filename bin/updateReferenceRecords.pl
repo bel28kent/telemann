@@ -107,6 +107,14 @@ sub get_references {
     return %references;
 }
 
+# get_ref_tag
+# String -> String
+# produce the tag of this reference record
+sub get_ref_tag {
+    my $ref_record = $_[0];
+    my $tag = $ref_record =~ s/:\s.*$//;
+    return $tag =~ s/!!!//;
+}
 
 #############
 # predicates
@@ -118,6 +126,18 @@ sub is_reference {
     my $record = $_[0];
     if ($record =~ m/^!!!/) {
         return 1;
+    }
+    return 0;
+}
+
+# member
+# String @ -> 1 or 0
+# if String is member of @, return 1, else 0
+sub member {
+    my $potential = $_[0];
+    my @list = @{$_[1]};
+    foreach my $first (@list) {
+        return 1 if ($potential eq $first);
     }
     return 0;
 }
@@ -201,17 +221,25 @@ sub search_uninitialized {
 # update metadata in each kern file in files_to_update
 sub update_metadata {
     foreach my $kern (@files_to_update) {
+        print "$kern . . .\n"
         my %references = get_references($kern);
         chomp (my @contents = `cat $kern`);
         my @new_contents;
         foreach my $content (@contents) {
             if (is_reference ($content)) {
-                #TODO
+                my $tag = get_ref_tag($content);
+                if (member ($tag, \@REF)) {
+                    my $new_ref = "!!!" . $tag . ": " . $references{$tag};
+                    push (@new_contents, $new_ref);
+                } else {
+                    push (@new_contents, $content);
+                }
             } else {
                 push (@new_contents, $content);
             }
         }
         write_new_contents ($kern, \@new_contents);
+        print "DONE!\n";
     }
 }
 
@@ -219,5 +247,17 @@ sub update_metadata {
 # String @ -> void
 # write @ to file at String
 sub write_new_contents {
-    #TODO
+    my $kern = $_[0];
+    my $to_write = @{$_[1]};
+    print "writing to temp.krn\n";
+    open (my $filehandle, ">", "temp.krn");
+    foreach my $line (@to_write) {
+        print $filehandle "$line\n";
+    }
+    close $filehandle;
+    print "closed temp.krn\n";
+    `rm $kern`;
+    print "removed $kern\n";
+    `mv temp.krn $kern`;
+    print "moved temp.krn to $kern\n";
 }
