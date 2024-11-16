@@ -12,7 +12,21 @@
 #    -v, only report works that have been verified in vhv
 #    -V, report vhv checking of all works
 #    -ev or -EV, report both
-#    -eV or Ev, error
 
 use strict;
 use warnings;
+use Getopt::Std;
+
+getopts('eEvV');
+
+my @encoding;
+my @vhv;
+
+report_encoding(0) if $opt_e;
+report_encoding(1) if $opt_E;
+
+report_vhv(0) if $opt_v;
+report_vhv(1) if $opt_V;
+
+#########################
+#    SUBROUTINES
