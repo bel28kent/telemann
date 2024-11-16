@@ -19,14 +19,26 @@ use Getopt::Std;
 
 getopts('eEvV');
 
-my @encoding;
-my @vhv;
-
-report_encoding(0) if $opt_e;
-report_encoding(1) if $opt_E;
-
-report_vhv(0) if $opt_v;
-report_vhv(1) if $opt_V;
+my @encoding = @{ report_encoding() };
+my @vhv = @{ report_vhv() };
 
 #########################
 #    SUBROUTINES
+
+# report_encoding
+# void -> \@
+# produce list of keys of encoded works
+sub report_encoding {
+    # TODO
+    my @keys;
+    return \@keys;
+}
+
+# report_vhv
+# void -> \@
+# produce list of keys of works checked in vhv
+sub report_vhv {
+    # TODO
+    my @keys;
+    return \@keys;
+}
