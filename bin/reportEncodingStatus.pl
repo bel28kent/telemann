@@ -19,26 +19,33 @@ use Getopt::Std;
 
 getopts('eEvV');
 
-my @encoding = @{ report_encoding() };
-my @vhv = @{ report_vhv() };
+chomp (my @encoding_data = `cat metadata/encoding_data.tsv`);
+
+my @encoding = @{ get_keys(2) };
+my @vhv = @{ get_keys(3) };
 
 #########################
 #    SUBROUTINES
 
-# report_encoding
-# void -> \@
-# produce list of keys of encoded works
-sub report_encoding {
-    # TODO
+# get_keys
+# 2 or 3 -> \@
+# produce a list of keys
+sub get_keys {
+    my $index = shift (@_);
     my @keys;
-    return \@keys;
-}
-
-# report_vhv
-# void -> \@
-# produce list of keys of works checked in vhv
-sub report_vhv {
-    # TODO
-    my @keys;
+    foreach my $datum (@encoding_data) {
+        my @fields = split (/\t/, $datum);
+        if ($index == 2) {
+            if ($opt_e && !$fields[$index]) {
+                next;
+            }
+        }
+        if ($index == 3) {
+            if ($opt_v && !$fields[$index]) {
+                next;
+            }
+        }
+        push (@keys, $fields[$index]);
+    }
     return \@keys;
 }
