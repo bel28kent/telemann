@@ -22,7 +22,7 @@ my $filename = "metadata/reference_records.tsv";
 print "Checking for existing metadata/reference_records.tsv . . . ";
 if (-e ($filename)) {
     print "EXISTS!\n";
-    print "Deleting existing metadata/reference-records.tsv . . . ";
+    print "Deleting existing metadata/reference_records.tsv . . . ";
     `rm $filename`;
     if (-e ($filename)) {
         print "ERROR!\n";
