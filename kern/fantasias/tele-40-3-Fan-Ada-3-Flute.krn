@@ -23,7 +23,7 @@
 *k[]
 *C:
 *M4/4
-*met(C)
+*met(c)
 =1-
 [4cc
 24ccLL]
@@ -35,12 +35,12 @@
 16.ddLL
 32f#XJk
 [8gJ
-24gLL]
+24g/LL]
 24dd
 24cc
 24b
 24a
-24gLL
+24gJJ
 =2
 16.eeLL
 32bJk
@@ -55,8 +55,8 @@
 32f#XJk
 8gJ
 8r
-16.ddLL
-32eeJJk
+16.ddL
+32eeJ
 !!LO:LB:g=original
 =3
 16ffnLL
@@ -109,7 +109,7 @@
 8ggL
 16.eL
 32ggJJk
-16eLL
+16e\LL
 16ee
 !TODO: trill +
 16ee
@@ -126,10 +126,10 @@
 32ccL
 32ddJJJ
 16eeLL
-32ddJ
+32ddL
 32ccJJJ
 16ffLL
-32eeJ
+32eeL
 32ddJJJ
 16ggLL
 16e
