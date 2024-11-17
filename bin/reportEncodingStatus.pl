@@ -2,7 +2,7 @@
 
 # Programmer:  Bryan Jacob Bell
 # Begun:       Sat Nov 16 11:46:46 PST 2024
-# Modified:    Sat Nov 16 11:46:46 PST 2024
+# Modified:    Sat Nov 16 16:10:01 PST 2024
 # File:        reportEncodingStatus.pl
 # Syntax:      Perl 5
 # Description: report status of encoding process
@@ -18,14 +18,37 @@ use warnings;
 use Getopt::Std;
 
 getopts('eEvV');
+verify_options();
 
 chomp (my @encoding_data = `cat metadata/encoding_data.tsv`);
 
-my @encoding = @{ get_keys(2) };
-my @vhv = @{ get_keys(3) };
+my @encoding;
+my @vhv;
+
+if (($opt_e || $opt_E) && !($opt_v || $opt_V)) {
+    @encoding = @{ get_keys(2) };
+    report(\@encoding);
+    exit 0;
+}
+if (($opt_v || $opt_V) && !($opt_e || $opt_E)) {
+    @vhv = @{ get_keys(3) };
+    report(\@vhv);
+    exit 0;
+}
+report(\@encoding, \@vhv);
+
 
 #########################
 #    SUBROUTINES
+
+# verify_options
+# void -> void
+# unless only one option is set, or both ev OR EV are set, exit
+sub verify_options {
+    # TODO
+    return 0;
+}
+
 
 # get_keys
 # 2 or 3 -> \@
@@ -48,4 +71,11 @@ sub get_keys {
         push (@keys, $fields[$index]);
     }
     return \@keys;
+}
+
+# report
+# \@, \@ -> void
+# report encoding AND/OR vhv checking
+sub report {
+    # TODO
 }
