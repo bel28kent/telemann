@@ -14,8 +14,8 @@ use Getopt::Long;
 my $last;
 my $next;
 
-GetOptions ("l|last=s" => \$last,
-            "n|next=s" => \$next);
+GetOptions ("l|last" => \$last,
+            "n|next" => \$next);
 
 chomp (my @encoding_data = `cat metadata/encoding_data.tsv`);
 shift (@encoding_data); # remove header
