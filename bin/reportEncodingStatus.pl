@@ -2,7 +2,7 @@
 
 # Programmer:  Bryan Jacob Bell
 # Begun:       Sat Nov 16 11:46:46 PST 2024
-# Modified:    Sat Nov 16 16:10:01 PST 2024
+# Modified:    Mon Nov 18 12:48:05 PST 2024
 # File:        reportEncodingStatus.pl
 # Syntax:      Perl 5
 # Description: report status of encoding process
