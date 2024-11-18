@@ -6,76 +6,68 @@
 # File:        reportEncodingStatus.pl
 # Syntax:      Perl 5
 # Description: report status of encoding process
-#
-#    -e, only report works that have been encoded
-#    -E, report encoding status of all works
-#    -v, only report works that have been verified in vhv
-#    -V, report vhv checking of all works
-#    -ev or -EV, report both
 
 use strict;
 use warnings;
-use Getopt::Std;
+use Getopt::Long;
 
-getopts('eEvV');
-verify_options();
+my $last;
+my $next;
+
+GetOptions ("l|last=s" => \$last,
+            "n|next=s" => \$next);
 
 chomp (my @encoding_data = `cat metadata/encoding_data.tsv`);
+shift (@encoding_data); # remove header
 
-my @encoding;
-my @vhv;
+unless ($last || $next) {
+    foreach my $datum (@encoding_data) {
+        my @fields = split (/\t/, $datum);
+        my $key = $fields[0];
+        my $encoded = $fields[2];
+        my $vhv_checked = $fields[3];
+        if ($encoded) {
+            if ($vhv_checked) {
+                printf "%s:\t%s\t%s\n", $key, "encoded", "vhv checked";
+            } else {
+                printf "%s:\t%s\t%s\n", $key, "encoded", "not checked";
+            }
+        }
+    }
+}
 
-if (($opt_e || $opt_E) && !($opt_v || $opt_V)) {
-    @encoding = @{ get_keys(2) };
-    report(\@encoding);
-    exit 0;
-}
-if (($opt_v || $opt_V) && !($opt_e || $opt_E)) {
-    @vhv = @{ get_keys(3) };
-    report(\@vhv);
-    exit 0;
-}
-report(\@encoding, \@vhv);
+report_last() if $last;
+report_next() if $next;
 
 
 #########################
 #    SUBROUTINES
 
-# verify_options
+# report_last
 # void -> void
-# unless only one option is set, or both ev OR EV are set, exit
-sub verify_options {
-    # TODO
-    return 0;
-}
-
-
-# get_keys
-# 2 or 3 -> \@
-# produce a list of keys
-sub get_keys {
-    my $index = shift (@_);
-    my @keys;
-    foreach my $datum (@encoding_data) {
+# print key of last encoded work
+sub report_last {
+    foreach my $datum (reverse (@encoding_data)) {
         my @fields = split (/\t/, $datum);
-        if ($index == 2) {
-            if ($opt_e && !$fields[$index]) {
-                next;
-            }
+        if ($fields[2]) {
+            print "$fields[0]\n";
+            exit 0;
         }
-        if ($index == 3) {
-            if ($opt_v && !$fields[$index]) {
-                next;
-            }
-        }
-        push (@keys, $fields[$index]);
     }
-    return \@keys;
 }
 
-# report
-# \@, \@ -> void
-# report encoding AND/OR vhv checking
-sub report {
-    # TODO
+# report_next
+# void -> void
+# print key of next work to encode
+sub report_next {
+    my $next = pop (@encoding_data);
+    foreach my $datum (reverse (@encoding_data)) {
+        my @fields = split (/\t/, $datum);
+        if ($fields[2]) {
+            $next =~ /(tele[^\t]+)/;
+            print "$1\n";
+            exit 0;
+        }
+        $next = $datum;
+    }
 }
