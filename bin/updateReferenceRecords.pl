@@ -2,7 +2,7 @@
 
 # Programmer:  Bryan Jacob Bell
 # Begun:       Sat Nov  9 20:42:53 PST 2024
-# Modified:    Tue Nov 19 14:45:44 PST 2024
+# Modified:    Tue Nov 19 14:54:06 PST 2024
 # File:        updateReferenceRecords.pl
 # Syntax:      Perl 5
 # Description: update reference records in kern files
@@ -69,7 +69,8 @@ sub get_key {
     chomp (my $key = readline ($filehandle));
     close ($filehandle);
     $key =~ /(tele[^\t]+)/;
-    return handle_single_digits($1);
+    # return handle_single_digits($1);
+    return $1;
 }
 
 # get_keys
@@ -115,36 +116,6 @@ sub get_ref_tag {
     my $ref_record = $_[0];
     $ref_record =~ /([\w\d\-@#]{3,})/;
     return $1;
-}
-
-
-#############
-# helpers
-
-# handle_single_digits 
-# String -> String
-# if single digit, add "0"
-# $1: tele-4[01]-
-# $2: [\d\w]\d?
-# $3: -\w{3}-[\w_]{3}-
-# $4: \d
-# $5: -.+$
-sub handle_single_digits {
-    my $key = shift (@_);
-    $key =~ /(tele-4[01]-)([\d\w]\d?)(-\w{3}-[\w_]{3}-)(\d)(-.+$)/;
-    my $new_2;
-    my $new_4;
-    if (length ($2) == 1) {
-        $new_2 = "0" . "$2";
-    } else {
-        $new_2 = $2;
-    }
-    if (length ($4) == 1) {
-        $new_4 = "0" . "$4";
-    } else {
-        $new_4 = $4;
-    }
-    return $1 . $new_2 . $3 . $new_4 . $5;
 }
 
 
@@ -214,7 +185,6 @@ sub hash_metadata {
     return %meta;
 }
 
-
 # initialize_files 
 # void -> void
 # foreach file that only contains !!key, add reference records from metadata
@@ -263,11 +233,11 @@ sub update_metadata {
         chomp (my @contents = `cat $kern`);
         my @new_contents;
         foreach my $content (@contents) {
-            if ($content =~ m/!!key:/) {
-                $kern =~ /(tele[^\.]+)/;
-                push (@new_contents, "!!key: " . $1);
-                next;
-            }
+#            if ($content =~ m/!!key:/) {
+#                $kern =~ /(tele[^\.]+)/;
+#                push (@new_contents, "!!key: " . $1);
+#                next;
+#            }
             if (is_reference ($content)) {
                 my $tag = get_ref_tag($content);
                 if (member($tag, \@REF)) {
@@ -302,4 +272,36 @@ sub write_new_contents {
     print "removed $kern\n";
     `mv temp.krn $kern`;
     print "moved temp.krn to $kern\n";
+}
+
+
+__DATA__
+
+#############
+# helpers
+
+# handle_single_digits 
+# String -> String
+# if single digit, add "0"
+# $1: tele-4[01]-
+# $2: [\d\w]\d?
+# $3: -\w{3}-[\w_]{3}-
+# $4: \d
+# $5: -.+$
+sub handle_single_digits {
+    my $key = shift (@_);
+    $key =~ /(tele-4[01]-)([\d\w]\d?)(-\w{3}-[\w_]{3}-)(\d)(-.+$)/;
+    my $new_2;
+    my $new_4;
+    if (length ($2) == 1) {
+        $new_2 = "0" . "$2";
+    } else {
+        $new_2 = $2;
+    }
+    if (length ($4) == 1) {
+        $new_4 = "0" . "$4";
+    } else {
+        $new_4 = $4;
+    }
+    return $1 . $new_2 . $3 . $new_4 . $5;
 }
