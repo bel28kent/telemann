@@ -2,7 +2,7 @@
 
 # Programmer:  Bryan Jacob Bell
 # Begun:       Sat Nov  9 20:42:53 PST 2024
-# Modified:    Tue Nov 19 14:03:59 PST 2024
+# Modified:    Tue Nov 19 14:45:44 PST 2024
 # File:        updateReferenceRecords.pl
 # Syntax:      Perl 5
 # Description: update reference records in kern files
@@ -263,9 +263,10 @@ sub update_metadata {
         chomp (my @contents = `cat $kern`);
         my @new_contents;
         foreach my $content (@contents) {
-            if ($content =~ m/!!:key/) {
+            if ($content =~ m/!!key:/) {
                 $kern =~ /(tele[^\.]+)/;
                 push (@new_contents, "!!key: " . $1);
+                next;
             }
             if (is_reference ($content)) {
                 my $tag = get_ref_tag($content);
