@@ -16,379 +16,379 @@
 !!!AGN: Fantasia
 !!!AMT: Compound quadruple
 !!!AIN: Transverse flute
-**kern
-*ICww
-*Iflt
-*clefG2
-*k[f#]
-*e:
-*M12/8
-=
-4.e`
-4.f#`
-8g
-8e
-8b
-8g
-8e
-8cc
-=
-8a
-8f#
-8cc
-8a
-8f#
-8b
-8g
-8e
-8g
-8b
-8g
-8b
-=
-8ee
-8ff#
-8gg
-4cc#X
-8aa
-8dd
-8ee
-8ff#
-4b
-8gg
+**kern	**dynam
+*ICww	*
+*Iflt	*
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M12/8	*
+=1	=1
+4.e`	.
+4.f#`	.
+8gL	.
+8e	.
+8bJ	.
+8gL	.
+8e	.
+8ccJ	.
+=2	=2
+8aL	.
+8f#	.
+8ccJ	.
+8aL	.
+8f#	.
+8bJ	.
+8gL	.
+8e	.
+8gJ	.
+8bL	.
+8g	.
+8bJ	.
+=3	=3
+8eeL	.
+8ff#	.
+8ggJ	.
+4cc#X	.
+8aa	.
+8ddL	.
+8ee	.
+8ff#J	.
+4b	.
+8gg	.
 !!LO:LB:g=original
-=
-8cc#X
-8dd
-8ee
-4aa#X
-8ff#
-4.b`
-4.cc#`
-=
-8dd
-8b
-8ff#
-8dd
-8b
-8gg
-8ee
-8cc#X
-8gg
-8ee
-8cc#
-8ff#
-=
-8dd
-8b
-8dd
-8ff#
-8dd
-8ff#
-8bb
-8ccc#X
-8ddd
-4b
-8a
+=4	=4
+8cc#XL	.
+8dd	.
+8eeJ	.
+4a#X	.
+8ff#	.
+4.b`	.
+4.cc#`	.
+=5	=5
+8ddL	.
+8b	.
+8ff#J	.
+8ddL	.
+8b	.
+8ggJ	.
+8eeL	.
+8cc#X	.
+8ggJ	.
+8eeL	.
+8cc#	.
+8ff#J	.
+=6	=6
+8ddL	.
+8b	.
+8ddJ	.
+8ff#L	.
+8dd	.
+8ff#J	.
+8bbL	.
+8ccc#X	.
+8dddJ	.
+4b	.
+8a	.
 !!LO:LB:g=original
-=
-8g#X
-8b
-8ee
-8dd
-8cc
-8b
-8aa
-8bb
-8ccc
-4a
-8gn
-=
-8f#
-8a
-8dd
-8cc
-8b
-8a
-8gg
-8ff#
-8gg
-8b
-8dd
-8gg
-=
-8gg
-8ff#
-8gg
-8cc
-8ee
-8gg
-8gg
-8ff#
-8gg
-8a
-8aa
-8gg
-=
-8ff#
-8aa
-8ddd
-4r
-8r
-4.g`
-4.a`
+=7	=7
+8g#XL	.
+8b	.
+8eeJ	.
+8ddL	.
+8cc	.
+8bJ	.
+8aaL	.
+8bb	.
+8cccJ	.
+4a	.
+8gn	.
+=8	=8
+8f#L	.
+8a	.
+8ddJ	.
+8ccL	.
+8b	.
+8aJ	.
+8ggL	.
+8ff#	.
+8ggJ	.
+8bL	.
+8dd	.
+8ggJ	.
+=9	=9
+8ggL	.
+8ff#	.
+8ggJ	.
+8ccL	.
+8ee	.
+8ggJ	.
+8ggL	.
+8ff#	.
+8ggJ	.
+8aL	.
+8aa	.
+8ggJ	.
+=10	=10
+8ff#L	.
+8aa	.
+8dddJ	.
+4r	.
+8r	.
+4.g`	.
+4.a`	.
 !!LO:LB:g=original
-=
-8b
-8g
-8dd
-8b
-8g
-8ee
-8cc
-8a
-8ee
-8cc
-8a
-8dd
-=
-8b
-8g
-8b
-8dd
-8b
-8dd
-8gg
-8ffn
-8ee
-4ff
-8ddd
-=
-8ee
-8dd
-8cc
-4dd
-8bb
-8cc
-8ee
-8aa
-4b
-8gg
+=11	=11
+8bL	.
+8g	.
+8ddJ	.
+8bL	.
+8g	.
+8eeJ	.
+8ccL	.
+8a	.
+8eeJ	.
+8ccL	.
+8a	.
+8ddJ	.
+=12	=12
+8bL	.
+8g	.
+8bJ	.
+8ddL	.
+8b	.
+8ddJ	.
+8ggL	.
+8ffn	.
+8eeJ	.
+4ff	.
+8ddd	.
+=13	=13
+8eeL	.
+8dd	.
+8ccJ	.
+4dd	.
+8bb	.
+8ccL	.
+8ee	.
+8aaJ	.
+4b	.
+8gg	.
 !!LO:LB:g=original
-=
-4a
-8ffn
-4g
-8ee
-8fn
-8a
-8dd
-4e
-8cc
-=
-8d
-8cc
-8b
-8cc
-8b
-8a
-8e
-8g#X
-8b
-4r
-8r
-=
-4.a`
-4.b`
-8cc
-8a
-8ee
-8cc
-8a
-8ffn
+=14	=14
+4a	.
+8ffn	.
+4g	.
+8ee	.
+8fnL	.
+8a	.
+8ddJ	.
+4e	.
+8cc	.
+=15	=15
+8dL	.
+8cc	.
+8bJ	.
+8ccL	.
+8b	.
+8aJ	.
+8eL	.
+8g#X	.
+8bJ	.
+4r	.
+8r	.
+=16	=16
+4.a`	.
+4.b`	.
+8ccL	.
+8a	.
+8eeJ	.
+8ccL	.
+8a	.
+8ffnJ	.
 !!LO:LB:g=original
-=
-8dd
-8b
-8ffn
-8dd
-8b
-8ee
-8dd
-8b
-8dd
-8ee
-8cc
-8ee
-=
-8aa
-8ee
-8aa
-4.ccc
-8bb
-8gg#X
-8aa
-8ee
-8aa
-8gg#
-=
-8a
-8b
-8cc
-8f#
-8g
-8a
-4d#X
-8ff#
-4b
-8a
+=17	=17
+8ddL	.
+8b	.
+8ffnJ	.
+8ddL	.
+8b	.
+8eeJ	.
+8ddL	.
+8b	.
+8ddJ	.
+8eeL	.
+8cc	.
+8eeJ	.
+=18	=18
+8aaL	.
+8ee	.
+8aaJ	.
+4.ccc	.
+8bbL	.
+8gg#X	.
+8aaJ	.
+8eeL	.
+8aa	.
+8gg#J	.
+=19	=19
+8aL	.
+8b	.
+8ccJ	.
+8f#L	.
+8g	.
+8aJ	.
+4d#X	.
+8ff#	.
+4b	.
+8a	.
 !!LO:LB:g=original
-=
-8ee
-8dd#X
-8ee
-8g
-8b
-8ee
-8ee
-8dd#
-8ee
-8a
-8cc
-8ee
-=
-8ee
-8dd#X
-8ee
-8f#
-8ff#
-8ee
-8dd#
-8cc#X
-8b
-4r
-8r
-=
-4.e`
-4.f#`
-8g
-8e
-8b
-8g
-8e
-8cc
+=20	=20
+8eeL	.
+8dd#X	.
+8eeJ	.
+8gL	.
+8b	.
+8eeJ	.
+8eeL	.
+8dd#	.
+8eeJ	.
+8aL	.
+8cc	.
+8eeJ	.
+=21	=21
+8eeL	.
+8dd#X	.
+8eeJ	.
+8f#L	.
+8ff#	.
+8eeJ	.
+8dd#L	.
+8cc#X	.
+8bJ	.
+4r	.
+8r	.
+=22	=22
+4.ee`	.
+4.ff#`	.
+8ggL	.
+8ee	.
+8bbJ	.
+8ggL	.
+8ee	.
+8cccJ	.
 !!LO:LB:g=original
-=
-8a
-8f#
-8cc
-8a
-8f#
-8b
-8g
-8e
-8g
-8b
-8g
-8b
-=
-4eee
-8gg
-4ff#
-8ddd
-8ee
-8gg
-8ccc
-4dd
-8bb
-=
-4cc
-8aa
-4b
-8gg
-8a
-8gg
-8ff#
-8gg
-8ff#
-8ee
+=23	=23
+8aaL	.
+8ff#	.
+8cccJ	.
+8aaL	.
+8ff#	.
+8bbJ	.
+8ggL	.
+8ee	.
+8ggJ	.
+8bbL	.
+8gg	.
+8bbJ	.
+=24	=24
+4eee	.
+8gg	.
+4ff#	.
+8ddd	.
+8eeL	.
+8gg	.
+8cccJ	.
+4dd	.
+8bb	.
+=25	=25
+4cc	.
+8aa	.
+4b	.
+8gg	.
+8aL	.
+8gg	.
+8ff#J	.
+8ggL	.
+8ff#	.
+8eeJ	.
 !!LO:LB:g=original
-=
-8b
-8dd#X
-8ee
-8ff#
-8gg
-8aa
-8ee
-8gg
-8ee
-8b
-8ff#
-8dd#
-=
-8r
-8r
-8e
-8cc
-8b
-8cc
-4d#X
-8cc
-8b
-8a#X
-8b
-=
-8r
-8r
-8e
-8cc
-8b
-8cc
-4d#X
-8cc
-8b
-8a#X
-8b
+=26	=26
+8bL	.
+8dd#X	.
+8eeJ	.
+8ff#L	.
+8gg	.
+8aaJ	.
+8eeL	.
+8gg	.
+8eeJ	.
+8bL	.
+8ff#	.
+8dd#J	.
+=27	=27
+8r	.
+8r	.
+8e	.
+8ccL	.
+8b	.
+8ccJ	.
+4d#X	.
+8cc	.
+8bL	.
+8a#X	.
+8bJ	.
+=28	=28
+8r	.
+8r	.
+8e	p
+8ccL	.
+8b	.
+8ccJ	.
+4d#X	.
+8cc	.
+8bL	.
+8a#X	.
+8bJ	.
 !!LO:LB:g=original
-=
-8r
-8a
-8b
-8cc
-8b
-8a
-8g
-8f#
-8e
-8b
-8f#
-8dd#X
-=
-8e
-8b
-8ee
-8b
-8dd#
-8ff#
-8ee
-8ff#
-8gg
-8b
-8dd#
-8ff#
-=
-8g
-8bb
-8ee
-8b
-8ff#
-8dd#X
-4.e
-4r
-8r
-==
-*-
+=29	=29
+8r	.
+8aaL	f
+8bbJ	.
+8cccL	.
+8bb	.
+8aaJ	.
+8ggL	.
+8ff#	.
+8eeJ	.
+8bL	.
+8ff#	.
+8dd#XJ	.
+=30	=30
+8e\L	.
+8b	.
+8eeJ	.
+8bL	.
+8dd#	.
+8ff#J	.
+8eeL	.
+8ff#	.
+8ggJ	.
+8bL	.
+8dd#	.
+8ff#J	.
+=31	=31
+8gL	.
+8bb	.
+8eeJ	.
+8bL	.
+8ff#	.
+8dd#XJ	.
+4.e	.
+4r	.
+8r	.
+==	==
+*-	*-
 !!!RTL1: G. PH. Telemann: Twelve Fantasias for Flute without Bass TWV 40:2-13
 !!!RPN1: D'Arcangelo, Rita
 !!!RMM1: Da Vinci Classics
