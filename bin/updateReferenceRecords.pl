@@ -263,6 +263,10 @@ sub update_metadata {
         chomp (my @contents = `cat $kern`);
         my @new_contents;
         foreach my $content (@contents) {
+            if ($content =~ m/!!:key/) {
+                $kern =~ /(tele[^\.]+)/;
+                push (@new_contents, "!!key: " . $1);
+            }
             if (is_reference ($content)) {
                 my $tag = get_ref_tag($content);
                 if (member($tag, \@REF)) {
