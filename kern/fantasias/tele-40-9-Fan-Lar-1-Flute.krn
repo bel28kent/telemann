@@ -16,289 +16,289 @@
 !!!AGN: Fantasia
 !!!AMT: Simple quadruple
 !!!AIN: Transverse flute
-**kern
-*ICww
-*Iflt
-*clefG2
-*k[f#]
-*e:
-*M4/4
-*met(c)
-=
-8ee
-16e
-16f#
-16g
-16ee
-16a
-16ee
-16b
-16ee
-8dd#X
-8r
-16dd#
-16ee
-=
-16ff#
-16b
-16a
-16cc
-16g
-16bb
-16f#
-16aa
-16e
-32gg
-32ff#
-8ee
-16r
-16ff#
-16gg
-16b
+**kern	**dynam
+*ICww	*
+*Iflt	*
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+8eeL	.
+16e	.
+16f#J	.
+16gL	.
+16ee	.
+16a	.
+16eeJ	.
+16bL	.
+16ee	.
+8dd#XJ	.
+8r	.
+16dd#L	.
+16eeJ	.
+=2	=2
+16ff#L	.
+16b	.
+16a	.
+16cccJ	.
+16gL	.
+16bb	.
+16f#	.
+16aaJ	.
+16eL	.
+32gg	.
+32ff#	.
+8eeJ	.
+16r	.
+16ff#L	.
+16gg	.
+16bJ	.
 !!LO:LB:g=original
-=
-16cc
-16aa
-(16ff#
-16gg)
-16b
-16ddd
-(16ff#
-16gg)
-16cc
-16aa
-(16ff#
-16gg)
-16b
-16ddd
-(16ff#
-16gg)
-=
-16a
-16ccc
-16f#
-16ccc
-16g
-16bb
-16cc#X
-16bb
-16dd
-16bb
-8aa
-16r
-16ccn
-16b
-16a
+=3	=3
+16ccL	.
+16aa	.
+(16ff#	.
+16gg)J	.
+16bL	.
+16ddd	.
+(16ff#	.
+16gg)J	.
+16ccL	p
+16aa	.
+(16ff#	.
+16gg)J	.
+16bL	.
+16ddd	.
+(16ff#	.
+16gg)J	.
+=4	=4
+16aL	f
+16ccc	.
+16f#	.
+16cccJ	.
+16gL	.
+16bb	.
+16cc#X	.
+16bbJ	.
+16ddL	.
+16bb	.
+8aaJ	.
+16r	.
+16ccnL	.
+16b	.
+16aJ	.
 !!LO:LB:g=original
-=
-16b
-16aa
-16gg
-16b
-16d
-16gg
-16ff#
-16a
-16g
-(16ff#
-16ee#X
-16een)
-(16dd#X
-16ddn
-16cc#X
-16b)
-=
-16f#
-(16bb
-16aa#X
-16aan)
-(16gg#X
-16ggn
-16ff#)
-16aa#X
-8bb
-16b
-16cc#X
-16dd
-16bb
-16ee
-16ccc#X
+=5	=5
+16bL	.
+16aa	.
+16gg	.
+16bJ	.
+16dL	.
+16gg	.
+16ff#	.
+16aJ	.
+16gL	.
+(16ff#	.
+16ee#X	.
+16een)J	.
+(16dd#XL	.
+16ddn	.
+16cc#X	.
+16b)J	.
+=6	=6
+16f#L	.
+(16bb	.
+16aa#X	.
+16aan)J	.
+(16gg#XL	.
+16ggn	.
+16ff#)	.
+16aa#XJ	.
+8bbL	.
+16b	.
+16cc#XJ	.
+16ddL	.
+16bb	.
+16ee	.
+16ccc#XJ	.
 !!LO:LB:g=original
-=
-16ff#
-16bb
-8aa#X
-8r
-16aa#
-16bb
-16ccc#X
-16ff#
-16ee
-16ccc#
-16dd
-16bb
-16cc#X
-16ccc#
-=
-16b
-32ddd
-32ccc#X
-8bb
-16r
-16ccc#
-16ddd
-16an
-16g#X
-16ffn
-16ee
-16bb
-16e
-16ddd
-16cccn
-16bb
+=7	=7
+16ff#L	.
+16bb	.
+8aa#XJ	.
+8r	.
+16aa#L	.
+16bbJ	.
+16ccc#XL	.
+16ff#	.
+16ee	.
+16ccc#J	.
+16ddL	.
+16bb	.
+16cc#X	.
+16ccc#J	.
+=8	=8
+16bL	.
+32ddd	.
+32ccc#X	.
+8bbJ	.
+16r	.
+16ccc#L	.
+16ddd	.
+16anJ	.
+16g#XL	.
+16ffn	.
+16ee	.
+16bbJ	.
+16eL	.
+16ddd	.
+16cccn	.
+16bbJ	.
 !!LO:LB:g=original
-=
-16a
-16ccc
-(16gg#X
-16aa)
-16r
-16bb
-16ccc
-16gn
-16f#
-16cc#X
-16dd
-16aa
-16d
-16cccn
-16bb
-16aa
-=
-16g
-16bb
-(16ff#
-16gg)
-16r
-16f#
-16g
-16bb
-16f#
-16aa
-16e
-16gg
-16b
-16ff#
-16g
-16bb
+=9	=9
+16aL	.
+16ccc	.
+(16gg#X	.
+16aa)J	.
+16r	.
+16bbL	.
+16ccc	.
+16gnJ	.
+16f#L	.
+16cc#X	.
+16dd	.
+16aaJ	.
+16dL	.
+16cccn	.
+16bb	.
+16aaJ	.
+=10	=10
+16gL	.
+16bb	.
+(16ff#	.
+16gg)J	.
+16r	.
+16f#L	.
+16g	.
+16bbJ	.
+16f#L	.
+16aa	.
+16e	.
+16ggJ	.
+16bL	.
+16ff#	.
+16g	.
+16bbJ	.
 !!LO:LB:g=original
-=
-16f#
-16aa
-16e
-16gg
-16b
-16ff#
-16g#X
-16bb
-16a
-16ccc
-16b
-16gg#X
-16cc
-16aa
-16a
-16aa
-=
-16dd#X
-16b
-16dd#
-16aa
-16r
-16bb
-16gg
-16ff#
-16gg
-16dd#
-16ee
-16g
-8b
-!TODO: trill +
-8ff#
+=11	=11
+16f#L	.
+16aa	.
+16e	.
+16ggJ	.
+16bL	.
+16ff#	.
+16g#X	.
+16bbJ	.
+16aL	.
+16ccc	.
+16b	.
+16gg#XJ	.
+16ccL	.
+16aa	.
+16a	.
+16aaJ	.
+=12	=12
+16dd#XL	.
+16b	.
+16dd#	.
+16aaJ	.
+16r	.
+16bbL	.
+16gg	.
+16ff#J	.
+16ggL	.
+16dd#	.
+16ee	.
+16gJ	.
+8bL	.
+!TODO: trill +	!
+8ff#J	.
 !!LO:LB:g=original
-=
-16ee
-16b
-16g
-16e
-16r
-16dd#X
-16ee
-16gg
-16a
-16ffn
-(16dd#
-16ee)
-16g
-16bb
-(16dd#
-16ee)
-=
-16a
-16ffn
-(16dd#X
-16ee)
-16g
-16bb
-(16dd#
-16ee)
-16f#X
-16aa
-16d#X
-16aa
-16e
-16gg
-16a#X
-16gg
+=13	=13
+16ee\L	.
+16b	.
+16g	.
+16eJ	.
+16r	.
+16dd#XL	.
+16ee	.
+16ggJ	.
+16aL	.
+16ffn	.
+(16dd#	.
+16ee)J	.
+16gL	.
+16bb	.
+(16dd#	.
+16ee)J	.
+=14	=14
+16aL	p
+16ffn	.
+(16dd#X	.
+16ee)J	.
+16gL	.
+16bb	.
+(16dd#	.
+16ee)J	.
+16f#XL	f
+16aa	.
+16d#X	.
+16aaJ	.
+16eL	.
+16gg	.
+16a#X	.
+16ggJ	.
 !!LO:LB:g=original
-=
-16b
-16gg
-8ff#
-16r
-16an
-16g#X
-16bb
-16a
-16ccc
-16b
-16bb
-16cc
-16aa
-16a
-16aa
-=
-16dd#X
-16b
-16dd#
-16aa
-16r
-16bb
-16gg
-16ff#
-16gg
-16dd#
-16ee
-16a
-8b
-!TODO: trill +
-8ff#
-=
-4ee
-4r
-2r
-==
-*-
+=15	=15
+16bL	.
+16gg	.
+8ff#J	.
+16r	.
+16anL	.
+16g#X	.
+16bbJ	.
+16aL	.
+16ccc	.
+16b	.
+16bbJ	.
+16ccL	.
+16aa	.
+16a	.
+16aaJ	.
+=16	=16
+16dd#XL	.
+16b	.
+16dd#	.
+16aaJ	.
+16r	.
+16bbL	.
+16gg	.
+16ff#J	.
+16ggL	.
+16dd#	.
+16ee	.
+16aJ	.
+8bL	.
+!TODO: trill +	!
+8ff#J	.
+=17	=17
+4ee	.
+4r	.
+2r	.
+==	==
+*-	*-
 !!!RTL1: G. PH. Telemann: Twelve Fantasias for Flute without Bass TWV 40:2-13
 !!!RPN1: D'Arcangelo, Rita
 !!!RMM1: Da Vinci Classics
