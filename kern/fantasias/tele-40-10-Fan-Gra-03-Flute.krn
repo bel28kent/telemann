@@ -16,6 +16,38 @@
 !!!AGN: Fantasia
 !!!AMT: Simple triple
 !!!AIN: Transverse flute
+**kern
+*ICww
+*Iflt
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/2
+=1
+4a#X
+2ccc#
+8bbL
+8aa#XJ
+4bb
+4ccc#
+=2
+4cc#
+4ee
+8dd#L
+8cc#J
+4dd#
+4ee
+=3
+4f#
+8gg#
+!TODO: trill +
+(2.ee
+8dd#L
+8ee)J
+=4
+1.dd#
+==
+*-
 !!!RTL1: G. PH. Telemann: Twelve Fantasias for Flute without Bass TWV 40:2-13
 !!!RPN1: D'Arcangelo, Rita
 !!!RMM1: Da Vinci Classics
