@@ -16,6 +16,131 @@
 !!!AGN: Fantasia
 !!!AMT: Simple triple or Compound one
 !!!AIN: Transverse flute
+**kern
+*ICww
+*Iflt
+*k[f#c#g#]
+*f#:
+*M3/8
+=1
+8cc#L
+16ddL
+16bJ
+8eeJ
+=2
+!TODO: trill +
+4cc#
+8b
+=3
+8aL
+16bL
+16g#J
+8cc#J
+=4
+!TODO: trill +
+4a
+8g#
+=5
+8f#L
+16ff#L
+16gg#J
+8aaJ
+=6
+8e#XL
+16gg#L
+16aaJ
+8bbJ
+=7
+8f#L
+16aaL
+16gg#
+16aa
+16bbJJ
+=8
+!TODO: trill +
+4.gg#
+!!LO:LB:g=original
+=9:||:
+8aaL
+8ee
+8ddJ
+=10
+16cc#LL
+16ddJJ
+4ee
+=11
+8bbL
+8ee
+8ddJ
+=12
+16cc#LL
+16bJJ
+4a
+=13
+16bLL
+16eJJ
+16ddLL
+16b
+16cc#
+16aJJ
+=14
+16bLL
+16eJJ
+16ddLL
+16b
+16cc#
+16aJJ
+=15
+8aaL
+8a
+16bL
+16g#JJ
+=16
+8.aL
+16bL
+16cc#
+16ddJJ
+!!LO:LB:g=original
+=17
+8cc#L
+16ff#L
+16dd#XJ
+8eeJ
+=18
+!TODO: trill +
+4dd#X
+8cc#
+=19
+8bL
+8gg#
+8ff#J
+=20
+!TODO: trill +
+8.ee#XL
+16ff#L
+16gg#
+16aaJJ
+=21
+8gg#L
+(16ddL
+16cc#)
+(16dd
+16cc#)JJ
+=22
+8bbL
+(16ddL
+16cc#)
+(16dd
+16cc#)JJ
+=23
+8aaL
+8ff#
+!TODO: trill +
+8ee#XJ
+=24
+4.ff#
+==:|
+*-
 !!!RTL1: G. PH. Telemann: Twelve Fantasias for Flute without Bass TWV 40:2-13
 !!!RPN1: D'Arcangelo, Rita
 !!!RMM1: Da Vinci Classics
