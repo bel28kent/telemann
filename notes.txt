@@ -1,0 +1,18 @@
+This file contains notes about the encoding procedure and maintenance of the
+telemann repo.
+
+#########################
+    FILES
+- README.md
+        Repo information
+
+#########################
+    DIRECTORIES
+- bin/
+        Contains scripts
+
+- kern/
+        Contains .krn files
+
+- metadata/
+        Contains reference-records.tsv
