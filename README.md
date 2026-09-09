@@ -23,3 +23,7 @@ The Telemann Corpus repository contains the following works (last updated 9 sep
         TWV 41:F4, D9, a6, d4, B6, A6, G9, e5, C5, e6
 - Sonate metodiche,
         TWV 41:g3, A3, e2, D3, a2, G4, h3, c3, E5, B5, d2, C3
+
+# Publications
+Bell, B.J. (under review). Telemann Corpus: 200 one- and two-voice instrumental
+movements from the German Baroque era.
