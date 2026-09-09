@@ -1,14 +1,19 @@
 **kern
 *M4/4
+*met(c)
 4r
 4e
+!! TODO: line below needs tremblement
 4cc#
+!! TODO: line below needs tremblement
 4gg
 =
 8d
 8ff#
 2.ff#
-=
+=||
+*M4/4
+*met(c)
 8r
 8dd
 8gg
@@ -102,9 +107,9 @@
 16f#
 16a
 8g#
-8dd
+(8dd
 8ee
-8dd
+8dd)
 =
 8r
 16bb
@@ -120,9 +125,9 @@
 16a
 =
 8d#
-8b
+(8b
 8cc
-8b
+8b)
 8r
 16ff#
 16aa
@@ -188,9 +193,9 @@
 8gg
 8e
 8a#
-8gg
+(8gg
 8ff#
-8ee
+8ee)
 =
 8r
 16aa#
@@ -198,9 +203,9 @@
 8ccc#
 8dd
 8b
-8ddd
+(8ddd
 8ccc#
-8bb
+8bb)
 =
 8e
 8ccc#
@@ -286,9 +291,9 @@
 16a
 16cc
 8f#
-8cc
+(8cc
 8b
-8a
+8a)
 =
 8r
 16aa
@@ -362,4 +367,5 @@
 8d
 4g
 4r
+==
 *-

@@ -56,6 +56,7 @@
 8ee
 8dd
 =
+!! TODO: line below needs tremblement
 4cc#
 8r
 8cc#
@@ -76,6 +77,7 @@
 8b
 8a
 =
+!! TODO: line below needs tremblement
 4g#
 8r
 8ee
@@ -125,13 +127,13 @@
 8aa
 =
 8dd
-8ff#
+(8ff#
 8ee#
-8ff#
-8bb
+8ff#)
+(8bb
 8aa#
 =
-8bb
+8bb)
 8ddd
 8bb
 8gg#
@@ -146,6 +148,7 @@
 8ee#
 =
 2cc#
+=:|:
 8r
 8gg#
 =
@@ -251,9 +254,9 @@
 8g#
 8dd#
 =
-16cc#
+(16cc#
 16b#
-8cc#
+8cc#)
 8r
 8ee
 8g#
@@ -294,6 +297,7 @@
 8ff#
 8gg#
 =
+!! TODO: line below needs tremblement
 2ee#
 8r
 8ff#
@@ -360,4 +364,5 @@
 8ee#
 =
 2ff#
+==:|
 *-
