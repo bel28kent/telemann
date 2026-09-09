@@ -1,8 +1,12 @@
 **kern
 *M4/4
+*met(c)
+*>[A,A1,A2,B,B1,B2]
+*>A
 4.d
 32dd
 32ee
+!! TODO: line below needs tremblement
 4.ee
 32dd
 32ee
@@ -10,6 +14,7 @@
 4.d
 16ff#
 16gg
+!! TODO: line below needs tremblement
 4.gg
 16ff#
 16gg
@@ -121,13 +126,24 @@
 32ff#
 8.ee
 16dd
+!! TODO: line below needs tremblement
 4.b
 8a
 =
+*>A1
+4.a
+8a
+8.a
+16g
+8.f#
+16e
+=:|
+*>A2
 *M3/8
 4a
 8aa
-=
+=||:|
+*>B
 8bb
 8bb
 8ff#
@@ -547,9 +563,11 @@
 16a
 =
 *M4/4
+*met(c)
 4.d
 16ff#
 16gg
+!! TODO: line below needs tremblement
 4.gg
 24ff#
 24gg
@@ -565,11 +583,13 @@
 4.e
 16gg
 16aa
+!! TODO: line below needs tremblement
 4.aa
 24gg
 24aa
 24bb
 =
+!! TODO: line below needs tremblement
 4.cc#
 8ee
 8.aa
@@ -615,8 +635,16 @@
 32bb
 8.aa
 16gg
+!! TODO: line below needs tremblement
 4.ee
 8dd
-=
+=||
+*>B1
+*M3/8
+4dd
+8aa
+=:|
+*>B2
 1dd
+==
 *-
