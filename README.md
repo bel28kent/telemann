@@ -26,4 +26,4 @@ The Telemann Corpus repository contains the following works (last updated 9 sep
 
 # Publications
 Bell, B.J. (under review). Telemann Corpus: 200 one- and two-voice instrumental
-movements from the German Baroque era.
+movements from the German Baroque era. Empirical Musicology Review.
