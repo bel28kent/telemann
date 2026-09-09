@@ -60,6 +60,7 @@
 8a
 4r
 =
+!! TODO: line below needs tremblement
 16dd
 16cc#
 4.dd
@@ -68,6 +69,7 @@
 16aa
 8.dd
 =
+!! TODO: line below needs tremblement
 16cc#
 16b
 4.cc#
@@ -139,10 +141,10 @@
 8e
 4r
 =
-4a
-4dd
-4cc#
-4ff#
+4a`
+4dd`
+4cc#`
+4ff#`
 =
 8dd
 8b
@@ -445,26 +447,28 @@
 8d#
 16r
 16cc#
+!! TODO: line below needs tremblement
 8.cc#
 32b
 32cc#
-16e
-16b
+16e`
+(16b
 16dd#
-16ee
-16a
-16cc#
+16ee)
+16a`
+(16cc#
 16dd#
-16ee
+16ee)
 =
-16g#
-16b
+16g#`
+(16b
 16dd#
-16ee
-16f#
-16a
+16ee)
+16f#`
+(16a
 16dd#
-16ee
+16ee)
 4e
 4r
+==
 *-
