@@ -1,5 +1,11 @@
 **kern
+*I"Flute
+*clefG2
+*k[]
+*C:
 *M4/4
+*met(c)
+!!!OMD: Adagio
 [4cc
 24cc]
 24gg
@@ -33,6 +39,7 @@
 16.dd
 32ee
 =
+!!LO:LB:g=original
 16ff
 16a
 !! TODO: line below needs tremblement
@@ -70,6 +77,7 @@
 32ff
 32gg
 =
+!!LO:LB:g=original
 8aa
 16.f
 32aa
@@ -109,6 +117,7 @@
 16aa
 16f
 =
+!!LO:LB:g=original
 !! TODO: line below needs tremblement
 16b
 32a

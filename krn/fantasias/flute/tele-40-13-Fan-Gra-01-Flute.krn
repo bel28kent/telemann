@@ -1,5 +1,10 @@
 **kern
+*I"Flute
+*clefG2
+*k[b-e-]
+*g:
 *M3/2
+!!!OMD: Grave
 2g
 (8ee-
 4.dd)
@@ -17,6 +22,7 @@
 =
 1.d
 =||
+!!!OMD: Allegro
 *M3/4
 8gg
 8dd
@@ -36,6 +42,7 @@
 16ee-
 16cc
 =
+!!LO:LB:g=original
 8dd
 8d
 8cc
@@ -88,6 +95,7 @@
 8ff
 8a
 =
+!!LO:LB:g=original
 8g
 8e
 8b-
@@ -138,6 +146,7 @@
 8g
 8e
 =
+!!LO:LB:g=original
 16aa
 16gg
 16ff
@@ -185,6 +194,8 @@
 4d
 4r
 =||
+!!LO:LB:g=original
+!!!OMD: Grave
 *M3/2
 2dd
 (8bb-
@@ -203,6 +214,7 @@
 =
 1.a
 =||
+!!!OMD: Allegro
 *M3/4
 8ddd
 8aa
@@ -230,6 +242,7 @@
 16ff
 16ee
 =
+!!LO:LB:g=original
 8ff
 8dd
 (8aa
@@ -271,6 +284,7 @@
 8ff
 8d
 =
+!!LO:LB:g=original
 8gg
 8e-
 8ff
@@ -316,6 +330,7 @@
 8dd
 8ee-)
 =
+!!LO:LB:g=original
 8f
 8a
 8cc
@@ -364,6 +379,7 @@
 8a
 8ccc
 =
+!!LO:LB:g=original
 8b-
 16ddd
 16ccc
@@ -411,6 +427,8 @@
 4d
 4r
 =||
+!!LO:LB:g=original
+!!!OMD: Dolce
 *M4/4
 *met(c)
 16f#
@@ -454,6 +472,7 @@
 16cc
 16gg
 =
+!!LO:LB:g=original
 16f
 16aa
 16dd
@@ -502,6 +521,8 @@
 16ff
 4r
 =||
+!!LO:LB:g=original
+!!!OMD: Allegro
 *M3/4
 16ff
 16ee-
@@ -534,6 +555,7 @@
 16ee-
 16dd
 =
+!!LO:LB:g=original
 16cc
 16b
 16cc

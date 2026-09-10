@@ -1,6 +1,11 @@
 **kern
+*I"Flute
+*clefG2
+*k[f#c#]
+*D:
 *M4/4
 *met(c)
+!!!OMD: Presto
 8dd
 16ee
 16ff#
@@ -36,6 +41,7 @@
 8b
 8a
 =
+!!LO:LB:g=original
 4dd
 4a
 4d
@@ -77,6 +83,7 @@
 8cc#
 8dd#
 =
+!!LO:LB:g=original
 4ee
 4e
 4e
@@ -116,6 +123,7 @@
 8b
 8a
 =
+!!LO:LB:g=original
 2dd
 4d
 8dd
@@ -154,6 +162,7 @@
 4g
 4a
 =
+!!LO:LB:g=original
 4b
 4dd
 4a
@@ -198,6 +207,7 @@
 8b
 8a
 =
+!!LO:LB:g=original
 4dd
 4a
 4d

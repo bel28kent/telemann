@@ -1,6 +1,11 @@
 **kern
+*I"Flute
+*clefG2
+*k[]
+*C:
 *M4/4
 *met(c)
+!!!OMD: Presto
 8cc
 =
 8ee
@@ -37,6 +42,8 @@
 4ccc
 4r
 =||
+!!LO:LB:g=original
+!!!OMD: Largo
 *M3/2
 (32ccqq
 32eeqq
@@ -63,6 +70,7 @@
 2.dd
 *M4/4
 *met(c)
+!!!OMD: Presto
 8r
 8g
 =||
@@ -75,6 +83,7 @@
 8b
 8g
 =
+!!LO:LB:g=original
 8cc
 8g
 8dd
@@ -100,6 +109,7 @@
 4gg
 4r
 =||
+!!!OMD: Dolce
 *M3/2
 (32gqq
 32bqq
@@ -113,6 +123,7 @@
 (4cc
 2a)
 =
+!!LO:LB:g=original
 (32gqq
 32f#qq
 2.g)
@@ -145,6 +156,7 @@
 4.d
 8ff#
 =
+!!LO:LB:g=original
 4.g
 16b
 16dd

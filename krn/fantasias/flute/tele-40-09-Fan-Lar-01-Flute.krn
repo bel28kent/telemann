@@ -1,6 +1,11 @@
 **kern
+*I"Flute
+*clefG2
+*k[f#]
+*e:
 *M4/4
 *met(c)
+!!!OMD: Largo
 8ee
 16e
 16f#
@@ -32,6 +37,7 @@
 16gg
 16b
 =
+!!LO:LB:g=original
 16cc
 16aa
 (16ff#
@@ -65,6 +71,7 @@
 16b
 16a
 =
+!!LO:LB:g=original
 16b
 16aa
 16gg
@@ -98,6 +105,7 @@
 16ee
 16ccc#
 =
+!!LO:LB:g=original
 16ff#
 16bb
 8aa#
@@ -130,6 +138,7 @@
 16ccc
 16bb
 =
+!!LO:LB:g=original
 16a
 16ccc
 (16gg#
@@ -164,6 +173,7 @@
 16g
 16bb
 =
+!!LO:LB:g=original
 16f#
 16aa
 16e
@@ -197,6 +207,7 @@
 !! TODO: line below needs tremblement
 8ff#
 =
+!!LO:LB:g=original
 16ee
 16b
 16g
@@ -231,6 +242,7 @@
 16a#
 16gg
 =
+!!LO:LB:g=original
 16b
 16gg
 8ff#

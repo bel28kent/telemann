@@ -1,5 +1,11 @@
 **kern
+*I"Flute
+*clefG2
+*k[b-e-]
+*B-:
 *M4/4
+*met(c)
+!!!OMD: Andante
 16.ff
 32b-
 =
@@ -39,6 +45,7 @@
 16.gg
 32bb-
 =
+!!LO:LB:g=original
 8cc#
 8eee
 16a
@@ -83,6 +90,7 @@
 16.ff
 32b-
 =
+!!LO:LB:g=original
 16gg
 16e-
 16d
@@ -132,6 +140,7 @@
 16a
 16ff
 =
+!!LO:LB:g=original
 (16ee-
 16dd)
 (16cc

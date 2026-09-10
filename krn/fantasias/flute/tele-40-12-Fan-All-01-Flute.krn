@@ -1,6 +1,11 @@
 **kern
+*I"Flute
+*clefG2
+*k[f#]
+*G:
 *M4/4
 *met(c)
+!!!OMD: Allegro
 16g
 16b
 16dd
@@ -35,6 +40,7 @@
 16ee
 16cc
 =
+!!LO:LB:g=original
 16g
 16b
 16dd
@@ -82,6 +88,7 @@
 16bb
 16gg
 =
+!!LO:LB:g=original
 16dd
 16ff#
 16aa
@@ -132,6 +139,7 @@
 16gg
 16aa
 =
+!!LO:LB:g=original
 16bb
 16g
 16f#
@@ -183,6 +191,7 @@
 16aa
 16b
 =
+!!LO:LB:g=original
 16gg
 16dd#
 16ee
@@ -232,6 +241,7 @@
 16gg
 16ee
 =
+!!LO:LB:g=original
 16ff#
 16dd
 16ee
@@ -281,6 +291,7 @@
 16bb
 16ccc
 =
+!!LO:LB:g=original
 16a
 16ff#
 16ccc
@@ -332,6 +343,7 @@
 16ff#
 16gg
 =
+!!LO:LB:g=original
 16g
 16gg
 16a
@@ -381,6 +393,7 @@
 16e
 16dd
 =
+!!LO:LB:g=original
 16f#
 16dd
 16d

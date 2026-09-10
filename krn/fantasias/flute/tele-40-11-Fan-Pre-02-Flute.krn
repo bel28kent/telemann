@@ -1,6 +1,11 @@
 **kern
+*I"Flute
+*clefG2
+*k[f#c#g#]
+*f#:
 *M4/4
 *met(c)
+!!!OMD: Presto
 4cc#
 4cc#
 =
@@ -34,6 +39,7 @@
 8gg#
 8ff#
 =
+!!LO:LB:g=original
 4ee#
 4gg#
 4cc#
@@ -67,6 +73,7 @@
 4dd
 4cc#
 =
+!!LO:LB:g=original
 2b#
 4gg#
 4ff#
@@ -98,6 +105,7 @@
 4aa
 4cc#
 =
+!!LO:LB:g=original
 4dd
 4bb
 4ee
@@ -132,6 +140,7 @@
 8ff#
 8gg#
 =
+!!LO:LB:g=original
 4aa
 4a
 4e
@@ -167,6 +176,7 @@
 4ff#
 4ccc#
 =
+!!LO:LB:g=original
 4ddd
 4b
 4f#
@@ -198,6 +208,7 @@
 4cc#
 4cc#
 =
+!!LO:LB:g=original
 4f#
 4f#
 4dd
@@ -226,6 +237,7 @@
 4cc#
 4b
 =
+!!LO:LB:g=original
 4a#
 4b
 4ff#
@@ -258,6 +270,7 @@
 4cc#
 4gg#
 =
+!!LO:LB:g=original
 4aa
 4ff#
 4cc#
@@ -290,6 +303,7 @@
 4gg#
 4cc#
 =
+!!LO:LB:g=original
 4r
 8gg#
 8aa

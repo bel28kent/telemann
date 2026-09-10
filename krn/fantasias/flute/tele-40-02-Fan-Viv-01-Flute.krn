@@ -1,5 +1,11 @@
 **kern
+*I"Flute
+*clefG2
+*k[f#c#g#]
+*A:
 *M4/4
+*met(c)
+!!OMD: Vivace
 [4a
 16a]
 16b
@@ -31,6 +37,7 @@
 16dd
 16b
 =
+!!LO:LB:g=original
 16cc#
 16ee
 16ff#
@@ -60,6 +67,7 @@
 8a
 4r
 =
+!!LO:LB:g=original
 !! TODO: line below needs tremblement
 16dd
 16cc#
@@ -95,6 +103,7 @@
 16b
 16a
 =
+!!LO:LB:g=original
 16d#
 16cc#
 16b
@@ -129,6 +138,7 @@
 16aa
 16ee
 =
+!!LO:LB:g=original
 16e
 16g#
 16b
@@ -155,6 +165,7 @@
 8b
 8a
 =
+!!LO:LB:g=original
 8ee
 8g#
 8aa
@@ -184,6 +195,7 @@
 8b
 8a
 =
+!!LO:LB:g=original
 8g#
 16dd
 32ee
@@ -219,6 +231,7 @@
 16cc#
 16dd
 =
+!!LO:LB:g=original
 16d
 16dd
 16cc#
@@ -253,6 +266,7 @@
 16cc#
 16dd
 =
+!!LO:LB:g=original
 16e
 16dd
 16cc#
@@ -290,6 +304,7 @@
 8e
 8gg#
 =
+!!LO:LB:g=original
 8a
 8gg
 8dd
@@ -320,6 +335,8 @@
 4a
 4r
 =
+!!LO:LB:g=original
+!!LO:TX:b:i:t=[f] adagio allegro
 [4aa
 24aa]
 24ee
@@ -335,6 +352,7 @@
 24a
 4r
 =
+!!LO:TX:b:i:t=[f] adagio allegro
 [4gg
 24gg]
 24ee
@@ -350,7 +368,9 @@
 24a
 4r
 =
+!!LO:LB:g=original
 32ff#
+!!LO:TX:b:i:t=adagio
 32cc#
 8.dd
 32ee
@@ -363,6 +383,7 @@
 32cc#
 8.dd
 =
+!!LO:TX:b:i:t=adagio allegro
 [4bb
 24bb]
 24ff#
@@ -378,6 +399,8 @@
 24b
 4r
 =
+!!LO:LB:g=original
+!!LO:TX:b:i:t=[f] adagio allegro
 [4aa
 24aa]
 24ff#
@@ -394,6 +417,7 @@
 4r
 =
 32gg#
+!!LO:TX:b:i:t=adagio
 32dd#
 8.ee
 32ff#
@@ -406,6 +430,8 @@
 32dd#
 8.ee
 =
+!!LO:LB:g=original
+!!LO:TX:b:i:t=adagio [allegro]
 16f#
 32dd
 32cc#
@@ -444,6 +470,7 @@
 16ee
 16aa
 =
+!!LO:LB:g=original
 8d#
 16r
 16cc#

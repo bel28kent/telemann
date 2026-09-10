@@ -1,5 +1,10 @@
 **kern
+*I"Flute
+*clefG2
+*k[f#]
+*G:
 *M6/4
+!!!OMD: Allegro
 8gg
 8ff#
 =
@@ -35,6 +40,7 @@
 2ee
 4dd
 =
+!!LO:LB:g=original
 4cc#
 4ee
 4a
@@ -71,6 +77,7 @@
 4gg
 4a
 =
+!!LO:LB:g=original
 8ff#
 8gg
 4aa
@@ -106,6 +113,7 @@
 4ff#
 4dd#
 =
+!!LO:LB:g=original
 4b
 2ee
 4b
@@ -146,6 +154,7 @@
 8gg
 2ff#
 =
+!!LO:LB:g=original
 4gg
 4cc#
 4dd

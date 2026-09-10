@@ -1,5 +1,10 @@
 **kern
+*I"Flute
+*clefG2
+*k[]
+*C:
 *M9/8
+!!!OMD: Allegro
 4.cc`
 4.a`
 4.dd`
@@ -26,6 +31,7 @@
 4cc
 8ee
 =
+!!LO:LB:g=original
 4a
 8ff
 4f
@@ -63,6 +69,7 @@
 8dd
 8b
 =
+!!LO:LB:g=original
 8cc
 8ee
 8gg
@@ -101,6 +108,7 @@
 4aa
 8a
 =
+!!LO:LB:g=original
 4ff
 8d
 4dd
@@ -138,6 +146,7 @@
 8aa
 8gg#
 =
+!!LO:LB:g=original
 8a
 8cc
 8ee
@@ -174,6 +183,7 @@
 8ff
 8ee
 =
+!!LO:LB:g=original
 4ddd
 8dd
 4bb
@@ -215,6 +225,7 @@
 8ff
 8dd
 =
+!!LO:LB:g=original
 8b-
 8dd
 8b-
@@ -251,6 +262,7 @@
 8bb
 8aa
 =
+!!LO:LB:g=original
 8ee
 8ff#
 8gg
@@ -286,6 +298,7 @@
 8f
 8ee
 =
+!!LO:LB:g=original
 4.dd#
 8b
 8g
@@ -322,6 +335,7 @@
 8aa
 8gg
 =
+!!LO:LB:g=original
 8d
 8ff
 8ee
@@ -361,6 +375,7 @@
 4gg
 8b
 =
+!!LO:LB:g=original
 8cc
 8b
 8cc
@@ -407,6 +422,7 @@
 8ccc
 4.r
 =
+!!LO:LB:g=original
 8g
 8b
 8dd

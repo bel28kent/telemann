@@ -1,5 +1,10 @@
 **kern
+*I"Flute
+*clefG2
+*k[f#]
+*e:
 *M12/8
+!!!OMD: Spirituoso
 4.e`
 4.f#`
 8g
@@ -33,6 +38,7 @@
 4b
 8gg
 =
+!!LO:LB:g=original
 8cc#
 8dd
 8ee
@@ -66,6 +72,7 @@
 4b
 8a
 =
+!!LO:LB:g=original
 8g#
 8b
 8ee
@@ -112,6 +119,7 @@
 4.g`
 4.a`
 =
+!!LO:LB:g=original
 8b
 8g
 8dd
@@ -148,6 +156,7 @@
 4b
 8gg
 =
+!!LO:LB:g=original
 4a
 8ff
 4g
@@ -179,6 +188,7 @@
 8a
 8ff
 =
+!!LO:LB:g=original
 8dd
 8b
 8ff
@@ -214,6 +224,7 @@
 4b
 8a
 =
+!!LO:LB:g=original
 8ee
 8dd#
 8ee
@@ -248,6 +259,7 @@
 8ee
 8ccc
 =
+!!LO:LB:g=original
 8aa
 8ff#
 8ccc
@@ -282,6 +294,7 @@
 8ff#
 8ee
 =
+!!LO:LB:g=original
 8b
 8dd#
 8ee
@@ -319,6 +332,7 @@
 8a#
 8b
 =
+!!LO:LB:g=original
 8r
 8aa
 8bb

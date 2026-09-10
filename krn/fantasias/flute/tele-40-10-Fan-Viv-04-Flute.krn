@@ -1,5 +1,10 @@
 **kern
+*I"Flute
+*clefG2
+*k[f#c#g#d#]
+*E:
 *M2/4
+!!!OMD: Vivace
 16gg#
 16aa
 =
@@ -35,6 +40,7 @@
 8a#
 8cc#
 =
+!!LO:LB:g=original
 8b
 16dd#
 16b
@@ -71,6 +77,7 @@
 16dd#
 16cc#
 =
+!!LO:LB:g=original
 8b
 (8ee
 8dd#)
@@ -106,6 +113,7 @@
 8ff#
 8dd#
 =
+!!LO:LB:g=original
 (4dd#
 8cc#)
 8gg#
@@ -142,6 +150,7 @@
 16dd
 16cc#
 =
+!!LO:LB:g=original
 8dd
 16ee
 16ff#
@@ -182,6 +191,7 @@
 8ff#
 8dd#
 =
+!!LO:LB:g=original
 4ee
 16gg#
 16aa

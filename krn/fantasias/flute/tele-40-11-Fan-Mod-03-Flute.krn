@@ -1,5 +1,10 @@
 **kern
+*I"Flute
+*clefG2
+*k[f#c#g#]
+*f#:
 *M3/8
+!!!OMD: Moderato
 8cc#
 16dd
 16b
@@ -37,6 +42,7 @@
 !! TODO: line below needs tremblement
 4.gg#
 =:|:
+!!LO:LB:g=original
 8aa
 8ee
 8dd
@@ -77,6 +83,7 @@
 16cc#
 16dd
 =
+!!LO:LB:g=original
 8cc#
 16ff#
 16dd#

@@ -1,5 +1,10 @@
 **kern
+*I"Flute
+*clefG2
+*k[]
+*a:
 *M2/4
+!!!OMD: Allegro
 8ee
 =
 8aa
@@ -42,6 +47,7 @@
 16g#
 8b
 =
+!!LO:LB:g=original
 16a
 16b
 16cc
@@ -81,6 +87,7 @@
 8r
 8bb
 =
+!!LO:LB:g=original
 16aa
 16gg
 16ff#
@@ -124,6 +131,7 @@
 8ee
 8dd
 =
+!!LO:LB:g=original
 8cc#
 8aa
 8r
@@ -166,6 +174,7 @@
 16cc
 16b
 =
+!!LO:LB:g=original
 8cc
 16a
 16g#
@@ -207,6 +216,7 @@
 8r
 8a
 =
+!!LO:LB:g=original
 8b-
 8b
 8cc

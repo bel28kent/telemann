@@ -1,6 +1,12 @@
 **kern
+*I"Flute
+*clefG2
+*k[b-e-]
+*g:
 *M4/4
 *met(c)
+!!!OMD: Presto
+!!LO:TX:a:t=[Minore]
 4dd
 =
 8gg
@@ -37,6 +43,7 @@
 4dd
 4gg
 =
+!!LO:LB:g=original
 4ddd
 4gg
 4ff#
@@ -81,6 +88,7 @@
 8bb-
 8aa
 =
+!!LO:LB:g=original
 4bb-
 8aa
 8gg
@@ -98,6 +106,10 @@
 8dd
 2gg)
 =:|:
+*kcancel
+*k[f#]
+*G:
+!!LO:TX:a:t=[Maggiore]
 8b
 8cc
 =
@@ -125,6 +137,7 @@
 8g
 8a
 =
+!!LO:LB:g=original
 (4.b
 8cc)
 (4.b
@@ -167,6 +180,7 @@
 8ee)
 8ee
 =
+!!LO:LB:g=original
 8ee
 8cc#
 8ee
@@ -211,6 +225,7 @@
 8aa
 8ddd
 =
+!!LO:LB:g=original
 8aa
 8ff#
 8aa
@@ -258,6 +273,7 @@
 8ff#
 8gg
 =
+!!LO:LB:g=original
 8aa
 8ff#
 8ee
@@ -305,6 +321,7 @@
 4ccc
 4ccc
 =
+!!LO:LB:g=original
 8ee
 8ccc
 8ccc
@@ -350,6 +367,7 @@
 8gg
 8ee
 =
+!!LO:LB:g=original
 8ff#
 8dd
 4aa
@@ -382,6 +400,10 @@
 =
 2.g
 =:|:
+*kcancel
+*k[b-e-]
+*g:
+!!LO:TX:a:t=[Minore]
 4b-
 =
 8gg
@@ -395,6 +417,7 @@
 4dd
 4gg
 =
+!!LO:LB:g=original
 4ddd
 4gg
 4ff#
@@ -436,6 +459,7 @@
 8bb-
 8aa
 =
+!!LO:LB:g=original
 4bb-
 8aa
 8gg

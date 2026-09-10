@@ -1,6 +1,11 @@
 **kern
+*I"Flute
+*clefG2
+*k[f#]
+*G:
 *M4/4
 *met(c)
+!!!OMD: Adagio
 4r
 4e
 !! TODO: line below needs tremblement
@@ -12,6 +17,7 @@
 8ff#
 2.ff#
 =||
+!!!OMD: Vivace
 *M4/4
 *met(c)
 8r
@@ -38,6 +44,7 @@
 16cc#
 16ee
 =
+!!LO:LB:g=original
 16dd
 16aa
 16gg
@@ -86,6 +93,7 @@
 16gg#
 16bb
 =
+!!LO:LB:g=original
 16aa
 16ccc#
 16bb
@@ -134,6 +142,7 @@
 8gg
 8ff#
 =
+!!LO:LB:g=original
 8gg
 16e
 16g
@@ -187,6 +196,7 @@
 8dd#
 8b
 =
+!!LO:LB:g=original
 8e
 16ee
 16ff#
@@ -229,6 +239,7 @@
 16b
 16dd
 =
+!!LO:LB:g=original
 8cc
 8ee
 8aa
@@ -282,6 +293,7 @@
 16ee
 16dd
 =
+!!LO:LB:g=original
 16cc
 16ee
 16cc
@@ -322,6 +334,7 @@
 16cc#
 16ee
 =
+!!LO:LB:g=original
 8dd
 8aa
 8ddd
