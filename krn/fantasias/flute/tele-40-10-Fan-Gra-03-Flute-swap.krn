@@ -1,0 +1,32 @@
+**kern
+*I"Flute
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/2
+!!!OMD: Grave
+4a#
+2ccc#
+8bb
+8aa#
+4bb
+4ccc#
+=
+4cc#
+4ee
+8dd#
+8cc#
+4dd#
+4ee
+=
+4f#
+8gg#
+!! TODO: line below needs tremblement
+(2.ee
+8dd#
+8ee)
+=
+1.dd#
+==
+*-
+!!!filter: autobeam
