@@ -2,7 +2,7 @@
 *I"Flute
 *clefG2
 *k[f#c#]
-#b:
+*b:
 *M6/8
 !!!OMD: Allegro
 8ff#
@@ -125,7 +125,7 @@
 8a
 8cc#
 8ee
-8g
+8gn
 8ee
 8g
 =
@@ -233,7 +233,7 @@
 8bb
 !!LO:LB:g=original
 =
-8e
+8ee
 [4aa#
 4aa#]
 8bb
