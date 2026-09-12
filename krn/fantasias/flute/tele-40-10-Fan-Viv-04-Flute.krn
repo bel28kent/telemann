@@ -8,10 +8,10 @@
 16gg#
 16aa
 =
-8bb
+8bbL
 8ee
 8ee
-8ee
+8eeJ
 =
 16ee
 16dd#
@@ -65,10 +65,10 @@
 16dd#
 16cc#
 =
-8b
+8bL
 8bb
 8b
-8b
+8bJ
 =
 !! TODO: line below needs tremblement
 4b
@@ -78,10 +78,10 @@
 16cc#
 !!LO:LB:g=original
 =
-8b
+8bL
 (8ee
 8dd#)
-(8gg#
+(8gg#J
 =
 8ff#)
 16gg#
@@ -98,10 +98,10 @@
 16dd#
 16ee
 =
-8ff#
+8ff#L
 8dd#
 8ee
-8cc#
+8cc#J
 =
 (4cc#
 8b#)
@@ -138,10 +138,10 @@
 16gg#
 16aa
 =
-8bb
+8bbL
 8ee
 8ee
-8ee
+8eeJ
 =
 !! TODO: line below needs tremblement
 16ee
@@ -171,7 +171,7 @@
 8cc#
 16ee
 16cc#
-8dd#
+8dd#X
 8ff#
 =
 8ee
@@ -198,10 +198,10 @@
 16bb
 16gg#
 =
-8ee
+8eeL
 8eee
 8ee
-8ee
+8eeJ
 =
 !! TODO: line below needs tremblement
 4ee
@@ -226,7 +226,7 @@
 4dd#
 =
 4.ee
-==
+==:|
 *-
 !!!filter: autobeam
 !!!filename: tele-40-10-Fan-Viv-04-Flute
