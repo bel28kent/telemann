@@ -16,7 +16,7 @@
 16.dd
 32f#
 [8g
-24g]
+24g]/
 24dd
 24cc
 24b
@@ -28,7 +28,7 @@
 [8cc
 24cc]
 24gg
-24ff
+24ffn
 24ee
 24dd
 24cc
@@ -40,7 +40,7 @@
 32ee
 !!LO:LB:g=original
 =
-16ff
+16ffn
 16a
 !! TODO: line below needs tremblement
 16g
@@ -69,7 +69,7 @@
 16a
 16.gg
 32ee
-8ff
+8ffn
 16r
 16gg
 !! TODO: line below needs tremblement
@@ -90,7 +90,7 @@
 8gg
 16.e
 32gg
-16e
+16e\
 16ee
 !! TODO: line below needs tremblement
 16ee
@@ -106,12 +106,12 @@
 16dd
 32cc
 32dd
-16ee
+16eeL
 32dd
-32cc
-16ff
+32ccJ
+16ffL
 32ee
-32dd
+32ddJ
 16gg
 16e
 16aa
@@ -146,11 +146,11 @@
 24a
 24g
 24f#
-16.ee
+16.ee-
 32cc
 8aa
 16r
-16ee
+16ee-
 16dd
 16cc
 =
