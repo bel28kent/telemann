@@ -1,676 +1,676 @@
-**kern
-*I"Flute
-*clefG2
-*k[f#c#]
-*D:
-*M4/4
-*met(c)
-*>[A,A1,A2,B,B1,B2]
-*>A
+**kern	**dynam
+*I"Flute	*
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M4/4	*
+*met(c)	*
+*>[A,A1,A2,B,B1,B2]	*
+*>A	*
 !!!OMD: Alla francese
 !!LO:TX:a:t=[Largo]
-4.d
-32dd
-32ee
+4.d	.
+32dd	.
+32ee	.
 !! TODO: line below needs tremblement
-4.ee
-32dd
-32ee
-=
-4.d
-16ff#
-16gg
+4.ee	.
+32dd	.
+32ee	.
+=	=
+4.d	.
+16ff#	.
+16gg	.
 !! TODO: line below needs tremblement
-4.gg
-16ff#
-16gg
-=
-4d
-8.aa
-16f#
-8.gg
-16e
-8.ff#
-16d
-=
-4ee
-4a
-32r
-32a
-32b
-32cc#
-32dd
-32ee
-32ff#
-32gg
-8.aa
-16gg
+4.gg	.
+16ff#	.
+16gg	.
+=	=
+4d	.
+8.aa	.
+16f#	.
+8.ggL	.
+16e	.
+8.ff#	.
+16dJ	.
+=	=
+4ee	.
+4a	.
+32r	.
+32a	.
+32b	.
+32cc#	.
+32dd	.
+32ee	.
+32ff#	.
+32gg	.
+8.aa	.
+16gg	.
 !!LO:LB:g=original
-=
-8.ff#
-16cc#
-4dd
-32r
-32b
-32cc#
-32dd
-32ee
-32ff#
-32gg
-32aa
-8.bb
-16aa
-=
-8.gg#
-16dd#
-4ee
-8.r
-16b
-8.cc#
-16g#
-=
-8.a
-48a
-48b
-48cc#
-8.f#
-48f#
-48g
-48a
-8.d
-16cc#
-8.dd
-16a#
+=	=
+8.ff#	.
+16cc#	.
+4dd	.
+32r	.
+32b	.
+32cc#	.
+32dd	.
+32ee	.
+32ff#	.
+32gg	.
+32aa	.
+8.bb	.
+16aa	.
+=	=
+8.gg#	.
+16dd#	.
+4ee	.
+8.r	.
+16bL	.
+8.cc#	.
+16g#J	.
+=	=
+8.a/	.
+48a	.
+48b	.
+48cc#	.
+8.f#	.
+48f#	.
+48gn	.
+48a	.
+8.dL	.
+16cc#	.
+8.dd	.
+16a#J	.
 !!LO:LB:g=original
-=
-8.b
-48b
-48cc#
-48dd
-8.g#
-48g#
-48a
-48b
-8.e
-16dd#
-8.ee
-16b
-=
-8.cc#
-16a
-4ff#
-8.g#
-16b
-8.ee
-16e
-=
-8.f#
-16a
-4dd
-8.e
-16g#
-8.cc#
-16e
-=
-8.d
-16cc#
-8.b
-16a
-8.d#
-16b
-8.a
-16ff#
+=	=
+8.b	.
+48b	.
+48cc#	.
+48dd	.
+8.g#	.
+48g#	.
+48an	.
+48b	.
+8.eL\	.
+16dd#	.
+8.ee	.
+16bJ	.
+=	=
+8.cc#	.
+16a	.
+4ff#	.
+8.g#L\	.
+16b	.
+8.ee	.
+16eJ	.
+=	=
+8.f#	.
+16a	.
+4dd	.
+8.eL	.
+16g#	.
+8.cc#	.
+16eJ	.
+=	=
+8.dL	.
+16cc#	.
+8.b	.
+16aJ	.
+8.d#L\	.
+16b	.
+8.a	.
+16ff#J	.
 !!LO:LB:g=original
-=
-8.e
-16g#
-4b
-8.r
-16dd
-8.cc#
-16b
-=
-8.aa
-32gg#
-32ff#
-8.ee
-16dd
+=	=
+8.e	.
+16g#	.
+4b	.
+8.r	.
+16ddnL	.
+8.cc#	.
+16bJ	.
+=	=
+8.aa	.
+32gg#	.
+32ff#	.
+8.ee	.
+16dd	.
 !! TODO: line below needs tremblement
-4.b
-8a
-=
-*>A1
-4.a
-8a
-8.a
-16g
-8.f#
-16e
-=:|
+4.b	.
+8a	.
+=	=
+*>A1	*
+4.a	.
+8a	.
+8.aL	.
+16g	.
+8.f#	.
+16eJ	.
+=:|	=:|
 !!LO:TX:a:t=[Allegro]
-*>A2
-*M3/8
-4a
-8aa
+*>A2	*
+*M3/8	*
+4a	.
+8aa	.
 !!LO:LB:g=original
-=||:|
-*>B
-8bb
-8bb
-8ff#
-=
-8gg
-16gg
-16aa
-8bb
-=
-8ee
-8aa
-8gg
-=
-16ff#
-16gg
-16ff#
-16ee
-16dd
-16ee
-=
-16ff#
-16aa
-16ff#
-16dd
-16cc#
-16ee
-=
-16dd
-16d
-16dd
-16ee
-16ff#
-16dd
-=
-16b
-16ff#
-16ee
-16bb
-16dd
-16bb
+=||:	=||:
+*>B	*
+8bbL	.
+8bb	.
+8ff#J	.
+=	=
+8ggL	.
+16gg	.
+16aa	.
+8bbJ	.
+=	=
+8eeL	.
+8aa	.
+8ggJ	.
+=	=
+16ff#L	.
+16gg	.
+16ff#	.
+16ee	.
+16ddk	.
+16eeJ	.
+=	=
+16ff#L	.
+16aa	.
+16ff#	.
+16dd	.
+16cc#k	.
+16eeJ	.
+=	=
+16ddL\	.
+16d	.
+16dd	.
+16ee	.
+16ff#k	.
+16ddJ	.
+=	=
+16bL	.
+16ff#	.
+16ee	.
+16bb	.
+16ddk	.
+16bbJ	.
 !!LO:LB:g=original
-=
-16cc#
-16dd
-16cc#
-16b
-16a
-16ff#
-=
-16b
-16gg
-16b
-16gg
-16f#
-16aa
-=
-16g
-16bb
-16g
-16a
-16b
-16ff#
-=
-16e
-16gg
-16a
-16ff#
-16g
-16ee
-=
-16f#
-16g
-16f#
-16e
-16d
-16ff#
-=
-16g
-16ff#
-16ee
-16dd
-16cc#
-16b
-=
-4a#
-16dd
-16ee
+=	=
+16cc#L	.
+16dd	.
+16cc#	.
+16b	.
+16ak	.
+16ff#J	.
+=	=
+16bL	.
+16gg	.
+16b	.
+16gg	.
+16f#k	.
+16aaJ	.
+=	=
+16gL	.
+16bb	.
+16g	.
+16a	.
+16bk	.
+16ff#J	.
+=	=
+16eL	.
+16gg	.
+16a	.
+16ff#	.
+16gk	.
+16eeJ	.
+=	=
+16f#L	.
+16g	.
+16f#	.
+16e	.
+16dk	.
+16ff#J	.
+=	=
+16gL	.
+16ff#	.
+16ee	.
+16dd	.
+16cc#k	.
+16bJ	.
+=	=
+4a#	.
+16dd	.
+16ee	.
 !!LO:LB:g=original
-=
-16ff#
-16dd
-16ff#
-16dd
-16gg
-16ee
-=
-16ff#
-16dd
-16ff#
-16dd
-16gg
-16ee
-=
-16ff#
-16dd
-16ff#
-16dd
-16ee
-16cc#
-=
-8dd
-8b
-16dd
-16ee
-=
-16ff#
-16dd
-16ff#
-16dd
-16gg
-16ee
-=
-16ff#
-16dd
-16ff#
-16dd
-16gg
-16ee
-=
-16ff#
-16dd
-16ff#
-16dd
-16ee
-16cc#
+=	=
+16ff#L	.
+16dd	.
+16ff#	.
+16dd	.
+16ggk	.
+16eeJ	.
+=	=
+16ff#L	.
+16dd	.
+16ff#	.
+16dd	.
+16ggk	.
+16eeJ	.
+=	=
+16ff#L	.
+16dd	.
+16ff#	.
+16dd	.
+16eek	.
+16cc#J	.
+=	=
+8ddL	.
+8bJ	.
+16dd	p
+16ee	.
+=	=
+16ff#L	.
+16dd	.
+16ff#	.
+16dd	.
+16ggk	.
+16eeJ	.
+=	=
+16ff#L	.
+16dd	.
+16ff#	.
+16dd	.
+16ggk	.
+16eeJ	.
+=	=
+16ff#L	.
+16dd	.
+16ff#	.
+16dd	.
+16eek	.
+16cc#J	.
 !!LO:LB:g=original
-=
-8dd
-8b
-8ff#
-=
-8e
-16gg
-16ff#
-16gg
-16e
-=
-8f#
-8aa#
-8f#
-=
-8g
-16bb
-16aa#
-8bb
-=
-8g#
-16bb
-16ccc#
-16ddd
-16bb
-=
-8a
-16ccc#
-16bb
-8ccc#
-=
-8a#
-16ccc#
-16ddd
-16bb
-16ccc#
+=	=
+8ddL	.
+8b	.
+8ff#J	f
+=	=
+8eL	.
+16gg	.
+16ff#	.
+16ggk	.
+16eJ	.
+=	=
+8f#L	.
+8aa#	.
+8f#J	.
+=	=
+8gL	.
+16bb	.
+16aa#	.
+8bbJ	.
+=	=
+8g#L	.
+16bb	.
+16ccc#	.
+16dddk	.
+16bbJ	.
+=	=
+8aL	.
+16ccc#	.
+16bb	.
+8ccc#J	.
+=	=
+8a#L	.
+16ccc#	.
+16ddd	.
+16bbk	.
+16ccc#J	.
 !!LO:LB:g=original
-=
-8b
-16ddd
-16ccc#
-8ddd
-=
-8ee
-16ccc#
-16aa#
-16bb
-16dd
-=
-16ee
-16gg
-8ff#
-8aa#
-=
-4b
-8dd
-=
-16f#
-16a
-16dd
-16aa
-8dd
-=
-16g
-16b
-16dd
-16bb
-8dd
-=
-16a
-16cc
-16g
-16b
-16f#
-16a
+=	=
+8bL	.
+16ddd	.
+16ccc#	.
+8dddJ	.
+=	=
+8eeL	.
+16ccc#	.
+16aa#	.
+16bbk	.
+16ddJ	.
+=	=
+16ee	.
+16gg	.
+8ff#L	.
+8aa#J	.
+=	=
+4b	.
+8dd	.
+=	=
+16f#L	.
+16a	.
+16dd	.
+16aa	.
+8ddJ	.
+=	=
+16gL	.
+16b	.
+16dd	.
+16bb	.
+8ddJ	.
+=	=
+16aL	.
+16ccn	.
+16g	.
+16b	.
+16f#k	.
+16aJ	.
 !!LO:LB:g=original
-=
-16g
-16b
-16a
-16g
-8b
-=
-16d#
-16f#
-16b
-16ff#
-8b
-=
-16e
-16g
-16b
-16gg
-8b
-=
-16f#
-16a
-16e
-16g
-16d#
-16f#
-=
-16e
-16g
-16f#
-16e
-8ee
-=
-8ff#
-8ff#
-8cc#
-=
-8dd
-16dd
-16ee
-8ff#
+=	=
+16gL	.
+16b	.
+16a	.
+16g	.
+8bJ	.
+=	=
+16d#L\	.
+16f#	.
+16b	.
+16ff#k	.
+8bJ	.
+=	=
+16eL	.
+16g	.
+16b	.
+16gg	.
+8bJ	.
+=	=
+16f#L	.
+16a	.
+16e	.
+16g	.
+16d#k	.
+16f#J	.
+=	=
+16eL	.
+16g	.
+16f#	.
+16e	.
+8eeJ	.
+=	=
+8ff#L	.
+8ff#	.
+8cc#J	.
+=	=
+8ddL	.
+16dd	.
+16ee	.
+8ff#J	.
 !!LO:LB:g=original
-=
-8b
-8ee
-8dd
-=
-8cc#
-8a
-16aa
-16f#
-=
-16bb
-16g
-16bb
-16g
-16ff#
-16a
-=
-16gg
-16b
-16gg
-16aa
-16bb
-16g
-=
-16ee
-16cc#
-16aa
-16a
-16gg
-16cc#
-=
-16ff#
-16ee
-8dd
-8aa
-=
-16b
-16aa
-16gg
-16ff#
-16ee
-16dd
+=	=
+8bL	.
+8ee	.
+8ddJ	.
+=	=
+8cc#L	.
+8aJ	.
+16aa	.
+16f#	.
+=	=
+16bbL	.
+16g	.
+16bb	.
+16g	.
+16ff#k	.
+16aJ	.
+=	=
+16ggL	.
+16b	.
+16gg	.
+16aa	.
+16bbk	.
+16gJ	.
+=	=
+16eeL	.
+16cc#	.
+16aa	.
+16a	.
+16ggk	.
+16cc#J	.
+=	=
+16ff#L	.
+16ee	.
+8dd	.
+8aaJ	.
+=	=
+16bL	.
+16aa	.
+16gg	.
+16ff#	.
+16eek	.
+16ddJ	.
 !!LO:LB:g=original
-=
-16a
-16ee
-16dd
-16cc#
-16f#
-16dd
-=
-16g
-16bb
-8a
-8cc#
-=
-4dd
-16ff#
-16gg
-=
-16aa
-16ff#
-16aa
-16ff#
-16bb
-16gg
-=
-16aa
-16ff#
-16aa
-16ff#
-16bb
-16gg
-=
-16aa
-16ff#
-16aa
-16ff#
-16gg
-16ee
-=
-8ff#
-8dd
-16ff#
-16gg
+=	=
+16aL	.
+16ee	.
+16dd	.
+16cc#	.
+16f#k	.
+16ddJ	.
+=	=
+16g	.
+16bb	.
+8aL	.
+8cc#J	.
+=	=
+4dd	.
+16ff#	.
+16gg	.
+=	=
+16aaL	.
+16ff#	.
+16aa	.
+16ff#	.
+16bbk	.
+16ggJ	.
+=	=
+16aaL	.
+16ff#	.
+16aa	.
+16ff#	.
+16bbk	.
+16ggJ	.
+=	=
+16aaL	.
+16ff#	.
+16aa	.
+16ff#	.
+16ggk	.
+16eeJ	.
+=	=
+8ff#L	.
+8ddJ	.
+16ff#	p
+16gg	.
 !!LO:LB:g=original
-=
-16aa
-16ff#
-16aa
-16ff#
-16bb
-16gg
-=
-16aa
-16ff#
-16aa
-16ff#
-16bb
-16gg
-=
-16aa
-16ff#
-16aa
-16ff#
-16gg
-16ee
-=
-8ff#
-8dd
-8f#
-=
-16g
-16b
-16dd
-16b
-16g#
-16ee
-=
-8a
-8ff#
-8a#
-=
-16b
-16dd
-16ff#
-16dd
-16b
-16gg
+=	=
+16aaL	.
+16ff#	.
+16aa	.
+16ff#	.
+16bbk	.
+16ggJ	.
+=	=
+16aaL	.
+16ff#	.
+16aa	.
+16ff#	.
+16bbk	.
+16ggJ	.
+=	=
+16aaL	.
+16ff#	.
+16aa	.
+16ff#	.
+16ggk	.
+16eeJ	.
+=	=
+8ff#L	.
+8dd	.
+8f#J	f
+=	=
+16gL	.
+16b	.
+16dd	.
+16b	.
+16g#k	.
+16eeJ	.
+=	=
+8aL	.
+8ff#	.
+8a#J	.
+=	=
+16bL	.
+16dd	.
+16ff#	.
+16dd	.
+16bk	.
+16ggJ	.
 !!LO:LB:g=original
-=
-8cc#
-8aa
-8cc#
-=
-16dd
-16ff#
-16aa
-16ff#
-16dd
-16ff#
-=
-8g
-16ee
-16cc#
-16dd
-16f#
-=
-16g
-16dd
-8a
-8cc#
-=
-16dd
-16a
-16ff#
-16dd
-16aa
-16ff#
-=
-16ddd
-16aa
-16ff#
-16dd
-16aa
-16ff#
-=
-16dd
-16ff#
-16a
-16dd
-16f#
-16a
+=	=
+8cc#L	.
+8aa	.
+8cc#J	.
+=	=
+16ddL	.
+16ff#	.
+16aa	.
+16ff#	.
+16ddk	.
+16ff#J	.
+=	=
+8gL	.
+16ee	.
+16cc#	.
+16ddk	.
+16f#J	.
+=	=
+16gL	.
+16dd	.
+8a	.
+8cc#J	.
+=	=
+16ddL	.
+16a	.
+16ff#	.
+16dd	.
+16aak	.
+16ff#J	.
+=	=
+16dddL	.
+16aa	.
+16ff#	.
+16dd	.
+16aak	.
+16ff#J	.
+=	=
+16ddL	.
+16ff#	.
+16a	.
+16dd	.
+16f#k	.
+16aJ	.
 !!LO:LB:g=original
-=
+=||	=||
 !!LO:TX:a:t=[Largo]
-*M4/4
-*met(c)
-4.d
-16ff#
-16gg
+*M4/4	*
+*met(c)	*
+4.d	.
+16ff#	.
+16gg	.
 !! TODO: line below needs tremblement
-4.gg
-24ff#
-24gg
-24aa
-=
-4.d#
-8ccc
-8.bb
-16aa
-8.gg
-16ff#
-=
-4.e
-16gg
-16aa
+4.gg	.
+24ff#	.
+24gg	.
+24aa	.
+=	=
+4.d#	.
+8ccc	.
+8.bbL	.
+16aa	.
+8.gg	.
+16ff#J	.
+=	=
+4.e	.
+16gg	.
+16aa	.
 !! TODO: line below needs tremblement
-4.aa
-24gg
-24aa
-24bb
-=
+4.aa	.
+24gg	.
+24aa	.
+24bb	.
+=	=
 !! TODO: line below needs tremblement
-4.cc#
-8ee
-8.aa
-16f#
-8.gg
-16e
-=
-8.ff#
-16dd
-4bb
-8.cc#
-16ee
-8.aa
-16a
+4.cc#	.
+8ee	.
+8.aaL	.
+16f#	.
+8.gg	.
+16eJ	.
+=	=
+8.ff#	.
+16dd	.
+4bb	.
+8.cc#L	.
+16ee	.
+8.aa	.
+16aJ	.
 !!LO:LB:g=original
-=
-8.b
-16dd
-4gg
-8.a
-16cc#
-8.ff#
-16f#
-=
-8.g
-16ff#
-8.ee
-16dd
-8.g#
-16ee
-8.dd
-16bb
-=
-8.a
-16cc#
-4ee
-8.r
-16gg
-8.ff#
-16ee
-=
-8.ddd
-32ccc#
-32bb
-8.aa
-16gg
+=	=
+8.b	.
+16dd	.
+4gg	.
+8.aL	.
+16cc#	.
+8.ff#	.
+16f#J	.
+=	=
+8.gL	.
+16ff#	.
+8.ee	.
+16ddJ	.
+8.g#L	.
+16ee	.
+8.dd	.
+16bbJ	.
+=	=
+8.a	.
+16cc#	.
+4ee	.
+8.r	.
+16ggL	.
+8.ff#	.
+16eeJ	.
+=	=
+8.ddd	.
+32ccc#	.
+32bb	.
+8.aa	.
+16gg	.
 !! TODO: line below needs tremblement
-4.ee
-8dd
-=||
+4.ee	.
+8dd	.
+=||	=||
 !!LO:TX:a:t=[Allegro]
-*>B1
-*M3/8
-4dd
-8aa
-=:|
-*>B2
-1dd
-==
-*-
+*>B1	*
+*M3/8	*
+4dd	.
+8aa	.
+=:|	=:|
+*>B2	*
+1dd	.
+==	==
+*-	*-
 !!!filter: autobeam
 !!!filename: tele-40-08-Fan-All-01-Flute
