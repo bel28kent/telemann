@@ -1,0 +1,197 @@
+**kern	**dynam
+*I"Violin	*
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+!!!OMD: Largo
+*^	*
+4G	4r	.
+4g	4b`	.
+4f#	4b`	.
+=	=	=
+4e	4b`	.
+4e	4b`	.
+4d	4b`	.
+=	=	=
+2c 2e	2b	.
+*v	*v	*
+4r	.
+=	=
+*^	*
+4c#	4e	.
+4r	4a	.
+4r	4g	.
+=	=	=
+4d	4f#	.
+4r	4dd	.
+4r	4cc	.
+=	=	=
+8g`L	8b`L	.
+(8g	(8b	.
+8g	8b	.
+8g)J	8b)J	.
+!!LO:TX:a:i:t=[tr]
+(8g	(12b	.
+.	12a	.
+8g)	.	.
+.	12b)	.
+=	=	=
+8dL	8r	.
+(8f#	(8ccL	.
+8f#	8cc	.
+8f#)J	8cc)J	.
+(8f#	(12ccT	.
+.	12b	.
+8f#)	.	.
+.	12cc)	.
+!!LO:LB:g=original
+=	=	=
+8GL	8r	.
+(8g	(8bL	.
+8f#	8a	.
+8g)J	8b)J	.
+8r	8gg	.
+8f#	8cc	.
+=	=	=
+8GL	8r	p
+(8g	(8bL	.
+8f#	8a	.
+8g)J	8b)J	.
+8r	8gg	.
+8f#	8cc	.
+=	=	=
+8GL	8r	f
+(8g	(8bL	.
+8g	8b	.
+8g	8b	.
+8g	8b	.
+8g)J	8b)J	.
+=	=	=
+8g	8b	.
+8a	8cc	.
+4.gT	4.bt	.
+8f#	8a	.
+=	=	=
+8g	8b	.
+8a	8cc	.
+2gT	2bt	.
+=	=	=
+2d 2f#	2a	.
+*v	*v	*
+4r	.
+=	=
+*^	*
+4d	4r	.
+4dd`	4ff#`	.
+4cc#`	4ff#`	.
+=	=	=
+4b	4ff#	.
+4b	4ff#	.
+4a	4ff#	.
+=	=	=
+2g 2b	2ff#;	.
+*v	*v	*
+4r	.
+!!LO:LB:g=original
+=	=
+*^	*
+4g#	4b	.
+4r	4ee	.
+4r	4dd	.
+=	=	=
+4a	4cc#	.
+4r	4aa	.
+4r	4gg	.
+=	=	=
+8dd`L	8ff#`L	.
+(8dd	(8ff#	.
+8dd	8ff#	.
+8dd)J	8ff#)J	.
+(8dd	(12ff#t	.
+.	12ee	.
+8dd)	.	.
+.	12ff#)	.
+=	=	=
+8aL	8r	.
+(8cc#	(8ggL	.
+8cc#	8gg	.
+8cc#)J	8gg)J	.
+(8cc#	(12ggT	.
+.	12ff#	.
+8cc#)	.	.
+.	12gg)	.
+=	=	=
+8dL	8r	.
+(8dd	(8ff#L	.
+8cc#	8ee	.
+8dd)J	8ff#)J	.
+8r	8aa	.
+8cc#	8gg	.
+=	=	=
+8dL	8r	p
+(8dd	(8ff#L	.
+8cc#	8ee	.
+8dd)J	8ff#)J	.
+8r	8aa	.
+8cc#	8gg	.
+=	=	=
+8dL	8r	f
+(8dd	(8ff#L	.
+8dd	8ff#	.
+8dd	8ff#	.
+8dd	8ff#	.
+8dd)J	8ff#)J	.
+!!LO:LB:g=original
+=	=	=
+8dd	8ff#	.
+8ee	8gg	.
+4.ddT	4.ff#t	.
+8cc#	8ee	.
+=	=	=
+8dd	8ff#	.
+8ee	8gg	.
+2ddT	2ff#t	.
+=	=	=
+8cc#	4ee	.
+8a	.	.
+8e	4r	.
+8c#	.	.
+8A	8r	.
+8cc#	8gg	.
+=	=	=
+8dd	4ff#	.
+8a	.	.
+8f#	4r	.
+8d	.	.
+8A	8r	.
+8dd	8ff#	.
+=	=	=
+8ee	4gg	.
+8cc#	.	.
+8a	4r	.
+8e	.	.
+8A	8r	.
+8cc#	8aa	.
+=	=	=
+8dd	4ff#	.
+8d	.	.
+8g	4cc#	.
+8e	.	.
+8f#	4dd	.
+8d	.	.
+=	=	=
+8g	4b	.
+8e	.	.
+8c#	4a	.
+8e	.	.
+8A	4g	.
+8c#	.	.
+=	=	=
+2.d	2.f#	.
+*v	*v	*
+==	==
+*-	*-
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-15-Fan-01-Lar-Violin
