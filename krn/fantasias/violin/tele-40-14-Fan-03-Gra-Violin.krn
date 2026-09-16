@@ -1,0 +1,138 @@
+**kern
+*I"Violin
+*clefG2
+*k[b-e-]
+*g:
+*M3/2
+!!!OMD: Grave
+2G
+2dd
+2g
+=
+*^
+2f#	2r
+2r	(4dd
+.	4ee-)
+2g	(4ee-
+.	4dd)
+=	=
+2a	(4dd
+.	4cc#)
+2f#	4cc
+.	(8b-
+.	8a)
+2d	4dd
+.	4cc
+=	=
+(4g	(4b-
+4f#)	4a)
+(4g	(4b-
+4f#)	4a)
+4g	4b-
+4f`	4b`
+=	=
+(4e-	(4cc
+4d)	4b)
+(4e-	(4cc
+4d)	4b)
+4e-	4cc
+4e`	4cc#`
+=	=
+2f	2dd
+2r	2aa
+2g	2dd
+!!LO:LB:g=original
+=	=
+2a	2cc#
+2r	(4aa
+.	4bb-)
+2dd	(4bb-
+.	4aa)
+=	=
+2ee	(4aa
+.	4gg#)
+2cc#	4gg
+.	(8ff
+.	8een)
+2a	4aa
+.	4gg
+=	=
+(4dd	(4ff
+4cc#)	4ee)
+(4dd	(4ff
+4cc#)	4ee)
+2dd	[2ff
+=	=
+2g 2b-	4ff]
+.	4gg
+2a	2.eet
+2r	.
+.	4dd
+=	=
+2d	2dd
+2b	4gg
+.	4ff
+2r	4ee-X
+.	4dd
+=	=
+2c 2g	2ee-
+4g	2b
+4f	.
+4e-	2r
+4d	.
+=	=
+2e-	2cc
+2a	4ff
+.	4ee-
+2r	4dd
+.	4cc
+!!LO:LB:g=original
+=	=
+2B- 2f	2dd
+4f	2a
+4e-	.
+4d	2r
+4c	.
+=	=
+2d	2b-
+4d	2f#
+4c	.
+4B-	2r
+4A	.
+=	=
+2B-	2g
+2r	2dd
+2c	2g
+=	=
+2d	2f#
+2r	(4dd
+.	4ee-)
+2g	(4ee-
+.	4dd)
+=	=
+2a	(4dd
+.	4cc#)
+2f#	4cc
+.	(8b-
+.	8a)
+2d	4dd
+.	4cc
+=	=
+(4g	(4b-
+4f#)	4a)
+(4g	(4b-
+4f#)	4a)
+2g	[2b-
+=	=
+2c 2e-	4b-]
+.	4cc
+2d	2.at
+2r	.
+.	4g
+=	=
+1.G	1.g
+!!LO:TX:b:i:t=Si replica l'allegro
+==	==
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-14-Fan-03-Gra-Violin
