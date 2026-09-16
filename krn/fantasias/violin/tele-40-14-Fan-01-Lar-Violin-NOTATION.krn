@@ -111,7 +111,7 @@
 8ggJ	.
 =	=
 *^	*
-4e. 4.cc	4.bb-	.
+4.e 4.cc	4.bb-	.
 *v	*v	*
 (12gg	.
 12aa)	.
@@ -330,7 +330,7 @@
 12a	.
 12g	.
 12f)	.
-(12ee-	.
+(12ee-X	.
 12dd	.
 12cc)	.
 =	=
@@ -370,4 +370,4 @@
 *-	*-
 !!!filter: autobeam
 !!!filter: flipper -a
-!!!filename: tele-40-14-Fan-01-Lar-Violin
+!!!filename: tele-40-14-Fan-01-Lar-Violin-NOTATION

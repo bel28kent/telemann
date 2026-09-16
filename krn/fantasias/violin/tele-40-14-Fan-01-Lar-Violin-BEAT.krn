@@ -1,0 +1,385 @@
+**kern	**dynam
+*I"Violin	*
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+!!!OMD: Largo
+4B-	.
+(8.dd	.
+16ee-)	.
+4dd	.
+=	=
+4A	.
+(8.dd	.
+16ee-)	.
+4dd	.
+=	=
+4G	.
+(8ddL	.
+8cc)	.
+(8cc	.
+8b-)J	.
+=	=
+8e-	.
+8gg	.
+*^	*
+4f	8aL	.
+.	(8gg	.
+*v	*v	*
+8ff	.
+8ee-)J	.
+=	=
+4B-	p
+(8.dd	.
+16ee-)	.
+4dd	.
+=	=
+4A	.
+(8.dd	.
+16ee-)	.
+4dd	.
+=	=
+4G	.
+(8ddL	.
+8cc)	.
+(8cc	.
+8b-)J	.
+!!LO:LB:g=original
+=	=
+8e-	.
+8gg	.
+*^	*
+4f	8aL	.
+.	(8gg	.
+*v	*v	*
+8ff	.
+8ee-)J	.
+=	=
+4B-	f
+8bb-L	.
+8dd	.
+8cc	.
+8b-J	.
+=	=
+*^	*
+4f	4cc	.
+*v	*v	*
+(12bb-	.
+12aa	.
+12gg)	.
+(8gg	.
+8aa)	.
+=	=
+*^	*
+4f#	4a	.
+*v	*v	*
+8aaL	.
+8cc	.
+8b-	.
+8aJ	.
+=	=
+*^	*
+4g	4b-	.
+*v	*v	*
+(12aa	.
+12gg	.
+12ff#)	.
+(8ff#	.
+8gg)	.
+=	=
+(8cL	.
+8e	.
+8g)	.
+8b`	.
+8cc	.
+8eeJ	.
+=	=
+(8cL	.
+8e	.
+8f)	.
+8a`	.
+8cc	.
+8ffJ	.
+!!LO:LB:g=original
+=	=
+(8cL	.
+8e	.
+8g)	.
+8cc`	.
+8ee	.
+8ggJ	.
+=	=
+*Xtuplet	*
+*^	*
+[4e [4cc	[4bb-	.
+12e] 12cc]	12bb-]	.
+*v	*v	*
+(12ggL	.
+12aa)J	.
+(12bb-	.
+12aa	.
+12gg)	.
+=	=
+*tuplet	*
+(12aa	.
+12gg	.
+12ff)	.
+(12gg	.
+12ff	.
+12ee)	.
+8ff	.
+8a	.
+=	=
+*Xtuplet	*
+*^	*
+[4G [4e	[4b-	.
+12G] 12e]	12b-]	.
+*v	*v	*
+(12gL	.
+12a)J	.
+(12b-	.
+12a	.
+12g)	.
+=	=
+*tuplet	*
+(12a	.
+12g	.
+12f)	.
+4.et	.
+8f	.
+=	=
+4f	.
+8a-	.
+16g	.
+16f	.
+8g	.
+8a-	.
+!!LO:LB:g=original
+=	=
+*^	*
+4B	4d	.
+*v	*v	*
+8ddL	.
+8f	.
+8e-	.
+8dJ	.
+=	=
+*^	*
+4c	8e-L	.
+.	(8cc	.
+*v	*v	*
+8cc	.
+8cc)J	.
+(12ee-	.
+12dd	.
+12cc)	.
+=	=
+8A-L	.
+(8cc	p
+8cc	.
+8cc)J	.
+(12ee-	.
+12dd	.
+12cc)	.
+=	=
+8e-L	.
+(8cc	pp
+8cc	.
+8cc)J	.
+(12ee-	.
+12dd	.
+12cc)	.
+=	=
+8f	f
+16aa-	.
+16gg	.
+(12ff	.
+12gg	.
+12ee-)	.
+(12dd	.
+12ee-	.
+12cc)	.
+=	=
+*Xtuplet	*
+*^	*
+[4G [4f	[4b	.
+12G] 12f]	12b]	.
+*v	*v	*
+(12ddL	.
+12ee-)J	.
+(12ff	.
+12ee-	.
+12dd)	.
+=	=
+*tuplet	*
+(12ee-	.
+12dd	.
+12cc)	.
+*^	*
+4G	4d	.
+*v	*v	*
+4b	.
+!!LO:LB:g=original
+=	=
+4cc	.
+(16c	.
+16d	.
+16e-	.
+16f	.
+8g)	.
+8B-	.
+=	=
+8A	.
+8cc	.
+(4.e-T	.
+16d	.
+16e-)	.
+=	=
+*^	*
+4B-	4d	.
+*v	*v	*
+(16b-	.
+16cc	.
+16dd	.
+16ee-	.
+8ff)	.
+8a	.
+=	=
+*^	*
+4g	4b-	.
+*v	*v	*
+(16g	.
+16a	.
+16b-	.
+16cc	.
+8dd)	.
+8f	.
+=	=
+*^	*
+4c	8eL	.
+.	8ggJ	.
+*v	*v	*
+(4.b-T	.
+16a	.
+16b-)	.
+=	=
+*^	*
+4f	8aL	.
+.	8ffJ	.
+*v	*v	*
+(4.at	.
+16g	.
+16a)	.
+!!LO:LB:g=original
+=	=
+*^	*
+4e	8b-L	.
+.	8ggJ	.
+*v	*v	*
+(4.b-T	.
+16a	.
+16b-)	.
+=	=
+*^	*
+4f	8aL	.
+.	(16f	.
+.	16g)J	.
+*v	*v	*
+8a	.
+(16a	.
+16b-)	.
+8cc	.
+(16cc	.
+16dd)	.
+=	=
+*Xtuplet	*
+*^	*
+[4A [4f	[4ee-	.
+12A] 12f]	12ee-]	.
+*v	*v	*
+(12ggL	.
+12ff)J	.
+(12ee-	.
+12dd	.
+12cc)	.
+=	=
+*tuplet	*
+8.bb-	.
+16b-	.
+*^	*
+2f	2ccT	.
+*v	*v	*
+=	=
+8b-	p
+8gg	.
+(4.b-T	.
+16a	.
+16b-)	.
+=	=
+*^	*
+4f	8aL	.
+.	8ffJ	.
+*v	*v	*
+(4.at	.
+16g	.
+16a)	.
+=	=
+*^	*
+4e	8b-L	.
+.	8ggJ	.
+*v	*v	*
+(4.b-T	.
+16a	.
+16b-)	.
+!!LO:LB:g=original
+=	=
+*^	*
+4f	(12a`L	f
+.	12cc	.
+.	12b-J	.
+*v	*v	*
+12a	.
+12g	.
+12f)	.
+(12ee-X	.
+12dd	.
+12cc)	.
+=	=
+12dd`	.
+(12ff	.
+12ee-	.
+12dd	.
+12cc	.
+12b-)	.
+(12aa-	.
+12gg	.
+12ff)	.
+=	=
+8gg	.
+(16ee-	.
+16dd)	.
+8ee-	.
+(16gg	.
+16ff)	.
+8gg	.
+(16bb-	.
+16aan)	.
+=	=
+4bb-	.
+4b-	.
+8r	.
+8dd	.
+=	=
+8e-	.
+8gg	.
+*^	*
+2f	2ccT	.
+=	=	=
+2.B- 2.f	2.b-	.
+*v	*v	*
+==	==
+*-	*-
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-14-Fan-01-Lar-Violin-BEAT
