@@ -1,5 +1,10 @@
 **kern
+*I"Violin
+*clefG2
+*k[f#]
+*G:
 *M2/4
+!!!OMD: Allegro
 12gg
 12ff#
 =
@@ -17,25 +22,29 @@
 12a
 12g
 =
-4cc
-4b
-=
-12a
-12g
-12f#
-12g
-12a
-12b
-=
-4cc
-4b
-=
-12a
-12dd
-12ff#
-12dd
-12ff#
-12aa
+*^
+4f#	4cc
+4g	4b
+=	=
+4.d	12a
+.	12g
+.	12f#
+.	12g
+.	12a
+8ryy	.
+.	12b
+=	=
+4f#	4cc
+4g	4b
+=	=
+4.d	12aL
+.	12dd
+.	12ff#J
+.	12ddL
+.	12ff#
+8ryy	.
+.	12aaJ
+*v	*v
 =
 12ff#
 12dd
@@ -43,6 +52,7 @@
 12dd
 12a
 12cc
+!!LO:LB:g=original
 =
 12b
 12g
@@ -65,10 +75,13 @@
 12ee
 12ff#
 =
-4ee
-4cc#
-=
-4.dd
+*^
+4G 4e 4b	4ee
+4A 4e	4cc#
+=	=
+4.d	4.dd
+*v	*v
+=:|:
 12ff#
 12gg
 =
@@ -82,14 +95,17 @@
 12aa
 12ff#
 12dd
-4bb
-=
-4aa
-4ff#
-=
-12gg
-12ff#
-12gg
+*^
+4b	4bb
+=	=
+4cc#	4aa
+4dd#	4ff#t
+!!LO:LB:g=original
+=	=
+4ee	12ggL
+.	12ff#
+.	12ggJ
+*v	*v
 12gg
 12ff#
 12ee
@@ -104,16 +120,18 @@
 12f#
 12e
 12d
-4cc
-=
-4b
-12a
-12g
-12f#
-=
-12g
-12b
-12dd
+*^
+4e	4cc
+=	=
+4d	4b
+4c	12a
+.	12g
+.	12f#
+=	=
+4B	12gL
+.	12b
+.	12ddJ
+*v	*v
 12b
 12dd
 12gg
@@ -128,12 +146,16 @@
 12ff#
 12ee
 12dd
-4gg
-=
-4a
-4ff#
-=
-4.gg
+*^
+4b	4gg
+=	=
+4d	4a
+4cc	4ff#
+=	=
+4.G 4.d 4.b	4.gg
+*v	*v
+==:|
 *-
 !!!filter: autobeam
+!!!filter: flipper -a
 !!!filename: tele-40-15-Fan-03-All-Violin
