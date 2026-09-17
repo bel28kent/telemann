@@ -1,0 +1,671 @@
+**kern
+*I"Violin
+*clefG2
+*k[f#]
+*G:
+*M3/8
+!!!OMD: Allegro
+4.dd
+=
+4.b
+=
+8eeL
+8cc
+8aJ
+=
+8f#L
+8d
+8ccJ
+=
+*^
+8bL	4.gg
+8g	.
+8cc#J	.
+=	=
+8ddL	4.ff#
+8d	.
+8ddJ	.
+=	=
+4.g	8dd 8bbL
+.	8gg
+.	8eeJ
+=	=
+4.a	8cc#L
+.	8a
+.	8ggJ
+=	=
+8d 8a	8ff#
+8r	(16ddL
+.	32ee
+.	32ff#)J
+8a	(16eeL
+.	32ff#
+.	32gg)J
+=	=
+8d 8a	8ff#
+8r	(16ddL
+.	32ee
+.	32ff#)J
+8a	(16eeL
+.	32ff#
+.	32gg)J
+!!LO:LB:g=original
+=	=
+4d 4a	8ff#L
+.	8bb
+8r	8bbJ
+=	=
+8ddL	4bb
+(16cc#	.
+16dd)	.
+(16cc#	8r
+16b)J	.
+=	=
+4cc#	8eeL
+.	8aa
+8r	8aaJ
+=	=
+8ccnL	4aa
+(16b	.
+16cc)	.
+(16b	8r
+16a)J	.
+=	=
+4b	8aaL
+.	(16gg
+.	16ff#)
+8r	(16ee
+.	16dd)J
+=	=
+8e 8bL	4gg
+8b	.
+8gJ	8r
+=	=
+8bL	4gg
+8g	.
+8eJ	8r
+=	=
+4A 4e 4cc#	4gg
+*v	*v
+8r
+=
+(24dL\
+24dd
+24ff#)J
+(24dL\
+24dd
+24ff#)J
+(24dL
+24ee
+24gg)J
+!!LO:LB:g=original
+=
+(24dL\
+24ff#
+24aa)J
+(24dL\
+24ff#
+24aa)J
+(24dL
+24gg
+24bb)J
+=
+(24dL\
+24dd
+24ff#)J
+(24dL\
+24dd
+24ff#)J
+(24dL
+24ee
+24gg)J
+=
+(24dL\
+24ff#
+24aa)J
+(24dL\
+24ff#
+24aa)J
+(24dL
+24gg
+24bb)J
+=
+*^
+(16ff#L	(16aaL
+16gg)	16bb)
+(16ff#	(16aa
+16gg)	16bb)
+(16ff#	(16aa
+16gg)J	16bb)J
+=	=
+4ff#	8aaL
+.	8dddJ
+8r	8r
+=	=
+4.a	(8ff#L
+.	16ee)
+.	16gg`
+.	(16ff#
+.	16ee)J
+!!LO:LB:g=original
+=	=
+(8f#L	4.dd
+16d)	.
+16cc`	.
+(16b	.
+16a)J	.
+=	=
+8bL	4.gg
+8g	.
+8bJ	.
+=	=
+8ccL	4.ee
+8c	.
+8ccJ	.
+=	=
+4.f	8cc 8aaL
+.	8ff
+.	8ddJ
+=	=
+4.g	8bL
+.	8g
+.	8ffJ
+=	=
+8c 8g	8ee
+8r	(16ccL
+.	32dd
+.	32ee)J
+8g	(16ddL
+.	32ee
+.	32ff)J
+=	=
+8c 8g	8ee
+8r	(16ccL
+.	32dd
+.	32ee)J
+8g	(16ddL
+.	32ee
+.	32ff)J
+=	=
+8c 8g	8eeL
+8r	8aa
+8r	8aaJ
+=	=
+8ccL	4aa
+(16b	.
+16cc)	.
+(16b	8r
+16a)J	.
+!!LO:LB:g=original
+=	=
+4b	(16aaL
+.	16ff#)
+.	8gg
+8r	8ggJ
+=	=
+8b-L	4gg
+(16a	.
+16b-)	.
+(16a	8r
+16g)J	.
+=	=
+4a	8ggL
+.	(16ff
+.	16ee)
+8r	(16dd
+.	16cc)J
+=	=
+8dL	4a 4ff
+8a	.
+8fJ	8r
+=	=
+8dL	4a 4ff
+8f	.
+8dJ	8r
+=	=
+4G 4d 4b	4ff
+*v	*v
+8r
+=
+(24eeL
+24dd
+24cc)J
+(24ffL
+24ee
+24dd)J
+(24ggL
+24ff
+24ee)J
+=
+(24aaL
+24gg
+24ff)J
+(24bbL
+24aa
+24gg)J
+8ccc
+!!LO:LB:g=original
+=
+*^
+8eL	8ccL
+8f	8dd
+8gJ	8bJ
+=	=
+8c 8g	8ccL
+8r	8ee
+8b	8ggJ
+=	=
+8a	8r
+8r	8ff#L
+8cc	8eeJ
+*v	*v
+=
+16b`L
+(16dd#
+16ee
+16ff#
+16gg
+16ff#)J
+=
+16g`L
+(16dd#
+16ee
+16ff#
+16gg
+16ff#)J
+=
+16ccL
+16ee
+16a
+16cc
+16f#
+16aJ
+=
+16d#L
+16f#
+16B
+16ff#
+16a
+16ff#J
+=
+*^
+8g	8bL
+8r	(16ee
+.	16dd#)
+8cc	8eeJ
+*v	*v
+=
+16aL
+16ff#J
+*^
+4b	4ff#t
+!!LO:LB:g=original
+=	=
+*^	*
+8e\	4b/	8eeL
+8re	.	(16gg
+.	.	16ff#
+*v	*v	*
+8re	16ee
+.	16dd)J
+=	=
+8a	8cc#L
+8re	(16ee
+.	16cc#
+8re	16dd
+.	16ee)J
+=	=
+*^	*
+8d\	4a/	8ff#L
+8re	.	(16ff#
+.	.	16ee
+*v	*v	*
+8re	16dd
+.	16cc#)J
+=	=
+8g	8bL
+8r	(16dd
+.	16b
+8r	16cc#
+.	16dd)J
+=	=
+8e	8cc#L
+8re	(16ee
+.	16dd
+8re	16cc#
+.	16b)J
+*v	*v
+=
+8ff#L
+16a#
+16cc#
+16a#
+16f#J
+=
+8ddL
+16B
+16d
+16f#
+16bJ
+!!LO:LB:g=original
+=
+16ggL
+16bb
+16ee
+16gg
+16cc#
+16eeJ
+=
+16a#L
+16cc#
+16f#
+16a#
+16ee
+16ggJ
+=
+*^
+8dd	8ff#L
+8r	(16bb
+.	16aa#)
+8r	8bbJ
+=	=
+8cc#	8eeL
+8r	(16bb
+.	16aa#)
+8r	8bbJ
+*v	*v
+=
+(24ddL
+24cc#
+24b)J
+(24eeL
+24dd
+24cc#)J
+(24ff#L
+24ee
+24dd)J
+=
+(24ggL
+24ff#
+24ee)J
+(24aa#L
+24gg#
+24ff#)J
+8bb
+=
+*^
+8e	8cc#
+4f#	4cc#t
+!!LO:LB:g=original
+=	=
+4B 4f#	8bL
+.	(16dd
+.	16cc#
+*v	*v
+16dd)
+16f#`J
+=
+(16g#L
+16dd)
+(16ee
+16dd)
+(16bb
+16dd)J
+=
+8AL
+(16cc
+16b
+16cc)
+16e`J
+=
+(16f#L
+16cc)
+(16b
+16cc)
+(16aa
+16cc)J
+=
+*^
+8bL	4.gg
+8g	.
+8cc#J	.
+=	=
+8ddL	4.ff#
+8d	.
+8ddJ	.
+=	=
+4.g	8dd 8bbL
+.	8gg
+.	8eeJ
+=	=
+4.a	8cc#L
+.	8a
+.	8ggJ
+=	=
+4.dd	16ff#`L
+.	(16aa
+.	16gg
+.	16ff#
+.	16ee
+.	16dd)J
+!!LO:LB:g=original
+=	=
+4.b	16gg`L
+.	(16dd
+.	16cc
+.	16b
+.	16a
+.	16g)J
+*v	*v
+=
+(24eeL
+24ff#
+24gg)J
+(24ccL
+24dd
+24ee)J
+(24aL
+24b
+24cc)J
+=
+(24f#L
+24g
+24a)J
+16dL
+16f#
+16a
+16ccJ
+=
+*^
+8G 8d	8b
+8r	(16gL
+.	32a
+.	32b)J
+8d	(16aL
+.	32b
+.	32cc)J
+=	=
+8G 8d	8b
+8r	(16gL
+.	32a
+.	32b)J
+8d	(16aL
+.	32b
+.	32cc)J
+=	=
+8G 8d	8bL
+8r	8ee
+8r	8eeJ
+=	=
+8gL	4ee
+(16f#	.
+16g)	.
+(16f#	8r
+16e)J	.
+!!LO:LB:g=original
+=	=
+4f#	8aL
+.	8dd
+8r	8ddJ
+=	=
+8fL	4dd
+(16e	.
+16f)	.
+(16e	8r
+16d)J	.
+=	=
+4e	8ddL
+.	(16cc
+.	16b)
+8r	(16a
+.	16g)J
+=	=
+8AL	4e 4cc
+8e	.
+8cJ	8r
+=	=
+8AL	4e 4cc
+8c	.
+8AJ	8r
+=	=
+4d 4cc	4ff#
+*v	*v
+8r
+=
+*^
+8g	(16bL
+.	16a)J
+4d	4aT
+=	=
+4G	8gL
+.	(16f
+.	16e)
+8r	(16f
+.	16d)J
+=	=
+8cL	8eL
+8BJ	8dJ
+*v	*v
+8r
+=
+*^
+4f#	8ddL
+.	(16cc
+.	16b)
+8r	(16cc
+.	16a)J
+!!LO:LB:g=original
+=	=
+8gL	8bL
+8f#J	8aJ
+*v	*v
+8r
+=
+(24bL
+24a
+24g)J
+(24ccL
+24b
+24a)J
+(24ddL
+24cc
+24b)J
+=
+(24eeL
+24dd
+24cc)J
+(24ff#L
+24ee
+24dd)J
+8gg
+=
+*^
+8AL	4e 4cc
+8e	.
+8cJ	8r
+=	=
+8AL	4e 4cc
+8c	.
+8AJ	8r
+=	=
+4d 4cc	4ff#
+*v	*v
+8r
+=
+(24GL
+24g
+24b)J
+(24GL
+24g
+24b)J
+(24GL
+24a
+24cc)J
+=
+(24GL
+24b
+24dd)J
+(24GL
+24b
+24dd)J
+(24GL
+24cc
+24ee)J
+!!LO:LB:g=original
+=
+*Xtuplet
+(24GL
+24g
+24b)J
+(24GL
+24g
+24b)J
+(24GL
+24a
+24cc)J
+=
+(24GL
+24b
+24dd)J
+(24GL
+24b
+24dd)J
+(24GL
+24cc
+24ee)J
+=
+*^
+(16bL	(16ddL
+16cc)	16ee)
+(16b	(16dd
+16cc)	16ee)
+(16b	(16dd
+16cc)J	16ee)J
+=	=
+4b	8ddL
+.	8ggJ
+*v	*v
+8r
+=
+*^
+(8g	(8bL
+8f#)J	16a)
+.	16cc
+8r	16b
+.	16aJ
+=	=
+8e 8b	(8ggL
+8r	16ff#)
+.	16ee
+8f#	16dd
+.	16ccJ
+=	=
+8g	16bL
+.	16ccJ
+4d	4aT
+=	=
+4.G	4.g
+*v	*v
+==
+!!!filter: flipper -a
+!!!filename: tele-40-15-Fan-02-All-Violin
