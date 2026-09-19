@@ -1,0 +1,225 @@
+**kern	**dynam
+*I"Violin	*
+*clefG2	*
+*k[b-e-a-]	*
+*f:	*
+*M4/4	*
+*met(c)	*
+!!!OMD: Adagio
+8cc	.
+=	=
+*^	*
+4r	8ff	.
+.	(16aa-	.
+.	16gg)	.
+8r	8ff	.
+8cc	8ee	.
+8dd-	4ff	.
+8dd-	.	.
+8dd-	8r	.
+8f	8dd-	.
+=	=	=
+4e	(8dd-	.
+.	8cc)	.
+8f	8r	.
+8f	8dd-	.
+4e	(8dd-	.
+.	8cc)	.
+*v	*v	*
+8r	.
+*^	*
+8cc	8gg	.
+=	=	=
+*	*^	*
+8f	4cc	8aa-	.
+8b-	.	16gg	.
+.	.	16ff	.
+*	*v	*v	*
+!!LO:TX:a:i:t=[tr]
+4cc	8.ee	.
+.	16f 16cc 16ff	.
+4f 4cc	8ff	.
+.	(16cc	.
+.	16dd)	.
+8r	8ee-	.
+8A 8f	8ee-	.
+!!LO:LB:g=original
+=	=	=
+4B- 4f	8ee-	.
+.	(16dd	.
+.	16cc)	.
+8r	8dd	.
+8f	8dd	.
+*	*^	*
+4e-\	8dd/	4gg	.
+.	(16cc	.	.
+.	16b)	.	.
+*	*v	*v	*
+8r	8cc	.
+8e-	8cc	.
+=	=	=
+*	*^	*
+4d	8cc	4ff#	.
+.	(16b	.	.
+.	16a)	.	.
+*	*v	*v	*
+4g 4b	8ff	.
+.	(16gg	.
+.	16dd)	.
+4c 4g	16ee-	.
+.	16cc	.
+.	16dd	.
+.	16ee-	.
+4f#	8dd	.
+.	8cc	.
+=	=	=
+4g	4bt	.
+*v	*v	*
+8r	.
+8g	.
+8c	.
+(16ee-	.
+16dd)	.
+*^	*
+8r	8cc	.
+8g	8b-	.
+=	=	=
+8a-	4cc	.
+8a-	.	.
+8a-	8r	.
+8c	8a-	.
+4B	(8a-	.
+.	8g)	.
+8c	8r	.
+8c	8a-	.
+!!LO:LB:g=original
+=	=	=
+4B	(8a-	.
+.	8g)	.
+*v	*v	*
+8r	.
+*^	*
+8g	8dd	.
+*	*^	*
+8c	4g	8ee-	.
+8f	.	16dd	.
+.	.	16cc	.
+*	*v	*v	*
+4g	8.bt	.
+.	16cc	.
+=	=	=
+8c	4g 4cc	.
+(16e-	.	.
+16d)	.	.
+8c	4r	.
+8B-	.	.
+4A 4f	8cc	.
+.	(16cc	.
+.	32dd-	.
+.	32ee-	.
+4r	8dd-	.
+.	8cc	.
+=	=	=
+8B-	4f 4dd-	.
+(16d-	.	.
+16c)	.	.
+8B-	4r	.
+8A-	.	.
+4G 4e-	8dd-	.
+.	(16bb-	.
+.	16aa-)	.
+4r	(16gg	.
+.	16ff)	.
+.	(16ee-	.
+.	16dd-)	.
+!!LO:LB:g=original
+=	=	=
+4A- 4e-	8cc	.
+.	8ee-	.
+8r	8ee-	.
+8e-	(16b-	.
+.	32cc	.
+.	32dd-)	.
+4A- 4e-	8cc	.
+.	8ee-	.
+8r	8ee-	.
+8e-	(16b-	.
+.	32cc	.
+.	32dd-	.
+=	=	=
+4A- 4e-	16cc	.
+.	16gg	.
+.	16aa-	.
+.	16a-	.
+4e-	4b-T	.
+4A-	8a-	.
+.	8cc	.
+8r	8b-	.
+8e-	8a	.
+=	=	=
+4d- 4f	8b-	.
+.	8dd-	.
+8r	8cc	.
+8f	8b	.
+4e	8cc	.
+.	8gg	.
+8r	8ff	.
+8b-	8ee	.
+=	=	=
+4a- 4cc	8ff	.
+.	16gg	.
+.	16aa-	.
+4b-	8gg	.
+.	8ff	.
+4cc	4eet	.
+*v	*v	*
+8r	.
+*^	*
+8e 8cc	8gg	.
+!!LO:LB:g=original
+=	=	=
+*	*^	*
+8f	4cc	16aa-	.
+.	.	16gg	.
+8b-	.	16ff	.
+.	.	16gg	.
+*	*v	*v	*
+!!LO:TX:a:i:t=[tr]
+4cc	8.ee	.
+.	16ff	.
+4f 4cc	8ff	.
+.	8cc	.
+8r	8cc	.
+8e 8cc	(16gg	.
+.	32aa-	.
+.	32bb-)	.
+=	=	=
+8f 8cc	8aa-	.
+8r	8cc	.
+8r	8cc	.
+8e 8cc	(16gg	.
+.	32aa-	.
+.	32bb-)	.
+*	*^	*
+8f	4cc	8aa-	.
+8cc	.	8gg	.
+*	*v	*v	*
+*v	*v	*
+8r	.
+*^	*
+8e-	8cc	.
+=	=	=
+4d-	4f	.
+4r	8ff	.
+.	8dd-	.
+2r	4.b-T	.
+.	8cc	.
+=	=	=
+2c 2e	2cc	.
+*v	*v	*
+4r	.
+8r	.
+==	==
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-16-Fan-01-Ada-Violin
