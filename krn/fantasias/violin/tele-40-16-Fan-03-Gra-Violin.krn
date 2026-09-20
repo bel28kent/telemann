@@ -1,138 +1,158 @@
 **kern
+*I"Violin
+*clefG2
+*k[b-e-a-]
+*f:
 *M3/2
-2.ff
-4dd
-2ee-
-=
-2dd
-1b
-=
-1.cc
-=
+!!!OMD: Grave
+*^
+2d 2b	2.ff
+2r	.
+.	4dd
+2c 2g	2ee-
+=	=
+2f	2dd
+1g	1bt
+=	=
+1.c 1.g	1.cc
+*v	*v
+=|:
 *M3/8
-8f
+!!!OMD: Vivace
+8fL
 8aa-
-8cc
+8ccJ
 =
-16e
-16cc
+(16eL
+16cc)J
 4gg
 =
-16a-
+16a-L
 16cc
 16f
 16a-
 16cc
-16ff
+16ffJ
 =
-16ee
+16eeL
 16gg
 16cc
 16ee
 16gg
-16bb-
+16bb-J
 =
-8f
+8fL
 8aa-
-8cc
+8ccJ
 =
-16e
-16cc
+(16eL
+16cc)J
 4gg
+!!LO:LB:g=original
 =
-16a-
+16a-L
 16cc
 16f
 16g
 16a-
-16b-
+16b-J
 =
-4.cc
+*^
+4.c 4.e	4.cc
+=:|:	=:|:
+8aL	8ccL
+8a	(16ee-X
+.	16cc)
+8aJ	(16ee-
+.	16cc)J
+=	=
+8e-L	8aL
+8e-	(16cc
+.	16a)
+8e-J	(16cc
+.	16a)J
+=	=
+4A	8fL
+.	8cc
+*v	*v
+8ee-J
 =
-8cc
-16ee-
-16cc
-16ee-
-16cc
-=
-8a
-16cc
-16a
-16cc
-16a
-=
-8f
-8cc
-8ee-
-=
-8B-
+8B-L
 16dd-
 16cc
-8dd-
+8dd-J
 =
-8b-
-16dd-
-16b-
-16dd-
-16b-
+*^
+8gL	8b-L
+8g	(16dd-
+.	16b-)
+8gJ	(16dd-
+.	16b-)J
+=	=
+8dd-L	8ggL
+8dd-	(16bb-
+.	16gg)
+8dd-J	(16bb-
+.	16gg)J
+=	=
+4G	8e-L
+.	8b-
+*v	*v
+8dd-J
+!!LO:LB:g=original
 =
-8gg
-16bb-
-16gg
-16bb-
-16gg
-=
-8e-
-8b-
-8dd-
-=
-8A-
+8A-L
 16cc
 16b-
-8cc
+8ccJ
 =
-16a-
-16cc
-16f
-16a-
-16g
-16f
+*^
+8r	16a-L
+.	16cc
+4d-	16f
+.	16a-
+.	16g
+.	16fJ
+=	=
+4c	16eL
+.	16g
+.	16cc
+.	16ee
+8r	16gg
+.	16bb-J
+=	=
+8r	16a-L
+.	16cc
+4d-	16f
+.	16a-
+.	16g
+.	16fJ
+=	=
+4c	16eL
+.	16g
+.	16c
+.	16e
+8r	16g
+.	16b-J
+*v	*v
 =
-16e
-16g
-16cc
-16ee
-16gg
-16bb-
-=
-16a-
-16cc
-16f
-16a-
-16g
-16f
-=
-16e
-16g
-16c
-16e
-16g
-16b-
-=
-8f
+8fL
 8aa-
-8cc
+8ccJ
 =
-16e
-16cc
+(16eL
+16ccJ
 4bb-
 =
-16aa-
-16ff
-8gg
-8ee
-=
-4.ff
+16aa-L
+16ffJ
+*^
+8b-L	8ggL
+8ccJ	8eetJ
+=	=
+4.f 4.cc	4.ff
+*v	*v
+==:|
 *-
-!!!filter: autobeam
+!!!filter: flipper -a
 !!!filename: tele-40-16-Fan-03-Gra-Violin
