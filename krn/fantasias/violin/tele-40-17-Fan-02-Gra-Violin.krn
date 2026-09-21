@@ -1,0 +1,96 @@
+**kern
+*I"Violin
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+*met(c)
+!!!OMD: Grave
+*^
+4B 4f# 4b	8.ff#L
+.	16ff#
+4B 4f# 4b	8.ff#
+.	16ff#J
+4A 4f# 4dd#	4bb
+*v	*v
+4r
+=
+*^
+4G 4e 4b	8.eeL
+.	16ee
+4G 4e 4b	8.ee
+.	16eeJ
+4c 4e 4b	4ee
+*v	*v
+4r
+=
+*^
+4c 4f# 4a	8.eeL
+.	16ee
+4c 4f# 4a	8.ee
+.	16eeJ
+4B 4b	8.eeL
+.	(48ee
+.	48ff#
+.	48gg)J
+4r	8.ff#tL
+.	16eeJ
+=	=
+4A# 4f# 4cc#	8.eeL
+.	(48ee
+.	48ff#
+.	48gg)J
+4r	8.ff#tL
+.	16eeJ
+4B 4f#	(16ddT
+.	16cc#
+.	8dd)
+4B 4f#	(16ddT
+.	16cc#
+.	8dd)
+!!LO:LB:g=original
+=	=
+4B 4f#	(16ddTL
+.	16cc#
+.	8dd)J
+*v	*v
+32r
+(32b
+32cc
+32cc#
+32dd
+32dd#
+32ee
+32ff#
+32gg)
+(32dd#
+32ee
+32ff#
+32gg
+32gg#
+32aa
+32aa#
+32bb)
+(32ff#
+32dd
+32b
+32f#
+32dn
+32B)
+32r
+=
+*^
+8g 8bk	16.eeL
+.	32ee
+16r	16.ff#
+16e 16b	.
+.	32ggJ
+4f#	4cc#t
+4B 4d	4b
+*v	*v
+4r
+==
+*-
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-17-Fan-02-Gra-Violin
