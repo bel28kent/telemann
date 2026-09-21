@@ -1,514 +1,576 @@
 **kern
+*I"Violin
+*clefG2
+*k[f#c#]
+*D:
 *M3/4
+!!!OMD: Vivace
 8r
-8d
+8dL
 8f#
 8a
 8e
-8a
+8aJ
 =
-8f#
+8f#L
 8dd
 8cc#
 8ee
 8b
-8ee
+8eeJ
 =
-8cc#
-8a
-8cc
-8b
-8a
-8cc
-=
-4b
-8b
-8a
-8b
-8b
-=
-4.gg
-8ee
+*^
+8cc#L	4r
+8a	.
+(8cc	4.aa
+8b	.
+8a)	.
+8cc`J	8aa
+=	=
+4b	8aa
+.	8dd
+(8bL	4.gg
+8a	.
+8b)	.
+8b`J	8gg
+=	=
+4.A 4.e 4.cc#	4.gg
+*v	*v
+8eeL
 8ff#
-8cc#
+8cc#J
 =
 8dd
 8d
-4.e
-8d
+*^
+2A	4.eT
+.	8d
+*v	*v
+!!!LO:LB:g=original
 =
 8d
-16ff#
+(16ff#
 16ee
-8dd
-16dd
+8dd)
+(16dd
 16cc#
-8b
+8b)
 8f#
 =
-8g
-8dd
-8g
-8dd
-8g
-8dd
-=
-8g
-16ee
-16dd
-8cc#
-16cc#
-16b
-8a
-8g
-=
-8f#
-8cc#
-8f#
-8cc#
-8f#
-8cc#
-=
-8d
-16dd
-16cc#
-8b
-16b
-16a
-8g#
-8f#
-=
-8e
-8b
-8e
-8b
-8e
-8b
-=
-8e
-8cc#
-8e
-8cc#
-8e
-8cc#
-=
-8e
-8dd
-8e
-8dd
-8e
-8dd
-=
-8r
-8a
-8cc#
-8ee
-8b
-8ee
-=
-8cc#
-8aa
-8gg#
-8bb
-8ff#
-8bb
-=
-8gg#
-8ee
-8gg
-8ff#
-8ee
-8gg
-=
-8ff#
-8aa
-8ff#
-8ee
-8ff#
-8ff#
-=
-4.ddd
-8bb
+*^
+4B	8gL
+.	8dd
+4B	8g
+.	8dd
+4B	8g
+.	8ddJ
+=	=
+4c#	8g
+.	(16ee
+.	16dd
+4r	8cc#)
+.	(16cc#
+.	16b
+4r	8a)
+.	8g
+=	=
+4A	8f#L
+.	8cc#
+4A	8f#
+.	8cc#
+4A	8f#
+.	8cc#J
+=	=
+4B	8d
+.	(16dd
+.	16cc#
+4r	8b)
+.	(16b
+.	16a
+4r	8g#)
+.	8f#
+=	=
+4G#	8eL
+.	8b
+4G#	8e
+.	8b
+4G#	8e
+.	8bJ
+!!!LO:LB:g=original
+=	=
+4A	8eL
+.	8cc#
+4A	8e
+.	8cc#
+4A	8e
+.	8cc#J
+=	=
+4G#	8eL
+.	8dd
+4G#	8e
+.	8dd
+4G#	8e
+.	8ddJ
+=	=
+4A	8r
+.	8aL
+4a	8cc#
+.	8ee
+4g#	8b
+.	8eeJ
+=	=
+4a	8cc#L
+.	8aa
+4ee	8gg#
+.	8bb
+4dd#	8ff#
+.	8bbJ
+=	=
+4ee	8gg#
+.	8ee
+8ggL	4.eee
+8ff#	.
+8ee	.
+8ggJ	8eee
+=	=
+8ff#	4eee
+8aa	.
+8ff#L	4.ddd
+8ee	.
+8ff#	.
+8ff#J	8ddd
+=	=
+4.g# 4.ee	4.ddd
+*v	*v
+8bbL
 8ccc#
-8gg#
+8gg#J
+!!!LO:LB:g=original
 =
 8aa
 8a
-4.b
-8a
+*^
+2e	4.bT
+.	8a
+*v	*v
 =
-8a
+8aL
 8aa
 8aa
-8aa
-16aa
+8aaJ
+(16aa
 16gg#
 16aa
 16ff#
 =
-8dd#
+8dd#)L
 8aa
 8aa
-8aa
-16aa
+8aaJ
+(16aa
 16gg#
 16aa
 16ff#
 =
-8b
+8b)L
 8aa
 8cc#
 8aa
 8dd#
-8aa
+8aaJ
 =
+*^
+4ee	8ggn
+.	8ee
+4a	(16ccc
+.	16bb
+.	8aa)
+4r	(16aa
+.	16bb
+.	8ccc)
+=	=
+8ddL	4ff#`
+8d	.
+8b	4gg`
+8d	.
+8a	4aa`
+8dJ	.
+!!!LO:LB:g=original
+=	=
+4g 4dd	4bb
+4r	(16bb
+.	16aa
+.	8gg)
+4r	(16gg
+.	16aa
+.	8bb)
+=	=
+8cc	4ee
+8b	.
+*v	*v
+8a
+8ff#
+8g
 8gg
-8ee
-16ccc
-16bb
+=
+8f#
 8aa
-16aa
-16bb
-8ccc
+(16aa
+16gg
+8ff#)
+(16ff#
+16gg
+8aa)
 =
-4ff#
-4gg
-4aa
+8dd#L
+8b
+8g
+8ee
+8f#
+8ff#J
 =
+8eL
+8gg
+8d
+(8gg#
+8b
+8gg#J
+=
+8c#)L
+8aa
+8e
+(8aa#
+8cc#
+8aa#J
+=
+8d#)
 4bb
-16bb
-16aa
+8b
+*^
+4dd#	(8aan
+.	16gg
+.	16ff#)
+!!!LO:LB:g=original
+=	=
+8ee	8gg
+8a	8aa
+!!LO:TX:a:i:t=[tr]
+2b	4.ff#
+.	8ee
+=	=
+4e 4b	8eeL
+.	8b
+4r	8g
+.	8b
+4r	8f#
+.	8bJ
+=	=
+4r	8gL
+.	8ee
+4a	8cc#
+.	8ee
+4g#	8b
+.	8eeJ
+=	=
+4a	8cc#L
+.	8a
+4r	8f#
+.	8a
+4r	8e
+.	8aJ
+=	=
+4r	8f#L
+.	8dd
+4g	8b
+.	8dd
+4f#	8a
+.	8ddJ
+=	=
+4g	8b
+.	8g
+(8fL	4.dd
+8e	.
+8d)	.
+8f`J	8dd
+=	=
+4e	8dd
+.	8g
+(8eL	4.cc
+8d	.
+8e)	.
+8e`J	8cc
+!!!LO:LB:g=original
+=	=
+4.d 4.cc	4.ff#
+*v	*v
+8ddL
 8gg
-16gg
-16aa
-8bb
+8bJ
 =
-4ee
-8a
-8ff#
-8g
-8gg
-=
-8f#
-8aa
-16aa
-16gg
-8ff#
-16ff#
-16gg
-8aa
-=
-8dd#
-8b
-8g
-8ee
-8f#
-8ff#
-=
-8e
-8gg
-8d
-8gg#
-8b
-8gg#
-=
-8c#
-8aa
-8e
-8aa#
-8cc#
-8aa#
-=
-8d#
-4bb
-8b
-8aa
-16gg
-16ff#
-=
-8gg
-8aa
-4.ff#
-8ee
-=
-8ee
-8b
-8g
-8b
-8f#
-8b
-=
-8g
-8ee
-8cc#
-8ee
-8b
-8ee
-=
-8cc#
-8a
-8f#
-8a
-8e
-8a
-=
-8f#
-8dd
-8b
-8dd
-8a
-8dd
-=
-8b
-8g
-8f
-8e
-8d
-8f
-=
-4e
-8e
-8d
-8e
-8e
-=
-4.ff#
-8dd
-8gg
-8b
-=
-8ee
+8eeL
 8c
 8d
 8gg
 8a
-8ff#
+8ff#J
 =
-8G
-16bb
+8G\
+(16bb
 16aa
-8gg
-16gg
+8gg)
+(16gg
 16ff#
-8ee
+8ee)
 8dd
 =
-4cc#
-4cc#
-4cc#
-=
+*^
+8gL	4cc#
+8A	.
+8g	4cc#
+8A	.
+8g	4cc#
+8AJ	.
+=	=
+4f#	8dd
+.	(16aa
+.	16gg
+4r	8ff#)
+.	(16ff#
+.	16ee
+4r	8dd)
+.	8cc#
+=	=
+8f#L	4b
+8G	.
+8f#	4b
+8G	.
+8f#	4b
+8GJ	.
+=	=
+4e	8cc
+.	(16gg
+.	16ff#
+4r	8ee)
+.	(16ee
+.	16dd
+4r	8cc)
+.	8b
+!!!LO:LB:g=original
+=	=
+4f#	8a#L
+.	8cc#X
+4f#	8b
+.	8dd
+4f#	8cc#
+.	8eeJ
+=	=
+4B 4f#	4dd
+*v	*v
+(8bL
 8dd
-16aa
-16gg
 8ff#
-16ff#
-16ee
-8dd
-8cc#
+8bb)J
 =
-4b
-4b
-4b
+*^
+4e 4b	8gg
+.	8ee
+2f#	4.cc#t
+.	8b
+=	=
+4B 4f#	8bL
+.	8ddJ
+4r	8ddL
+.	8ddJ
+4r	(16ddL
+.	16cc#
+.	16dd
+.	16bJ
+*v	*v
 =
-8cc
-16gg
-16ff#
-8ee
-16ee
-16dd
-8cc#
-8b
-=
-8a#
-8cc#
-8b
-8dd
-8cc#
-8ee
-=
-4dd
-8b
-8dd
-8ff#
-8bb
-=
-8gg
-8ee
-4.cc#
-8b
-=
-8b
+8g#)L
 8dd
 8dd
-8dd
-16dd
+8ddJ
+(16dd
 16cc#
 16dd
 16b
 =
-8g#
-8dd
-8dd
-8dd
-16dd
-16cc#
-16dd
-16b
-=
-8e
+8e)L
 8dd
 8f#
 8dd
 8g#
-8dd
+8ddJ
 =
-8cc#
-8a
-8cc#
-8ee
-8b
-8ee
+*^
+4r	8cc#L
+.	8a
+4a	8cc#
+.	8ee
+4g#	8b
+.	8eeJ
+*v	*v
+!!!LO:LB:g=original
 =
-8cc#
+8cc#L
+8ggn
 8gg
-8gg
-8gg
-16gg
+8ggJ
+(16gg
 16ff#
 16gg
 16ee
 =
-8cc#
+8cc#)L
 8gg
 8gg
-8gg
-16gg
+8ggJ
+(16gg
 16ff#
 16gg
 16ee
 =
-8a
+8a)L
 8gg
 8b
 8gg
 8cc#
-8gg
+8ggJ
 =
-4ff#
-8f#
-8a
-8e
-8a
-=
-8f#
-8dd
-8cc#
-8ee
-8b
-8ee
-=
-8cc#
-8a
-8cc
-8b
-8a
-8cc
-=
-4b
-8b
-8a
-8b
-8b
-=
-4.gg
-8ee
+*^
+8dd	4ff#
+8d	.
+4d	8f#
+.	8a
+4c#	8e
+.	8a
+=	=
+4d	8f#L
+.	8dd
+4a	8cc#
+.	8ee
+4g#	8b
+.	8eeJ
+=	=
+4a	8cc#
+.	8a
+(8ccL	4.aa
+8b	.
+8a)	.
+8cc`J	8aa
+!!!LO:LB:g=original
+=	=
+4b	8aa
+.	8dd
+(8b	4.gg
+8a	.
+8b)	.
+8b`	8gg
+=	=
+4.A 4.e 4.cc#	4.gg
+*v	*v
+8eeL
 8ff#
-8cc#
+8cc#J
 =
 8dd
 8ff#
-4.ee
-16dd#
-16ee
+*^
+2a	4.eeT
+.	16dd#L
+.	16eeJ
+*v	*v
 =
-16a#
+(16a#
 16cc#
 16ee
-16gg
-16ff#
+16gg)
+(16ff#
+16ee
+16ddn
+16cc#)
+(16ff#
 16ee
 16dd
-16cc#
-16ff#
-16ee
-16dd
-16cc#
+16cc#)
 =
-8dd
-8ee
-8ff#
-8cc#
-8b
-8a
+*^
+4B 4f#	(8ddL
+.	8ee
+4r	8ff#)
+.	8cc#
+4r	8b
+.	8aJ
+*v	*v
 =
-16g#
+(16g#
 16b
 16dd
-16ff#
-16ee
+16ff#)
+(16ee
 16dd
 16cc#
-16b
-16ee
+16b)
+(16ee
 16dd
 16cc#
-16b
+16b)
+!!!LO:LB:g=original
 =
-8cc#
-8dd
-8ee
-8b
-8a
-8g
+*^
+4a	(8cc#L
+.	8dd
+4r	8ee)
+.	8b
+4r	8a
+.	8gnJ
+*v	*v
 =
-16f#
+(16f#
 16a
 16cc
-16ee
-16dd
+16ee)
+(16dd
 16cc
 16b
-16a
-16dd
+16a)
+(16dd
 16cc
 16b
-16a
+16a)
 =
-8b
-8a
-8b
-8gg
-8ff#
-8gg
-=
-8b
-8a
-8b
-8g
-8f#
-8g
-=
-4.ee
-8a
+*^
+8gL	(8bL
+8f#	8a)
+8g	(8b
+8b	8gg)
+8a	(8ff#
+8bJ	8gg)J
+=	=
+8gL	(8bL
+8f#	8a)
+8g	(8b
+8B	8g)
+8A	(8f#
+8BJ	8g)J
+=	=
+4.c# 4.g	4.a 4.ee
+*v	*v
+8aL
 8dd
-8f#
+8f#J
 =
 8b
 8g
-4.e
-8d
-=
-2.d
+*^
+2A	4.eT
+.	8d
+=	=
+2.d	2.d
+*v	*v
+==
 *-
 !!!filter: autobeam
+!!!filter: flipper -a
 !!!filename: tele-40-17-Fan-01-Viv-Violin
