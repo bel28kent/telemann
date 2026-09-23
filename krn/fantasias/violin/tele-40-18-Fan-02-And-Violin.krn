@@ -1,0 +1,60 @@
+**kern
+*I"Violin
+*clefG2
+*k[f#c#g#]
+*f#:
+*M4/4
+*met(c)
+!!!OMD: Andante
+*^
+8f#L	8cc#
+8g#	8r
+8a	8ff#
+8f#J	8r
+8ddL	8ff#
+8b	8r
+8cc#	8ee#
+8bJ	8r
+=	=
+8aL	8ff#
+8g#	8r
+8f#	8dd#
+8aJ	8r
+8g#L	8ee
+8f#	8r
+8e	8cc#
+8gJ	8r
+=	=
+8f#L	8dd
+8d	8r
+8e	8cc#
+8AJ	8r
+8dL	8b
+8B	8r
+8c#	8a
+8AJ	8r
+=	=
+8BL	8g#
+8c#	8r
+8d	8f#
+8BJ	8r
+4c#	8eL
+.	8dd
+4r	8cc#
+.	8bJ
+=	=
+4f#	8a
+.	8b
+4e	2cc#
+2d	.
+.	4bT
+=	=
+2c# 2e#	2cc#
+*v	*v
+2r
+!!LO:LB:g=original
+==
+*-
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-18-Fan-02-And-Violin
