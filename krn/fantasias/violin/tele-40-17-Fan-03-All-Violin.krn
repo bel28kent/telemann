@@ -1,0 +1,358 @@
+**kern
+*I"Violin
+*clefG2
+*k[f#c#]
+*D:
+*M12/8
+!!!OMD: Allegro
+8a`
+=
+*^
+4.d	(8dd
+.	8cc#)
+.	8dd
+4.e	(8dd
+.	8cc#)
+.	8dd
+(8f#	4.dd
+8e)	.
+8f#	.
+(8d	4r
+8e)	.
+8f#	8a
+=	=
+(8g	(8b
+8f#)	8a)
+8g	8b
+4.c#	(8e
+.	8a)
+.	8g
+4.d	(8f#
+.	8e)
+.	8f#
+4r	(8d
+.	8f#)
+8r	8a
+=	=
+4.f#	(8dd
+.	8cc#)
+.	8dd
+4.g#	(8b
+.	8ee)
+.	8dd
+4.a	(8cc#
+.	8b)
+.	8cc#
+4r	(8a
+.	8b)
+8a	8cc#
+=	=
+4.g#	(8b
+.	8ee)
+.	8ee
+4.f#	(8a
+.	8ee)
+.	8ee
+4.e	(8b
+.	8ee)
+.	8ee
+4.a	(8cc#
+.	8ee)
+.	8ee
+!!LO:LB:g=original
+=	=
+4.g#	(8b
+.	8ee)
+.	8ee
+4.f#	(8a
+.	8ee)
+.	8ee
+4.e	(8b
+.	8ee)
+.	8ee
+4.dd	(8gg#
+.	8ee)
+.	8ee
+=	=
+[4.cc#	[4.aa
+4cc#]	4aa]
+8r	8ee
+*v	*v
+(8cc#
+8a)
+8cc#
+(8ee
+8cc#)
+8ee
+=
+*^
+[4.cc#	[4.aa
+4cc#]	4aa]
+8r	8ee
+*v	*v
+(8cc#
+8a)
+8cc#
+(8ee
+8cc#)
+8ee
+=
+*^
+8dd	8ff#`
+8d	8dd`
+8dd	8ff#`
+8dd	8ff#`
+8d	8dd`
+8dd	8ff#`
+8dd	8bb`
+8d	8dd`
+8dd	8bb`
+8dd	8bb`
+8d	8dd`
+8dd	8bb`
+!!LO:LB:g=original
+=	=
+8dd	8gg#`
+8e	8dd`
+8dd	8gg#`
+8dd	8gg#`
+8e	8dd`
+8dd	8gg#`
+4.f# 4.cc#	4aa
+.	8ff#
+4.g# 4.b	4ee
+.	8dd
+=	=
+4.a	(8cc#L
+.	8ee)
+.	8aaJ
+4.e	(8bL
+.	8aa)
+.	8gg#J
+4.A 4.e 4.cc#	4.aa
+*v	*v
+4r
+=:|:
+*^
+8r	8ee
+=	=
+4.a	(8aa
+.	8gg#)
+.	8aa
+4.b	(8aa
+.	8gg#)
+.	8aa
+(8cc#	4.aa
+8b)	.
+8cc#	.
+(8a	4r
+8b)	.
+8cc	8aa
+=	=
+4.d# 4.b	4aa
+.	8bb
+4r	4ggT
+8r	8ff#
+4.e 4.b	4gg
+.	8aa
+4r	4ff#
+8r	8ee
+!!LO:LB:g=original
+=	=
+4.d# 4.b	4aa
+.	8bb
+!!LO:TX:a:i:t=[tr]
+4r	4gg
+8r	8ff#
+4e	4.b 4.gg
+8f#	.
+(8g	4r
+8b)	.
+8ee	8r
+*v	*v
+=
+(8cc
+8a)
+8ff#
+(8dd#
+8b)
+8gg
+(8ee
+8dd#)
+8ee
+(8g
+8b)
+8ee
+=
+(8cc
+8a)
+8ff#
+(8dd#
+8b)
+8gg
+(8ee
+8dd#)
+8ee
+*^
+4.cc	(8aa
+.	8gg)
+.	8ff#
+=	=
+4.b	(8gg
+.	8ff#)
+.	8ee
+4.a	(8ff#
+.	8ee)
+.	8dd#
+4.g# 4.b	4ee
+.	8bb
+4r	4dd
+8r	8bb
+!!LO:LB:g=original
+=	=
+4.a	4cc#
+.	8ee
+4.gn	4b
+.	8ee
+4f#	4.a#
+8e	.
+(8d	4r
+8f#)	.
+8b	8r
+*v	*v
+=
+(8g
+8e)
+8cc#
+(8a#
+8f#)
+8dd
+(8b
+8a#)
+8b
+(8d
+8f#)
+8b
+=
+(8g
+8e)
+8cc#
+(8a#
+8f#)
+8dd
+(8b
+8a#)
+8b
+*^
+4.d	4b 4ff#
+.	8b
+=	=
+4.e	4b 4gg
+.	8b
+4.f#	8dd
+.	8ee
+.	8cc#
+4.B 4.f#	[4.b
+4r	8b]
+.	8cc#
+8r	8dd
+!!LO:LB:g=original
+=	=
+4.B	(8g
+.	8f#)
+.	8g
+4.c#	(8e
+.	8a)
+.	8g
+4.d	(8f#
+.	8e)
+.	8f#
+4r	(8d
+.	8e
+8d	8f#
+=	=
+4.c#	(8e
+.	8a)
+.	8a
+4.B	(8d
+.	8a)
+.	8a
+4.A	(8e
+.	8a)
+.	8a
+4.d	(8f#
+.	8a)
+.	8a
+=	=
+4.c#	(8e
+.	8a)
+.	8a
+4.B	(8d
+.	8a)
+.	8a
+4.A	(8e
+.	8a)
+.	8a
+4.g	(8cc#
+.	8a)
+.	8a
+=	=
+[4.f#	[4.dd
+4f#]	4dd]
+8r	8aa
+8f#	8dd`
+8A	8f#`
+8f#	8dd`
+8e	8cc#`
+8A	8e`
+8e	8cc#`
+!!LO:LB:g=original
+=	=
+[4.f#	[4.dd
+4f#]	4dd]
+8r	8aa
+8f#	8dd`
+8A	8f#`
+8f#	8dd`
+8e	8cc#`
+8A	8e`
+8e	8cc#`
+=	=
+8f#	8dd`
+8d	8a`
+8f#	8dd`
+8f#	8dd`
+8d	8a`
+8f#	8dd`
+8f	8dd`
+8d	8a`
+8f	8dd`
+8f	8dd`
+8d	8a`
+8f	8dd`
+=	=
+8dd	8ee`
+8g#	8dd`
+8dd	8ee`
+8dd	8ee`
+8g#	8dd`
+8dd	8ee`
+4.a	4cc#
+.	8bb
+4.cc#	4aa
+.	8gg
+=	=
+4.dd	(8ff#L
+.	8ee)
+.	8ddJ
+4.A	(8eL
+.	8dd)
+.	8cc#J
+4.d	4.dd
+*v	*v
+4r
+==:|
+*-
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-17-Fan-03-All-Violin
