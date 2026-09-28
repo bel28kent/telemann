@@ -253,7 +253,9 @@
 =	=
 4.e 4.b	4.ee
 !!LO:TX:b:i:t=[Minore da capo]
-=:|	=:|
+*v	*v
+=:|
+*-
 !!!filter: autobeam
 !!!filter: flipper -a
 !!!filename: tele-40-19-Fan-04-All-Violin
