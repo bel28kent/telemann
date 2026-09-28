@@ -1,0 +1,94 @@
+**kern
+*I"Violin
+*clefG2
+*k[f#]
+*G:
+*M6/8
+!!!OMD: Siciliana
+8g
+=
+*^
+4G	8.b 8.dd
+.	16cc 16ee
+8G	8b 8dd
+4G	4b 4dd
+8r	8b 8gg
+=	=
+4c 4cc	8.ee
+.	16cc
+8G 8b	8dd
+4g	4r
+8g 8dd	8bb
+=	=
+4f# 4dd	8.aa
+.	16bb
+8e 8cc#	8gg
+4d 4a	4ff#
+8r	8b 8gg
+=	=
+4r	8.a 8.ff#
+.	16b 16gg
+8r	8a 8ff#
+4r	4f# 4dd
+8g 8dd	8bb
+=	=
+4f# 4dd	8.aaL
+.	16bb
+8e 8cc#	8aaJ
+8d 8ddL	8ff#L
+8g 8bJ	8eeJ
+*v	*v
+8r
+=
+*^
+4A 4e	4cc#t
+8r	8dd
+4d 4f#	4dd
+!!LO:LB:g=original
+=:|:	=:|:
+8r	8dd
+=	=
+4G 4f	8.b
+.	16cc
+8G 8f	8b
+4G 4f	4b
+8r	8gg
+=	=
+4G 4f	8.b
+.	16a
+8G 8f	8b
+4c 4e	4cc
+8r	8ee
+=	=
+4G 4e	8.cc#
+.	16b
+8G 8e	8cc#
+4G 4e	4cc#
+8r	8aa
+=	=
+4A 4e	8.cc#
+.	16b
+8A 8e	8cc#
+4d 4f#	4dd
+8B 8g	8dd
+=	=
+4cn 4g	8.eeL
+.	16gg
+8d 8dd	8ff#J
+*	*^
+4e\	8bL	4gg
+.	8ccJ	.
+*	*v	*v
+*v	*v
+8r
+=
+*^
+4d 4b	8.ggL
+.	16cc 16aa
+8d	8a 8ff#J
+4G 4d 4b	4gg
+*v	*v
+==:|
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-19-Fan-03-Sic-Violin
