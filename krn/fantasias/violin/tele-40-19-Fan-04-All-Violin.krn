@@ -1,0 +1,259 @@
+**kern
+*I"Violin
+*clefG2
+*k[f#]
+*e:
+*M2/4
+!!!OMD: Allegro
+*^
+!!LO:TX:a:t=[Minore]
+8r	8b
+=	=
+4e	8ccL
+.	8b
+4f#	8a
+.	8ddJ
+=	=
+8gL	4b
+8d	.
+8G	8rk
+8bJ	8gg
+=	=
+4a	8ff#
+.	16gg
+.	16aa
+4b	8gg
+.	8ff#
+=	=
+8eeL	4gg
+8b	.
+8e	8rk
+8dd#J	8ff#
+=	=
+8eeL	4gg
+8b	.
+8cc#	4aa
+8aJ	.
+=	=
+8ddL	4ff#
+8a	.
+8d	8rk
+8bJ	8gg
+=	=
+4cc	8ee
+.	16ff#
+.	16gg
+4a	8ff#
+.	8ee
+!!LO:LB:g=original
+=	=
+4b	8dd#L
+.	(8bb
+4r	8bb
+.	8bb)J
+=	=
+4g 4b	8eeL
+.	(8bb
+4r	8bb
+.	8bb)J
+=	=
+4d# 4b	8ff#L
+.	(8bb
+4r	8bb
+.	8bb)J
+=	=
+4g 4b	8ee
+.	(16ff#
+.	16gg)
+4a	8ff#
+.	8ee
+=	=
+4.B 4.f#	4.dd#
+=:|:	=:|:
+8r	(16b
+.	16cc#)
+=	=
+4r	8ddnL
+.	8dd
+8rk	8dd
+8g#	8ddJ
+=	=
+4a	(4dd
+4r	8cc#)
+.	(16a
+.	16b)
+=	=
+4r	8ccnL
+.	8cc
+8rk	8cc
+8f#	8ccJ
+!!LO:LB:g=original
+=	=
+4g	(4cc
+4r	8b)
+.	8bb
+=	=
+8rk	8aaL
+8bL	8gg
+8a	8ff#
+8gJ	8eeJ
+=	=
+8f#	4dd#
+8b	.
+4B	8rk
+.	8bb
+=	=
+8rk	8aaL
+8bL	8gg
+8a	8ff#
+8gJ	8eeJ
+=	=
+4f#	8a
+.	(16cc
+.	16b)
+4r	8a
+.	8a
+=	=
+4d#	8a
+.	(16b
+.	16cc)
+8rk	8b
+8dd#	8bb
+=	=
+4ee	(16aa
+.	16gg
+.	16ff#
+.	16ee)
+4b	(16gg
+.	16ff#
+.	16ee
+.	16dd#)
+=	=
+4.e 4.b	4.ee
+!!LO:LB:g=original
+=:|	=:|
+*k[f#c#g#d#]	*k[f#c#g#d#]
+*E:	*E:
+!!LO:TX:a:t=[Maggiore]
+8g#	8b
+=	=
+4a	8cc#L
+.	(8ee
+4r	8dd#
+.	8ee)J
+=	=
+4g#	8bL
+.	(8ee
+4r	8dd#
+.	8ee)J
+=	=
+4f#	8aL
+.	8aa
+4r	8gg#
+.	8ff#J
+=	=
+4e	(8.gg#
+.	32aa
+.	32bb)
+8rk	8ee
+8dd#	8ff#
+=	=
+8eeL	4gg#
+(8cc#	.
+8b#	4r
+8cc#)J	.
+=	=
+8dd#L	4ff#
+(8bn	.
+8a#	4r
+8b)J	.
+=	=
+4e 4b	4ee
+4f#	4cc#
+=	=
+4.B 4.f#	4.b
+!!LO:LB:g=original
+=:|:	=:|:
+8g#	8b
+=	=
+8aL	4cc#
+8e	.
+8cc#	4ee
+8eJ	.
+=	=
+8aL	4cc#
+8e	.
+8cc#	4aa
+8eJ	.
+=	=
+8aL	4cc#
+8e	.
+8g#	4dd
+8eJ	.
+=	=
+4a	8cc#L
+.	8b
+8rk	8a
+8e# 8cc#	8gg#J
+=	=
+4f# 4cc#	8aaL
+.	8cc#
+4a	8ff#
+.	8cc#J
+=	=
+4f# 4cc#	8aaL
+.	8cc#
+4a	8ccc#
+.	8cc#J
+=	=
+4f# 4cc#	8aaL
+.	8gg#
+4cc#	8ff#
+.	8ee#J
+=	=
+4f# 4a	8ff#L
+.	(8gg#
+4r	8aa)
+.	8cc#J
+!!LO:LB:g=original
+=	=
+4d#X	8bL
+.	8dd#
+4r	8ff#
+.	8aaJ
+=	=
+4e 4b	8gg#L
+.	8ee
+4r	8ff#
+.	8gg#J
+=	=
+4f#	8a#L
+.	8cc#
+4r	8ff#
+.	8eeJ
+=	=
+4B 4f#	(8.dd#
+.	32ee
+.	32ff#)
+8rk	8dd#
+8g#	8b
+=	=
+4a	8cc#L
+.	(8ee
+4r	8dd#
+.	8ee)J
+=	=
+4g#	8bL
+.	(8ee
+4r	8dd#
+.	8ee)J
+=	=
+4a	4ccc#
+4b	4ff#
+=	=
+4.e 4.b	4.ee
+!!LO:TX:b:i:t=[Minore da capo]
+=:|	=:|
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-19-Fan-04-All-Violin
