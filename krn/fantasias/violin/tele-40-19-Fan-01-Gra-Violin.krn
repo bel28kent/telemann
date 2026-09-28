@@ -1,0 +1,217 @@
+**kern
+*I"Violin
+*clefG2
+*k[f#]
+*e:
+*M3/2
+!!!OMD: Grave
+2r
+2ee
+2gg
+=
+2ff#
+2ee
+2aa#
+=
+*^
+2r	1.bb
+(2b	.
+2dd)	.
+=	=
+(2cc#	1.aa
+2b	.
+2dd#)	.
+=	=
+2ee	2r
+2r	4gg
+.	4ff#
+2cc#	2gg
+=	=
+2dd	2r
+2r	4ff#
+.	4ee
+2b	2ff#
+=	=
+2cc	2r
+2r	4ee
+.	4gg
+2r	4ff#
+.	4ee
+!!LO:LB:g=original
+=	=
+2a	4ccc
+.	4bb
+2r	4aa
+.	4gg
+2r	4ff#
+.	4ee
+=	=
+2B 2f#	2dd#
+1B	1r
+=	=
+2g 2b	2ee
+1B	1r
+=	=
+2a	2ff#
+(4a	(4ff#
+4a	4ff#
+4a	4ff#
+4a)	4ff#)
+=	=
+1a	1ff#
+*v	*v
+2r
+=
+*^
+4g 4b	4ee
+4b	4gg
+4a	4ff#
+4g	4ee
+4f#	4dd#
+4g	4ee
+=	=
+.	(8eeqq
+1B 1f#	1dd#);
+*v	*v
+2r
+=
+*^
+2e	2r
+2r	2cc
+2a	2cc
+=	=
+2f#	2cc
+2r	(8aa
+.	8gg
+.	4ff#)
+2r	(8ee
+.	4.dd)
+!!LO:LB:g=original
+=	=
+.	(8ccqq
+2g	2b)
+2r	2dd
+2f#	2dd
+=	=
+2g#	2dd
+2r	(8bb
+.	8aa
+.	4gg#)
+2r	(8ff
+.	4.ee)
+=	=
+.	(8ddqq
+2a	4cc)
+.	4b
+4a	2cc
+4e	.
+4f#X	2r
+4d	.
+=	=
+2g	4cc
+.	4a
+4g	2b
+4d	.
+4e	2r
+4B	.
+=	=
+2c 2e	2a
+(8ee	2r
+8dd	.
+4cc)	.
+(8b	2r
+4.a)	.
+=	=
+.	(8ggqq
+2.c	2.d 2.a 2.ff#)
+4cc	4ff#
+4b	4gg
+4a	4ff#
+=	=
+4b	4gg
+4cc	4ee
+2.aT	2.ggT
+4cc	4ff#
+!!LO:LB:g=original
+=	=
+2G 2d 2b	2gg
+2r	2gg
+2r	2bb
+=	=
+2r	2aa
+1r	2gg
+.	2ccc#
+=	=
+2r	1.ddd
+(2dd	.
+2ff#)	.
+=	=
+(2ee	1.ccc
+2dd	.
+2ff#)	.
+=	=
+2G	2r
+2r	4bb
+.	4aa
+2cc	2bb
+=	=
+2f#	2r
+2r	4aa
+.	4gg#
+2b	2aa
+=	=
+2e	2r
+2r	4ggn
+.	4ff#
+2ee	4gg
+.	4ee
+=	=
+2a	2ff
+2r	2ff
+2b	2ff
+!!LO:LB:g=original
+=	=
+2cc	2ff
+2r	4ee
+.	4dd#
+2cc	2ee
+=	=
+2a	4r
+.	4ff#X
+1b	1ff#t
+=	=
+2cc	2ee
+1e	1r
+=	=
+2g#	2dd
+1e	1r
+=	=
+2r	2cc
+(4a	(4cc
+4a	4cc
+4a	4cc
+4a)	4cc)
+=	=
+1.d#	1.cc;
+*v	*v
+=
+2r
+*^
+2g	2b
+.	(8ddqq
+2e	2cc)
+=	=
+.	(8bqq
+2.f#	2.a)
+4d# 4a	4ff#
+2g 2b	2ee
+=	=
+2A	2a
+1B	1f#t
+*v	*v
+=
+1.e
+==
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-19-Fan-01-Gra-Violin
