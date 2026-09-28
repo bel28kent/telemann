@@ -1,0 +1,426 @@
+**kern
+*I"Violin
+*clefG2
+*k[f#]
+*e:
+*M4/4
+*met(c)
+!!!OMD: Presto
+*^
+1r	1ee
+=	=
+1r	1ff#
+=	=
+4r	1gg
+8ee	.
+8dd	.
+4cc	.
+4b	.
+=	=
+4a	1ff#
+4f#	.
+4b	.
+4a	.
+=	=
+2g	4b 4ee
+.	4b
+2r	4ee
+.	4gg
+=	=
+2a	4cc#
+.	4ee
+2r	4aa
+.	4gg
+=	=
+2d	4a 4ff#
+.	4a
+2r	4dd
+.	4ff#
+=	=
+2g	4b
+.	4dd
+2r	4gg
+.	4ff#
+=	=
+2g 2b	4ee
+.	4dd
+2r	4cc#
+.	4b
+!!LO:LB:g=original
+=	=
+4f#	2a#
+4e	.
+4d	2r
+4c#	.
+=	=
+2r	1b
+2d	.
+=	=
+(2e	1cc#
+2f#)	.
+=	=
+1dd	4r
+.	8bb
+.	8aa
+.	4gg
+.	4ff#
+=	=
+1cc#	4ee
+.	4cc#
+.	4ff#
+.	4ee
+=	=
+2B	4f# 4dd
+.	4ff#
+4r	4bb
+4g#	4b
+=	=
+2a	4cc
+.	4ee
+4r	4aa
+4f#	4a
+=	=
+1g	4b
+.	4dd
+.	4gg
+.	4gg
+=	=
+1a	4gg
+.	8ff#
+.	8gg
+.	4aa
+.	4ff#
+!!LO:LB:g=original
+=	=
+1b	4r
+.	8gg
+.	8ff#
+.	4ee
+.	4dd
+=	=
+1a	4cc
+.	4a
+.	4dd
+.	4cc
+=	=
+4g	4b
+(4a	(4cc
+4g	4b
+4f#)	4a)
+=	=
+4g	4b
+(4a	(4cc
+4g	4b
+4f#)	4a)
+=	=
+4g	4g
+4b	4gg
+4a	4ff#
+4g	4ee
+=	=
+4f#	4dd
+4e	4cc
+4d	4b
+4c	4a
+=	=
+2B	(8gL
+.	8a
+.	8b
+.	8ccJ
+4r	4dd)
+4c 4g	4ee
+=	=
+2d	2b
+2d	2aT
+=	=
+2G	4g
+.	4dd
+2b	4gg
+.	4ff#
+!!LO:LB:g=original
+=	=
+2cc	8eeL
+.	8gg
+.	8ff#
+.	8eeJ
+2cc#	4aa
+.	4gg
+=	=
+1dd	4ff#
+.	4a
+.	4dd
+.	4dd
+=	=
+4dd	1ee
+8cc#	.
+8dd	.
+4ee	.
+4cc#	.
+=	=
+4r	1ff#
+8dd	.
+8cc#	.
+4b	.
+4a	.
+=	=
+4g	1ee
+4e	.
+4a	.
+4g	.
+=	=
+4f#	4dd
+(4g	(4ee
+4f#	4dd
+4e)	4cc#)
+=	=
+4f#	4dd
+(4ee	(4gg
+4dd	4ff#
+4cc#)	4ee)
+=	=
+4dd	4ff#
+4cc#	4aa
+4b	4gg
+4a	4ff#
+!!LO:LB:g=original
+=	=
+4g	4ee
+4f#	4dd
+4e	4cc#
+4d	4b
+=	=
+2c#	4a
+.	4cc#
+4r	4ee
+4a	4gg
+=	=
+2d 2dd	4ff#
+.	8ff#
+.	8gg
+4r	4aa
+4g 4dd	4bb
+=	=
+2a	2ff#
+!!LO:TX:a:i:t=[tr]
+2a	2ee
+=	=
+4d	2dd
+4e	.
+4f#	4a
+4g#	4b
+=	=
+4a	2cc
+4e	.
+4a	2cc#
+4gn	.
+=	=
+4f#	2dd
+4e	.
+4f#	2dd#
+4B	.
+=	=
+2g 2b	1ee
+2r	.
+=	=
+1a	1ff#
+=	=
+1b	4gg
+.	8aa
+.	8bb
+.	4aa
+.	4gg#
+!!LO:LB:g=original
+=	=
+1cc	4aa
+.	4ee
+.	4aa
+.	4aa
+=	=
+1cc	4aa
+.	8gg#
+.	8aa
+.	4bb
+.	4ee
+=	=
+1a	4ccc
+.	4ee
+.	4aa
+.	4ggn
+=	=
+*	*^
+2d\	4a/	2ff#
+.	4a/	.
+*	*v	*v
+4dd	2r
+4cc	.
+=	=
+2G 2d 2b	4gg
+.	4dd
+2r	4gg
+.	4ff#
+=	=
+4cc	2ee
+4b	.
+4a	4ff
+4g	4ee
+=	=
+2f#	4dd#
+.	4dd
+2e	4cc#
+.	4cc
+=	=
+2d#	4b
+.	4aa
+2r	4gg
+.	4ff#
+=	=
+1e 1b	4gg
+.	(8ee
+.	8ff#
+.	8gg
+.	8ff#
+.	4ee)
+!!LO:LB:g=original
+=	=
+1f# 1dd	4aa
+.	(8ff#
+.	8gg
+.	8aa
+.	8gg
+.	4ff#)
+=	=
+1g 1dd	4bb
+.	(8gg
+.	8aa
+.	8bb
+.	8aa
+.	4gg)
+=	=
+1f# 1dd#	4aa
+.	(8ff#
+.	8gg
+.	8aa
+.	8gg
+.	4ff#)
+=	=
+4e	2b 2gg
+8ee	.
+8ddn	.
+4cc	4r
+4b	4gg#
+=	=
+4cc	2aa
+4a	.
+4b	4r
+4cc#	4ggn
+=	=
+4d 4dd	2ff#
+8dd	.
+8ccn	.
+4b	4r
+4a	4ff#
+=	=
+4b	2gg
+4g	.
+4a	4r
+4b	4ff#
+=	=
+4cc	2ee
+4b	.
+4a	4ff
+4g	4ee
+!!LO:LB:g=original
+=	=
+2f#X	4dd#
+.	4dd
+2e	4cc#
+.	4cc
+=	=
+2d#	4b
+.	4aa
+2r	4gg
+.	4ff#
+=	=
+2e 2b	2gg
+2b	2ff#t
+=	=
+2e 2b	4ee
+.	4b
+4r	4ee
+4dd#	4ff#
+=	=
+2ee	4gg
+.	4bb
+2dd#	4ff#
+.	4bb
+=	=
+4ee	2gg
+4b	.
+4e	4r
+4dd#	4ff#
+=	=
+2ee	4gg
+.	4bb
+2dd#	4ff#
+.	4bb
+=	=
+4ee	2gg
+4b	.
+4e	4r
+4f#	4dd#
+=	=
+4g	2ee
+4g#	.
+4a	2ff#
+4a#	.
+!!LO:LB:g=original
+=	=
+2b	4r
+.	4ff#
+4r	4gg
+4b	4gg#
+=	=
+4cc	2aa
+4cc#	.
+4dd	2ff#
+4dd#	.
+=	=
+2ee	4gg
+.	4gg#
+2ccn	4aa
+.	4aa#
+*v	*v
+=
+4bb
+4b
+4ccc
+4a
+=
+2ddd#
+8rk
+8aL
+8g
+8f#J
+=
+*^
+2g 2b	4ee
+.	4b
+2d# 2b	4ff#
+.	4b
+=	=
+2e 2b	4gg
+.	(8gg
+.	8aa
+4r	4bb)
+4cc	4aa
+=	=
+2b	2gg
+!!LO:TX:a:i:t=[tr]
+2b	2ff#
+=	=
+1e 1b	1ee
+*v	*v
+==
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-19-Fan-02-Pre-Violin
