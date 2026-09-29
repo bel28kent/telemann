@@ -1,150 +1,161 @@
 **kern
+*I"Violin
+*clefG2
+*k[f#c#g#d#]
+*E:
 *M3/8
-16ee
-16gg#
-16ff#
-16dd#
-16ee
-16cc#
+!!!OMD: Allegro
+(16eeL
+16gg#)
+(16ff#
+16dd#)
+(16ee
+16cc#)J
 =
-16b
-16dd
-16cc#
-16a
-16g#
-16b
+(16b/L
+16dd)
+(16cc#
+16a)
+(16g#
+16b)J
 =
-16a
-16cc#
-16e
-16g#
-16a
-16cc#
+(16aL
+16cc#)
+(16e
+16g#)
+(16a
+16cc#)J
 =
-16g#
-16b
-16e
-16g#
-16b
-16dd#
+(16g#L
+16b)
+(16e
+16g#)
+(16b
+16dd#X)J
+=:|:
+(16gg#L
+16bb)
+(16dd#
+16ee)
+8gg#J
+!!LO:LB:g=original
 =
-16gg#
-16bb
-16dd#
-16ee
-8gg#
+(16ff#L
+16bb)
+(16cc#
+16dd#)
+8ff#J
 =
-16ff#
-16bb
-16cc#
-16dd#
-8ff#
+(16eeL
+16gg#)
+(16b#
+16cc#)
+(16ee
+16cc#)J
 =
-16ee
-16gg#
-16b#
-16cc#
-16ee
-16cc#
+(16f#L
+16a#)
+(16cc#
+16ff#)
+8eeJ
 =
-16f#
-16a#
-16cc#
-16ff#
-8ee
+(16bL
+16dd#)
+(16cc#
+16a#)
+(16b
+16g#)J
 =
-16b
-16dd#
-16cc#
-16a#
-16b
-16g#
+(16f#L
+16an)
+(16g#
+16f#)
+(16dd#
+16ff#)J
 =
-16f#
-16a
-16g#
-16f#
-16dd#
-16ff#
+(16eeL
+16gg#)
+(16b
+16dd#)
+(16ee
+16gg#)J
+!!LO:LB:g=original
 =
-16ee
-16gg#
-16b
-16dd#
-16ee
-16gg#
+(16dd#L
+16ff#)
+(16b
+16dd#)
+(16ff#
+16aa#)J
 =
-16dd#
-16ff#
-16b
-16dd#
-16ff#
-16aa#
+*^
+4r	4b
+8e	8dd
+=	=
+4r	(8cc#L
+.	16b
+.	16a)
+8e	8bJ
+=	=
+4r	4ee
+8e	8dd
+=	=
+4r	(8cc#L
+.	16b
+.	16a)
+8e	8bJ
+=	=
+4r	(8eeL
+.	16gg#
+.	16ee)
+8b	8ff#J
+=	=
+4r	(8aaL
+.	16ff#
+.	16aa)
+8b	8gg#J
+!!LO:LB:g=original
+=	=
+4r	4bb
+8b	8aa
+=	=
+4r	(8gg#L
+.	16ff#
+.	16ee)
+8b	8ff#J
+*v	*v
 =
-4b
-8dd
+(16eeL
+16gg#)
+(16ff#
+16dd#)
+(16ee
+16cc#)J
 =
-8cc#
-16b
-16a
-8b
+(16b/L
+16dd)
+(16cc#
+16a)
+(16g#
+16b)J
 =
-4ee
-8dd
+(16aL
+16cc#)
+(16e
+16g#)
+(16a
+16cc#)J
 =
-8cc#
-16b
-16a
-8b
-=
-8ee
-16gg#
-16ee
-8ff#
-=
-8aa
-16ff#
-16aa
-8gg#
-=
-4bb
-8aa
-=
-8gg#
-16ff#
-16ee
-8ff#
-=
-16ee
-16gg#
-16ff#
-16dd#
-16ee
-16cc#
-=
-16b
-16dd
-16cc#
-16a
-16g#
-16b
-=
-16a
-16cc#
-16e
-16g#
-16a
-16cc#
-=
-16g#
-16b
-16e
-16g#
-16b
-16dd#
-=
+(16g#L
+16b)
+(16e
+16g#)
+(16b
+16dd#X)J
+=:|
 4ee
 8r
+==
 *-
-!!!filter: autobeam
+!!!filter: flipper -a
 !!!filename: tele-40-21-Fan-03-All-Violin
