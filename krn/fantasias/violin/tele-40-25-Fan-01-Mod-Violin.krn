@@ -1,0 +1,365 @@
+**kern
+*I"Violin
+*clefG2
+*k[]
+*a:
+*M3/4
+!!!OMD: Moderato
+8.A
+16ee
+8.aaL
+16cc
+8.b
+16gg#J
+=
+8.A
+16ee
+8.aaL
+16cc
+8.b
+16gg#J
+=
+8.aa
+16a
+*^
+8.ddL	4ff
+16cc	.
+8.b	4ff
+16aJ	.
+=	=
+4g#	8.bL
+.	16ffJ
+*v	*v
+4ee/
+4r
+=
+*^
+4a	8.cc
+.	16b
+2e	4.bt
+.	8a
+=	=
+4A 4e	8.aL
+.	16ccJ
+*v	*v
+8.cc
+16cc
+(8.ccTL
+32b
+32cc)J
+!!LO:LB:g=original
+=
+*^
+8.g	4dd
+16f	.
+(8.fTL	4r
+32e	.
+32f)J	.
+(8.fTL	4r
+32e	.
+32f)J	.
+*v	*v
+=
+8.G
+16dd
+8.dd
+16.dd
+(8.ddTL
+32cc
+32dd)J
+=
+*^
+8.cc	4ee
+16b-	.
+(8.b-TL	4r
+32a	.
+32b-)J	.
+(8.b-TL	4r
+32a	.
+32b-)J	.
+=	=
+4a	8.ff
+.	16ee
+4r	8.ff
+.	16cc
+4e 4cc	8.gg
+.	16cc
+=	=
+4f 4cc	8.aa
+.	16gg
+4r	8.ff
+.	16ee
+4r	8.dd
+.	16cc
+=	=
+4.G 4.d	4.bt
+*v	*v
+16r
+(32dd
+32b
+4g)
+!!LO:LB:g=original
+=
+*^
+4.G 4.e	4.cc
+*v	*v
+16r
+(32ee
+32cc
+4g)
+=
+*^
+4.G 4.f	4.dd
+*v	*v
+16r
+(32ff
+32dd
+4g)
+=
+8.ee
+16cc
+4.bt
+8dd
+=
+*^
+4A 4e	4.cc#t
+8ryy	.
+*v	*v
+(16b
+16a)
+8.dd
+16bb-
+=
+8.aa
+16gg
+*^
+4a	4ff
+4r	4eet
+=	=
+4.Bn 4.f#	4.dd#
+*v	*v
+16r
+(32ff#
+32dd#
+4b)
+=
+*^
+4.e 4.b	4.gg
+*v	*v
+16r
+(32gg
+32ee
+4b)
+=
+*^
+4.d# 4.b	4.aa
+*v	*v
+16r
+(32ff#
+32dd#
+4b)
+!!LO:LB:g=original
+=
+*^
+4e 4b	8.ggL
+.	16bJ
+*v	*v
+8.ee
+16g
+8.f#\
+16.dd#
+=
+8.e
+16b
+8.ee
+16g
+8.f#\
+16dd#
+=
+8.ee
+16e
+*^
+8.a	4cc
+16g	.
+8.f#	4cc
+16e	.
+=	=
+4d#	8.ccL
+.	16a#J
+*v	*v
+(8a#qq
+4.b)
+16r
+16aan
+=
+*^
+4ee	8.gg
+.	16ff#
+2b	4.ff#t
+.	8ee
+=	=
+2e 2b	2ee
+*v	*v
+4e
+=
+(8.fn
+16e
+4f)
+4g#
+!!LO:LB:g=original
+=
+*^
+4a	4r
+4A	4r
+4a	4a
+=	=
+2a	8.b-
+.	16a
+.	4b-
+4g	4cc#
+=	=
+4f	2dd
+4d	.
+4dd	4ff
+*v	*v
+=
+4r
+*^
+8.cc	4ee
+16b	.
+*v	*v
+4cc
+=
+4r
+*^
+8.b	4aa
+16a	.
+4b	4gg#
+=	=
+4a	4ccc
+4dd	8.bb
+.	16aa
+4r	8.gg#
+.	16aa
+=	=
+4.ee	4.gg#t
+*v	*v
+16r
+16eeL
+8.ee
+16eeJ
+=
+*^
+4gn	8.gnL
+.	16eeJ
+*v	*v
+(12ee
+12ff
+12ee)
+(12ee
+12ff
+12ee)
+!!LO:LB:g=original
+=
+*^
+4f	8.aL
+.	16ddJ
+*v	*v
+8.dd
+16dd
+(12ff
+12ee
+12dd)
+=
+*^
+4.G# 4.e	4.dd
+*v	*v
+16r
+16ddL
+8.cc#
+16ddJ
+=
+8.ff
+16dd
+8.gg#
+16ee
+8.bb
+16gg#
+=
+8.aaL
+*^
+16f	16aJ
+2e	2bt
+=	=
+4A 4e	8.aL
+.	16eeJ
+*v	*v
+8.ddL
+16cc
+8.b
+16aJ
+=
+*^
+8.g#L	4b 4ee
+16e	.
+8.e	4r
+16e	.
+8.e	4r
+16eJ	.
+!!LO:LB:g=original
+=	=
+8.A	4e 4cc
+16e	.
+(12e	4r
+12f	.
+12e)	.
+(12e	4r
+12f	.
+12e)	.
+=	=
+8.G#	4e 4dd
+16e	.
+(12e	4r
+12f	.
+12e)	.
+(12e	4r
+12f	.
+12e)	.
+=	=
+4A 4e	8.ccL
+.	16eeJ
+*v	*v
+8.dd
+16cc
+8.b
+16a
+=
+*^
+4.d 4.a	4.ff
+*v	*v
+16r
+16ddL
+8.b
+16gJ
+=
+*^
+4.c 4.g 4.cc	4.ee
+*v	*v
+16r
+16cccL
+8.gg#
+16aaJ
+=
+*^
+8.f	8.a
+16d	16dd
+2e	4.bt
+.	8a
+=	=
+2.A 2.e	2.a
+*v	*v
+==
+*-
+!!!filter: autobeam
+!!!filter: flipper -a
+!!!filename: tele-40-25-Fan-01-Mod-Violin
