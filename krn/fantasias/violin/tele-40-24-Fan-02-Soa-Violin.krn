@@ -1,0 +1,239 @@
+**kern	**dynam
+*I"Violin	*
+*clefG2	*
+*k[b-]	*
+*g:	*
+*M3/8	*
+!!!OMD: Soave
+*^	*
+4G	8gL	.
+.	(16g	.
+.	16a)	.
+8r	(16b-	.
+.	16cc)J	.
+=	=	=
+4g	8ddL	.
+.	(16dd	.
+.	16gg)	.
+8r	(16ff#	.
+.	16gg)J	.
+=	=	=
+4f#	8ddL	.
+.	(16dd	.
+.	16cc)	.
+8r	(16b-	.
+.	16a)J	.
+=	=	=
+4g	(16b-L	.
+.	16a)	.
+.	8gJ	.
+*v	*v	*
+8r	.
+=	=
+*^	*
+4G	8gL	p
+.	(16g	.
+.	16a)	.
+8r	(16b-	.
+.	16cc)J	.
+=	=	=
+4g	8ddL	.
+.	(16dd	.
+.	16gg)	.
+8r	(16ff#	.
+.	16gg)J	.
+!!LO:LB:g=original
+=	=	=
+4f#	8ddL	.
+.	(16dd	.
+.	16cc)	.
+8r	(16b-	.
+.	16a)J	.
+=	=	=
+4g	(16b-L	.
+.	16a)	.
+.	8gJ	.
+*v	*v	*
+8r	.
+=	=
+*^	*
+4g	(16ee-L	f
+.	16gg	.
+.	16bb-)	.
+.	16dd	.
+8r	16ee-	.
+.	16ddJ	.
+=	=	=
+8aL	4cc#t	.
+8A	.	.
+8AJ	8r	.
+=	=	=
+4f	(16ddL	.
+.	16ff	.
+.	16aa)	.
+.	16cc#	.
+8r	16dd	.
+.	16ccJ	.
+=	=	=
+8fL	4bt	.
+8G	.	.
+8GJ	8r	.
+=	=	=
+4e	8b-XL	.
+.	(16b-	.
+.	16a)	.
+8r	(16b-	.
+.	16cc)J	.
+!!LO:LB:g=original
+=	=	=
+8.fL	8.aL	.
+16e	16cc#	.
+8dJ	8ddJ	.
+*v	*v	*
+=	=
+16gL	.
+16eeJ	.
+*^	*
+4a	4eet	.
+=	=	=
+4d	16ddL	.
+.	16b-	.
+.	16a	.
+.	16g	.
+8r	16f	.
+.	16eJ	.
+=	=	=
+4d 4a	8ffL	.
+.	(16ff	.
+.	16ee)	.
+8r	8ffJ	.
+=	=	=
+4B	8gL	.
+.	(16ff	.
+.	16ee)	.
+8r	8ffJ	.
+=	=	=
+4G	8dL	.
+.	(16gg	.
+.	16ff)	.
+8r	(16ee-	.
+.	16dd)J	.
+*v	*v	*
+=	=
+(16ee-L	.
+16cc)	.
+(16dd	.
+16b)	.
+(16cc	.
+16g)J	.
+=	=
+*^	*
+4c 4g	8ee-L	.
+.	(16ee-	.
+.	16dd)	.
+8r	8ee-J	.
+!!LO:LB:g=original
+=	=	=
+4A	8fL	.
+.	(16ee-	.
+.	16dd)	.
+8r	8ee-J	.
+*v	*v	*
+=	=
+(16cccL	.
+16bb-	.
+16aa	.
+16gg)	.
+16ff	.
+16ee-J	.
+=	=
+16B-L	.
+(16ee-	.
+16dd	.
+16cc#	.
+16dd)	.
+16f#J	.
+=	=
+8gL	.
+(16B-	.
+16A	.
+8G)J	.
+=	=
+8aL	.
+(16c	.
+16B-	.
+8A)J	.
+=	=
+8b-L	.
+(16d	.
+16g)	.
+(16a	.
+16f#)J	.
+=	=
+8ccL	.
+(16e-	.
+16d)	.
+8e-J	.
+=	=
+*^	*
+4c	(16a-L	.
+.	16cc	.
+.	16ee-)	.
+.	16g	.
+8r	16a-	.
+.	16gJ	.
+!!LO:LB:g=original
+=	=	=
+4d	4f#t;	.
+*v	*v	*
+8r	.
+=	=
+8ddL	.
+(16cc	.
+16b-)	.
+(16a	.
+16g)J	.
+=	=
+8ggL	.
+(16ff	.
+16ee-)	.
+(16dd	.
+16cc)J	.
+=	=
+*^	*
+8g	16b-L	.
+.	16aJ	.
+4d	8.atL	.
+.	16gJ	.
+*v	*v	*
+=	=
+8.gL	.
+16a	.
+16b-	.
+16ccJ	.
+=	=
+8ddL	.
+(16cc	.
+16b-)	.
+(16a	.
+16g)J	.
+=	=
+8ggL	.
+(16ff	.
+16ee-)	.
+(16dd	.
+16cc)J	.
+=	=
+*^	*
+8g	16b-L	.
+.	16aJ	.
+4d	8.atL	.
+.	16gJ	.
+*v	*v	*
+=	=
+4.G 4.g	.
+!!LO:TX:b:i:t=Da capo Un poco vivace
+==	==
+*-	*-
+!!!filter: flipper -a
+!!!filename: tele-40-24-Fan-02-Soa-Violin
