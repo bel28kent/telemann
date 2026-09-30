@@ -1,207 +1,236 @@
 **kern
+*I"Violin
+*clefG2
+*k[f#c#]
+*D:
 *M9/8
+!!!OMD: Allegro
 4aa
 8d
 4f#
 8B
-8aa
-8gg
+(8aa
+8gg)
 8ff#
 =
 4gg
 8c#
 4e
 8A
-8gg
-8ff#
+(8gg
+8ff#)
 8ee
 =
-8ff#
-8ee
+(8ff#
+8ee)
 8dd
-8aa
-8ff#
+(8aa
+8ff#)
 8dd
-8bb
-8gg
+(8bb
+8gg)
 8ee
 =
-8cc#
-8ee
+8cc#`
+(8ee
 8dd
 8cc#
 8b
 8a
 8g
 8f#
-8e
+8e)
 =
 4aa
 8d
 4f#
 8B
-8aa
-8gg
+(8aa
+8gg)
 8ff#
+!!LO:LB:g=original
 =
 4gg
 8c#
 4e
 8A
-8gg
-8ff#
+(8gg
+8ff#)
 8ee
 =
-8ff#
-8ee
+(8ff#
+8ee)
 8dd
-8aa
-8ff#
+(8aa
+8ff#)
 8dd
-8a
-8dd
+(8a
+8dd)
 8cc#
 =
-8d
-8f#
+(8d
+8f#)
 8a
-8f#
-8a
+(8f#
+8a)
 8dd
-8a
-8dd
+(8a
+8dd)
 8ff#
+=:|
+*^
+(8cc#	(4.ee
+8a	.
+8b)	.
+(8cc#	4.ee
+8a	.
+8b)	.
+(8cc#	4.ee
+8b	.
+8a)	.
+=	=
+(8g#	4.dd
+8e	.
+8f#)	.
+(8g#	4.dd
+8e	.
+8f#)	.
+(8g#	4.dd)
+8f#	.
+8e)	.
+!!LO:LB:g=original
+=	=
+4a	4cc#
+*v	*v
+8aa/
+*^
+4g#	4dd
+*v	*v
+8bb/
+*^
+4a	4cc#
+*v	*v
+8aa/
 =
-4.ee
-4.ee
-4.ee
-=
-4.dd
-4.dd
-4.dd
-=
-4cc#
-8aa
-4dd
-8bb
-4cc#
-8aa
-=
+*^
+4e`	8b`L
+.	(8g#
+*v	*v
+8aJ
 8b
-8g#
-8a
-8b
 8cc#
 8dd
 8ee
 8ff#
-8gg#
+8gg#)
 =
-8a
-8ee
+(8a
+8ee)
 8cc#
-8a
-8ff#
+(8a
+8ff#)
 8dd
-8a
-8gg#
+(8a
+8gg#)
 8ee
 =
-8a
-8aa
+(8a
+8aa)
 8ff#
-8a
-8bb
+(8a
+8bb)
 8gg#
-8a
-8ccc#
+(8a
+8ccc#)
 8aa
 =
-8ddd
-8ccc#
+(8ddd
+8ccc#)
 8bb
-8eee
-8ccc#
+(8eee
+8ccc#)
 8aa
-8ee
-8aa
+(8ee
+8aa)
 8gg#
+!!LO:LB:g=original
 =
 4a
-8g
-16f#
+8gn
+(16f#
 16g
 16a
 16b
 16cc#
-16dd
-16e
+16dd)
+(16e
 16f#
 16g
 16a
 16b
-16cc#
+16cc#)
 =
 4aa
 8d
 4f#
 8B
-8aa
-8gg
+(8aa
+8gg)
 8ff#
 =
 4gg
 8c#
 4e
 8A
-8gg
-8ff#
+(8gg
+8ff#)
 8ee
 =
-8ff#
-8ee
+(8ff#
+8ee)
 8dd
-8aa
-8ff#
+(8aa
+8ff#)
 8dd
-8bb
-8gg
+(8bb
+8gg)
 8ee
+!!LO:LB:g=original
 =
-8cc#
-8ee
+8cc#`
+(8ee
 8dd
 8cc#
 8b
 8a
 8g
 8f#
-8e
+8e)
 =
 4aa
 8d
 4f#
 8B
-8aa
-8gg
+(8aa
+8gg)
 8ff#
 =
 4gg
 8c#
 4e
 8A
-8gg
-8ff#
+(8gg
+8ff#)
 8ee
 =
-8ff#
-8ee
+(8ff#
+8ee)
 8dd
-8aa
-8ff#
+(8aa
+8ff#)
 8dd
-8a
-8dd
+(8a
+8dd)
 8cc#
 =
 4.dd
@@ -209,6 +238,8 @@
 8r
 4r
 8r
+==
 *-
 !!!filter: autobeam
+!!!filter: flipper -a
 !!!filename: tele-40-23-Fan-03-All-Violin
