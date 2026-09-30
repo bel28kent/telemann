@@ -1,573 +1,614 @@
-**kern
-*M4/4
-2d
-2dd
-=
-4r
-8cc#
-8b
-4a
-4g
-=
-8f#
-8a
-8f#
-8d
-8g
-8b
-8g
-8d
-=
-8f#
-8a
-8f#
-8d
-8g#
-8b
-8g#
-8e
-=
-2a
-4aa
-4b
-=
-4e
-8gg#
-8ff#
-4ee
-4dd
-=
-8cc#
-8ee
-8cc#
-8a
-8dd
-8ff#
-8dd
-8a
-=
-8cc#
-8ee
-8cc#
-8a
-8dd#
-8ff#
-8dd#
-8b
-=
-4ee
-4e
-4e
-12gg
-12ff#
-12ee
-=
-4ff#
-4B
-4B
-12aa
-12gg
-12ff#
-=
-4gg
-4e
-4e
-12bb
-12aa
-12gg
-=
-8aa
-8aa
-8gg
-8aa
-8ff#
-8aa
-8ee
-8aa
-=
-8dd#
-8aa
-8cc#
-8aa
-8b
-8aa
-8cc#
-8aa
-=
-8dd#
-8aa
-8b
-8aa
-8cc#
-8aa
-8dd#
-8aa
-=
-4gg
-4bb
-4gg
-4ee
-=
-4cc#
-4ee
-4cc#
-4a
-=
-2dd
-4d
-12ff#
-12ee
-12dd
-=
-4ee
-4A
-4A
-12gg
-12ff#
-12ee
-=
-4ff#
-4d
-4d
-12aa
-12gg
-12ff#
-=
-8gg
-8gg
-8ff#
-8gg
-8ee
-8gg
-8dd
-8gg
-=
-8cc#
-8gg
-8b
-8gg
-8a
-8gg
-8b
-8gg
-=
-8cc#
-8gg
-8a
-8gg
-8b
-8gg
-8cc#
-8gg
-=
-2ff#
-4ddd
-4ee
-=
-4a
-8ccc#
-8bb
-4aa
-4gg
-=
-8ff#
-8aa
-8ff#
-8dd
-8gg
-8bb
-8gg
-8dd
-=
-8ff#
-8aa
-8ff#
-8dd
-8ff#
-8ddd
-8ff#
-8ddd
-=
-8ee
-8ff#
-8ee
-8a
-8ee
-8ddd
-8ee
-8ddd
-=
-8ee
-8ff#
-8ee
-8a
-8ee
-8ccc#
-8ee
-8ccc#
-=
-8dd
-8ee
-8dd
-8b
-8dd
-8ccc#
-8dd
-8ccc#
-=
-8dd
-8ee
-8dd
-8b
-8dd
-8bb
-8dd
-8bb
-=
-8cc#
-8dd
-8cc#
-8f#
-8cc#
-8bb
-8cc#
-8bb
-=
-4aa#
-4ff#
-4cc#
-4ff#
-=
-2b
-4bb
-4cc#
-=
-4f#
-8aa#
-8gg#
-4ff#
-4ee
-=
-8dd
-8ff#
-8dd
-8b
-8ee
-8gg
-8ee
-8b
-=
-8dd
-8ff#
-8dd
-8b
-4bb
-4b
-=
-4e
-4cc#
-4f#
-4a#
-=
-4B
-4bb
-4ee
-4gg
-=
-4a
-4ff#
-4b
-4dd#
-=
-4e
-4ee
-4a
-4cc#
-=
-4d
-4b
-4e
-4g#
-=
-2a
-4aa
-4b
-=
-4e
-8gg#
-8ff#
-4ee
-4dd
-=
-8cc#
-8ee
-8cc#
-8a
-8dd
-8ff#
-8dd
-8a
-=
-8cc#
-8ee
-8cc#
-8a
-4aa
-4a
-=
-4b
-4aa
-4gg#
-4ff#
-=
-4cc#
-4aa
-4gg#
-4ff#
-=
-4dd
-4aa
-4gg#
-4ff#
-=
-4g#
-4bb
-4ee
-4b
-=
-4e#
-4gg#
-4a
-4ff#
-=
-4b
-4gg#
-4cc#
-4ee#
-=
-2ff#
-2r
-=
-2d
-4dd
-4e
-=
-4A
-8cc#
-8b
-4a
-4g#
-=
-8f#
-8a
-8f#
-8d
-8g
-8b
-8g
-8d
-=
-8f#
-8a
-8f#
-8d
-8dd
-8a
-8b
-8cc
-=
-8b
-8g
-8a
-8b
-8ee
-8b
-8cc#
-8dd
-=
-8cc#
-8a
-8b
-8cc#
-8ff#
-8cc#
-8dd
-8ee
-=
-8dd
-8b
-8cc#
-8dd
-4b
-4gg
-=
-4a
-4ff#
-4g
-4ee
-=
-8f#
-8a
-8dd
-8a
-4b
-4gg
-=
-4a
-4ff#
-4g
-4ee
-=
-8f#
-8a
-8dd
-8ee
-8ff#
-8dd
-8ff#
-8gg
-=
-8aa
-8ff#
-8gg
-8aa
-8bb
-8gg
-8aa
-8ff#
-=
-8gg
-8ee
-8ff#
-8dd
-8ee
-8cc#
-8dd
-8b
-=
-8cc#
-8a
-8b
-8g#
-4a
-4gg
-=
-2ff#
-2ee
-=
-2dd
-8d
-8a
-8b
-8cc
-=
-8b
-8g
-8a
-8b
-8ee
-8b
-8cc#
-8dd
-=
-8cc#
-8a
-8b
-8cc#
-8ff#
-8cc#
-8dd
-8ee
-=
-8dd
-8b
-8cc#
-8dd
-8gg
-8ee
-8ff#
-8dd
-=
-8gg
-8ee
-8ff#
-8dd
-8bb
-8gg
-8aa
-8ff#
-=
-8gg
-8ee
-8ff#
-8dd
-8ee
-8cc#
-8dd
-8b
-=
-8cc#
-8a
-8dd
-8g#
-4a
-4gg
-=
-4a
-4ff#
-4g
-4ee
-=
-8f#
-8a
-8dd
-8cc#
-4dd
-4gg
-=
-4a
-4ff#
-4g
-4ee
-=
-8f#
-8d
-8e
-8f#
-8g
-8a
-8b
-8cc#
-=
-8dd
-8f#
-8g
-8a
-8b
-8cc#
-8dd
-8ee
-=
-8ff#
-8dd
-8ff#
-8gg
-4aa
-4gg
-=
-2ff#
-2ee
-=
-4dd
-8cc#
-8b
-4a
-4g
-=
-2f#
-2e
-=
-1d
-*-
+**kern	**dynam
+*I"Violin	*
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M4/4	*
+*met(c)	*
+!!!OMD: Presto
+2d	.
+2dd	.
+=	=
+4r	.
+8cc#	.
+8b	.
+4a	.
+4g	.
+=	=
+8f#L	.
+8a	.
+8f#	.
+8dJ	.
+8gL	.
+8b	.
+8g	.
+8dJ	.
+=	=
+8f#L	.
+8a	.
+8f#	.
+8dJ	.
+8g#L	.
+8b	.
+8g#	.
+8eJ	.
+=	=
+2a	.
+4aa	.
+4b	.
+=	=
+4e	.
+8gg#	.
+8ff#	.
+4ee	.
+4dd	.
+!!LO:LB:g=original
+=	=
+8cc#L	.
+8ee	.
+8cc#	.
+8aJ	.
+8ddL	.
+8ff#	.
+8dd	.
+8aJ	.
+=	=
+8cc#L	.
+8ee	.
+8cc#	.
+8aJ	.
+8dd#L	.
+8ff#	.
+8dd#	.
+8bJ	.
+=	=
+4ee	.
+4e	.
+4e	.
+(12gg	.
+12ff#	.
+12ee)	.
+=	=
+4ff#	.
+4B	.
+4B	.
+(12aa	.
+12gg	.
+12ff#)	.
+=	=
+4gg	.
+4e	.
+4e	.
+(12bb	.
+12aa	.
+12gg)	.
+=	=
+8aaL	.
+8aa	.
+8gg	.
+8aaJ	.
+8ff#L	.
+8aa	.
+8ee	.
+8aaJ	.
+!!LO:LB:g=original
+=	=
+8dd#L	.
+8aa	.
+8cc#	.
+8aaJ	.
+8bL	.
+8aa	.
+8cc#	.
+8aaJ	.
+=	=
+8dd#L	.
+8aa	.
+8b	.
+8aaJ	.
+8cc#L	.
+8aa	.
+8dd#	.
+8aaJ	.
+=	=
+*^	*
+2ee	4gg	.
+.	4bb	.
+2r	4gg	.
+.	4ee	.
+=	=	=
+2a	4cc#	.
+.	4ee	.
+2r	4cc#	.
+.	4a	.
+=	=	=
+4f#	2dd	.
+4d	.	.
+*v	*v	*
+4d	.
+(12ff#	.
+12ee	.
+12dd)	.
+=	=
+4ee	.
+4A	.
+4A	.
+(12gg	.
+12ff#	.
+12ee)	.
+=	=
+4ff#	.
+4d	.
+4d	.
+(12aa	.
+12gg	.
+12ff#)	.
+!!LO:LB:g=original
+=	=
+8ggL	.
+8gg	.
+8ff#	.
+8ggJ	.
+8eeL	.
+8gg	.
+8dd	.
+8ggJ	.
+=	=
+8cc#L	.
+8gg	.
+8b	.
+8ggJ	.
+8aL	.
+8gg	.
+8b	.
+8ggJ	.
+=	=
+8cc#L	.
+8gg	.
+8a	.
+8ggJ	.
+8bL	.
+8gg	.
+8cc#	.
+8ggJ	.
+=	=
+*^	*
+2dd	2ff#	.
+*v	*v	*
+4ddd	.
+4ee	.
+=	=
+4a	.
+8ccc#	.
+8bb	.
+4aa	.
+4gg	.
+=	=
+8ff#L	.
+8aa	.
+8ff#	.
+8ddJ	.
+8ggL	.
+8bb	.
+8gg	.
+8ddJ	.
+=	=
+8ff#L	.
+8aa	.
+8ff#	.
+8ddJ	.
+8ff#L	.
+8ddd	.
+8ff#	.
+8dddJ	.
+!!LO:LB:g=original
+=	=
+(8eeL	.
+8ff#	.
+8ee)	.
+8aJ	.
+8eeL	.
+8ddd	.
+8ee	.
+8dddJ	.
+=	=
+(8eeL	.
+8ff#	.
+8ee)	.
+8aJ	.
+8eeL	.
+8ccc#	.
+8ee	.
+8ccc#J	.
+=	=
+(8ddL	.
+8ee	.
+8dd)	.
+8bJ	.
+8ddL	.
+8ccc#	.
+8dd	.
+8ccc#J	.
+=	=
+(8ddL	.
+8ee	.
+8dd)	.
+8bJ	.
+8ddL	.
+8bb	.
+8dd	.
+8bbJ	.
+=	=
+(8cc#L	.
+8dd	.
+8cc#)	.
+8f#J	.
+8cc#L	.
+8bb	.
+8cc#	.
+8bbJ	.
+=	=
+4aa#	.
+4ff#	.
+4cc#	.
+4ff#	.
+=	=
+2b	.
+4bb	.
+4cc#	.
+!!LO:LB:g=original
+=	=
+4f#	.
+8aa#	.
+8gg#	.
+4ff#	.
+4ee	.
+=	=
+8ddL	.
+8ff#	.
+8dd	.
+8bJ	.
+8eeL	.
+8gg	.
+8ee	.
+8bJ	.
+=	=
+8ddL	.
+8ff#	.
+8dd	.
+8bJ	.
+4bb	.
+4b	.
+=	=
+4e	.
+4cc#	.
+4f#	.
+4a#	.
+=	=
+4B	.
+4bb	.
+4ee	.
+4gg	.
+=	=
+4a	.
+4ff#	.
+4b	.
+4dd#	.
+=	=
+4e	.
+4ee	.
+4a	.
+4cc#	.
+=	=
+4d	.
+4b	.
+4e	.
+4g#	.
+!!LO:LB:g=original
+=	=
+*^	*
+2A 2e	2a	.
+*v	*v	*
+4aa	.
+4b	.
+=	=
+4e	.
+8gg#	.
+8ff#	.
+4ee	.
+4dd	.
+=	=
+8cc#L	.
+8ee	.
+8cc#	.
+8aJ	.
+8ddL	.
+8ff#	.
+8dd	.
+8aJ	.
+=	=
+8cc#L	.
+8ee	.
+8cc#	.
+8aJ	.
+4aa	.
+4a	.
+=	=
+4b	.
+(4aa	.
+4gg#	.
+4ff#)	.
+=	=
+4cc#	.
+(4aa	.
+4gg#	.
+4ff#)	.
+=	=
+4dd	.
+(4aa	.
+4gg#	.
+4ff#)	.
+=	=
+4g#	.
+4bb	.
+4ee	.
+4b	.
+!!LO:LB:g=original
+=	=
+4e#	.
+4gg#	.
+4a	.
+4ff#	.
+=	=
+4b	.
+4gg#	.
+4cc#	.
+4ee#	.
+=	=
+*^	*
+2f# 2cc#	2ff#	.
+*v	*v	*
+2r	.
+=	=
+2d	.
+4dd	.
+4e	.
+=	=
+4A	.
+8cc#	.
+8b	.
+4a	.
+4g	.
+=	=
+8f#L	.
+8a	.
+8f#	.
+8dJ	.
+8gL	.
+8b	.
+8g	.
+8dJ	.
+=	=
+8f#L	.
+8a	.
+8f#	.
+8dJ	.
+8ddL	.
+8a	.
+8b	.
+8ccJ	.
+=	=
+8bL	.
+8g	.
+8a	.
+8bJ	.
+8eeL	.
+8b	.
+8cc#X	.
+8ddJ	.
+!!LO:LB:g=original
+=	=
+8cc#L	.
+8a	.
+8b	.
+8cc#J	.
+8ff#L	.
+8cc#	.
+8dd	.
+8eeJ	.
+=	=
+8ddL	.
+8b	.
+8cc#	.
+8ddJ	.
+4b	.
+4gg	.
+=	=
+4a	.
+4ff#	.
+4g	.
+4ee	.
+=	=
+8f#L	p
+8a	.
+8dd	.
+8aJ	.
+4b	.
+4gg	.
+=	=
+4a	.
+4ff#	.
+4g	.
+4ee	.
+=	=
+8f#L	f
+8a	.
+8dd	.
+8eeJ	.
+8ff#L	.
+8dd	.
+8ff#	.
+8ggJ	.
+=	=
+8aaL	.
+8ff#	.
+8gg	.
+8aaJ	.
+(8bbL	.
+8gg)	.
+(8aa	.
+8ff#)J	.
+!!LO:LB:g=original
+=	=
+(8ggL	.
+8ee)	.
+(8ff#	.
+8dd)J	.
+(8eeL	.
+8cc#)	.
+(8dd	.
+8b)J	.
+=	=
+(8cc#L	.
+8a)	.
+(8b	.
+8g#)J	.
+4a	.
+*^	*
+4cc#	4ggn	.
+=	=	=
+2dd	2ff#	.
+2a	2eeT	.
+=	=	=
+8dL	2dd	p
+8f#	.	.
+8g	.	.
+8aJ	.	.
+*v	*v	*
+8dL	.
+8a	.
+8b	.
+8ccJ	.
+=	=
+8bL	.
+8g	.
+8a	.
+8bJ	.
+8eeL	.
+8b	.
+8cc#X	.
+8ddJ	.
+=	=
+8cc#L	.
+8a	.
+8b	.
+8cc#J	.
+8ff#L	.
+8cc#	.
+8dd	.
+8eeJ	.
+!!LO:LB:g=original
+=	=
+8ddL	.
+8b	.
+8cc#	.
+8ddJ	.
+(8ggL	.
+8ee)	.
+(8ff#	.
+8dd)J	.
+=	=
+(8ggL	.
+8ee)	.
+(8ff#	.
+8dd)J	.
+(8bbL	.
+8gg)	.
+(8aa	.
+8ff#)J	.
+=	=
+(8ggL	.
+8ee)	.
+(8ff#	.
+8dd)J	.
+(8eeL	.
+8cc#)	.
+(8dd	.
+8b)J	.
+=	=
+(8cc#L	.
+8a)	.
+(8dd	.
+8g#)J	.
+4a	f
+*^	*
+4b	4ggn	.
+*v	*v	*
+=	=
+4a	.
+4ff#	.
+4g	.
+4ee	.
+=	=
+8f#L	.
+8a	.
+8dd	.
+8cc#J	.
+4dd	.
+*^	*
+4b	4gg	.
+*v	*v	*
+!!LO:LB:g=original
+=	=
+4a	.
+4ff#	.
+4g	.
+4ee	.
+=	=
+8f#L	.
+8d	.
+8e	.
+8f#J	.
+8gL	.
+8a	.
+8b	.
+8cc#J	.
+=	=
+8ddL	.
+8f#	.
+8g	.
+8aJ	.
+8bL	.
+8cc#	.
+8dd	.
+8eeJ	.
+=	=
+8ff#L	.
+8dd	.
+8ff#	.
+8ggJ	.
+4aa	.
+*^	*
+4cc#	4gg	.
+=	=	=
+2dd	2ff#	.
+!!LO:TX:a:i:t=[tr]
+2a	2ee	.
+=	=	=
+2B 2f#	4dd	.
+.	8cc#	.
+.	8b	.
+4r	4a	.
+4c#	4g	.
+=	=	=
+2d	2f#	.
+!!LO:TX:a:i:t=[tr]
+2A	2e	.
+=	=	=
+1d	1d	.
+*v	*v	*
+==	==
+*-	*-
 !!!filter: autobeam
+!!!filter: flipper -a
 !!!filename: tele-40-23-Fan-01-Pre-Violin
