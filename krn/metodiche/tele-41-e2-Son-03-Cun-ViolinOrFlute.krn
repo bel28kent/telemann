@@ -68,7 +68,7 @@
 .	8dd
 8r	8r
 =	=
-8d	8ff#
+8d	16ff#
 .	32gg
 .	32aa
 8d	16gg
@@ -127,12 +127,13 @@
 .	16b
 8DD	16cc
 .	16a
-4GG	16g
-.	16a
-.	16g
-.	16f#
+4GG	32g
+.	32a
+.	32g
+.	32f#
 .	8g
 8r	8r
+==	==
 *-	*-
 !!!filter: autobeam
 !!!filename: tele-41-e2-Son-03-Cun-ViolinOrFlute
