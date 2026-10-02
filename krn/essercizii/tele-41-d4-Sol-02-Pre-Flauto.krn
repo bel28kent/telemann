@@ -503,8 +503,8 @@
 .	8ee
 =	=
 2D	4ff
-2r	4dd
-.	4cc#
+.	4dd
+2r	4cc#
 .	4dd
 =	=
 4E	2.gg
@@ -550,10 +550,10 @@
 4C	4aa
 4D	4bb
 =	=
-8E	2.gg#
-8D	.
-8E	.
-8EE	4aa
+4E	2.gg#
+4D	.
+4E	.
+4EE	4aa
 =	=
 2C#	4gg
 .	8ff
