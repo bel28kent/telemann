@@ -3,7 +3,7 @@
 for i in $(find krn -type f -and -name '*tele-41*' -print)
 do
     FILENAME=$(awk ' /filename/ { print $2 } ' $i)
-    MAYBE_SOLO=$(grep 'Sol' $FILENAME)
+    MAYBE_SOLO=$(echo $FILENAME | grep 'Sol')
 
     if [[ -z $MAYBE_SOLO ]]
     then
