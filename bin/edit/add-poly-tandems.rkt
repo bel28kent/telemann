@@ -2,7 +2,10 @@
 
 (require "../../lib/humdrum.rkt"
          "../../lib/io.rkt"
+         (only-in racket/bool
+                  false?)
          (only-in racket/list
+                  empty?
                   first
                   second
                   third
@@ -17,12 +20,12 @@
           (io_directory_read "krn/essercizii" #:append? #t)))
 
 (define (get_instrumentation instrumentation path)
-  (cond [(string=? instrumentation "Flauto")        TANDEM_INSTRUMENT_FLAUTO]
-        [(string=? instrumentation "Flute")         TANDEM_INSTRUMENT_FLUTE]
-        [(string=? instrumentation "Oboe")          TANDEM_INSTRUMENT_OBOE]
-        [(string=? instrumentation "Viol")          TANDEM_INSTRUMENT_VIOL]
-        [(string=? instrumentation "Violin")        TANDEM_INSTRUMENT_VIOLIN]
-        [(string=? instrumentation "ViolinOrFlute") TANDEM_INSTRUMENT_VOF]
+  (cond [(regexp-match? #px"^Flauto"        instrumentation) TANDEM_INSTRUMENT_FLAUTO]
+        [(regexp-match? #px"^Flute"         instrumentation) TANDEM_INSTRUMENT_FLUTE]
+        [(regexp-match? #px"^Oboe"          instrumentation) TANDEM_INSTRUMENT_OBOE]
+        [(regexp-match? #px"^Viol"          instrumentation) TANDEM_INSTRUMENT_VIOL]
+        [(regexp-match? #px"^ViolinOrFlute" instrumentation) TANDEM_INSTRUMENT_VOF]
+        [(regexp-match? #px"^Violin"        instrumentation) TANDEM_INSTRUMENT_VIOLIN]
         [else
           (error "could not identify instrumentation" path)]))
 
@@ -57,7 +60,7 @@
         [(regexp-match? #px"D" key) TANDEM_KEY_LABEL_D_MAJOR]
         [(regexp-match? #px"E" key) TANDEM_KEY_LABEL_E_MAJOR]
         [(regexp-match? #px"F" key) TANDEM_KEY_LABEL_F_MAJOR]
-        [(regexp-match? #px"G" key) TANDEM_KEY_LABELE_G_MAJOR]
+        [(regexp-match? #px"G" key) TANDEM_KEY_LABEL_G_MAJOR]
         [(regexp-match? #px"a" key) TANDEM_KEY_LABEL_A_MINOR]
         [(regexp-match? #px"c" key) TANDEM_KEY_LABEL_C_MINOR]
         [(regexp-match? #px"d" key) TANDEM_KEY_LABEL_D_MINOR]
@@ -110,11 +113,13 @@
           (define exclusive            (second              records_old))
           (define instrumentation      (get_instrumentation path_instrumentation path))
           (define clef                 (get_clef            instrumentation))
-          (define key_signature        (get_key_signature   key                  path))
-          (define key_label            (get_key_label       key                  path))
+          (define key_signature        (get_key_signature   path_key             path))
+          (define key_label            (get_key_label       path_key             path))
           (define time_signature       (third               records_old))
-          (define met                  (get_met             (string-split time_signature TAB)))
-          (define tempo                (get_tempo           tempo                path))]
+          (define met                  (get_met
+                                         (first
+                                           (string-split time_signature TAB))))
+          (define tempo                (get_tempo           path_tempo           path))]
     (append (list filename
                   exclusive
                   (string-append TANDEM_INSTRUMENT_CONTINUO TAB TANDEM_INSTRUMENT_CONTINUO TAB instrumentation)
@@ -123,7 +128,8 @@
                   (string-append key_label                  TAB TANDEM_NULL                TAB key_label)
                   (string-append time_signature
                                  (if (not (false? met))
-                                     (string-append NEWLINE met)
+                                     (string-append NEWLINE
+                                                    (string-append met TAB TANDEM_NULL TAB met)
                                      ""))
                   (string-append REFERENCE_RECORD_MOVEMENT_DESIGNATION SPACE tempo))
             (list-tail records_old 3))))
