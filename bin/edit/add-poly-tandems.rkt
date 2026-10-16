@@ -23,9 +23,9 @@
   (cond [(regexp-match? #px"^Flauto"        instrumentation) TANDEM_INSTRUMENT_FLAUTO]
         [(regexp-match? #px"^Flute"         instrumentation) TANDEM_INSTRUMENT_FLUTE]
         [(regexp-match? #px"^Oboe"          instrumentation) TANDEM_INSTRUMENT_OBOE]
-        [(regexp-match? #px"^Viol"          instrumentation) TANDEM_INSTRUMENT_VIOL]
         [(regexp-match? #px"^ViolinOrFlute" instrumentation) TANDEM_INSTRUMENT_VOF]
         [(regexp-match? #px"^Violin"        instrumentation) TANDEM_INSTRUMENT_VIOLIN]
+        [(regexp-match? #px"^Viol"          instrumentation) TANDEM_INSTRUMENT_VIOL]
         [else
           (error "could not identify instrumentation" path)]))
 
