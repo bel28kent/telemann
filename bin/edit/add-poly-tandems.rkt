@@ -129,7 +129,7 @@
                   (string-append time_signature
                                  (if (not (false? met))
                                      (string-append NEWLINE
-                                                    (string-append met TAB TANDEM_NULL TAB met)
+                                                    (string-append met TAB TANDEM_NULL TAB met))
                                      ""))
                   (string-append REFERENCE_RECORD_MOVEMENT_DESIGNATION SPACE tempo))
             (list-tail records_old 3))))
