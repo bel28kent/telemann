@@ -2,8 +2,15 @@
 
 (require "../../lib/humdrum.rkt"
          "../../lib/io.rkt"
+         (only-in racket/list
+                  first
+                  second
+                  third
+                  rest)
          racket/local
-         racket/string)
+         (only-in racket/string
+                  string-replace
+                  string-split))
 
 (define PATH_POLY
   (append (io_directory_read "krn/metodiche"  #:append? #t)
@@ -67,62 +74,75 @@
           #f]))
 
 (define (get_tempo tempo path)
-  (cond [(string=? tempo "Ada") "!!!OMD: Adagio"]
-        [(string=? tempo "Aff") "!!!OMD: Affettuoso"]
-        [(string=? tempo "All") "!!!OMD: Allegro"]
-        [(string=? tempo "And") "!!!OMD: Andante"]
-        [(string=? tempo "Can") "!!!OMD: Cantabile"]
-        [(string=? tempo "Con") "!!!OMD: Con tenerezza"]
-        [(string=? tempo "Cor") "!!!OMD: Cortesemente"]
-        [(string=? tempo "Cun") "!!!OMD: Cunando"]
-        [(string=? tempo "Dol") "!!!OMD: Dolce"]
-        [(string=? tempo "Gra") "!!!OMD: Grave"]
-        [(string=? tempo "Lar") "!!!OMD: Largo"]
-        [(string=? tempo "Mes") "!!!OMD: Mesto"]
-        [(string=? tempo "Ond") "!!!OMD: Ondeggiando"]
-        [(string=? tempo "Pre") "!!!OMD: Presto"]
-        [(string=? tempo "Rec") "!!!OMD: Recitativo"]
-        [(string=? tempo "Sic") "!!!OMD: Siciliana"]
-        [(string=? tempo "Soa") "!!!OMD: Soave"]
-        [(string=? tempo "Spi") "!!!OMD: Spirituoso"]
-        [(string=? tempo "Tem") "!!!OMD: Tempo giusto"]
-        [(string=? tempo "Viv") "!!!OMD: Vivace"]
+  (cond [(string=? tempo "Ada") "Adagio"]
+        [(string=? tempo "Aff") "Affettuoso"]
+        [(string=? tempo "All") "Allegro"]
+        [(string=? tempo "And") "Andante"]
+        [(string=? tempo "Can") "Cantabile"]
+        [(string=? tempo "Con") "Con tenerezza"]
+        [(string=? tempo "Cor") "Cortesemente"]
+        [(string=? tempo "Cun") "Cunando"]
+        [(string=? tempo "Dol") "Dolce"]
+        [(string=? tempo "Gra") "Grave"]
+        [(string=? tempo "Lar") "Largo"]
+        [(string=? tempo "Mes") "Mesto"]
+        [(string=? tempo "Ond") "Ondeggiando"]
+        [(string=? tempo "Pre") "Presto"]
+        [(string=? tempo "Rec") "Recitativo"]
+        [(string=? tempo "Sic") "Siciliana"]
+        [(string=? tempo "Soa") "Soave"]
+        [(string=? tempo "Spi") "Spirituoso"]
+        [(string=? tempo "Tem") "Tempo giusto"]
+        [(string=? tempo "Viv") "Vivace"]
         [else
           (error "could not identify tempo" path)]))
 
 (define (tandem path)
-  (local [(define path_string (path->string))
+  (local [(define path_string          (path->string path))
+          (define path_fields          (string-split path_string "-"))
+          (define path_key             (list-ref     path_fields 2))
+          (define path_tempo           (list-ref     path_fields 5))
+          (define path_instrumentation (list-ref     path_fields 6))
 
-          (define path_fields      (string-split path_string "-"))
-          (define key              (list-ref path_fields 2))
-          (define tempo            (list-ref path_fields 5))
-          (define instrumentation  (list-ref path_fields 6))
+          (define records_old          (io_file_read path #:trim? #f))
 
-          (define file             (io_file_read path #:trim? #f))
-          (define time_signature   (first (rest file)))
-          (define met              (get_met (first (string-split time_signature TAB))))
-
-          (define key_signature    (get_key_signature key path))
-          (define key_label        (get_key_label     key path))]
-    (append (string-append "**kern"                   TAB "**fb"                     TAB "**kern")
-            (string-append TANDEM_INSTRUMENT_CONTINUO TAB TANDEM_INSTRUMENT_CONTINUO TAB (get_instrumentation instrumentation path))
-            (string-append TANDEM_CLEF_BASS           TAB TANDEM_NULL                TAB (get_clef instrumentation))
-            (string-append key_signature              TAB TANDEM_NULL                TAB key_signature)
-            (string-append key_label                  TAB TANDEM_NULL                TAB key_label)
-            (string-append time_signature
-                           (if (not (false? met))
-                               (string-append NEWLINE met)
-                               ""))
-            (string-append REFERENCE_RECORD_MOVEMENT_DESIGNATION SPACE (get_tempo tempo path))
-            (rest (rest file)))))
+          (define filename             (first               records_old))
+          (define exclusive            (second              records_old))
+          (define instrumentation      (get_instrumentation path_instrumentation path))
+          (define clef                 (get_clef            instrumentation))
+          (define key_signature        (get_key_signature   key                  path))
+          (define key_label            (get_key_label       key                  path))
+          (define time_signature       (third               records_old))
+          (define met                  (get_met             (string-split time_signature TAB)))
+          (define tempo                (get_tempo           tempo                path))]
+    (append (list filename
+                  exclusive
+                  (string-append TANDEM_INSTRUMENT_CONTINUO TAB TANDEM_INSTRUMENT_CONTINUO TAB instrumentation)
+                  (string-append TANDEM_CLEF_BASS           TAB TANDEM_NULL                TAB clef)
+                  (string-append key_signature              TAB TANDEM_NULL                TAB key_signature)
+                  (string-append key_label                  TAB TANDEM_NULL                TAB key_label)
+                  (string-append time_signature
+                                 (if (not (false? met))
+                                     (string-append NEWLINE met)
+                                     ""))
+                  (string-append REFERENCE_RECORD_MOVEMENT_DESIGNATION SPACE tempo))
+            (list-tail records_old 3))))
 
 (define (iterator paths)
   (cond [(empty? paths) (void)]
         [else
-          (local [(define filename (call-with-input-file (first paths)
-                                                         (lambda (path) (read-line path))))
+          (local [(define filename
+                    (call-with-input-file (first paths)
+                                          (lambda (path)
+                                                  (read-line path))))
 
-                  (define temp_path ())
+                  (define temp_path (string-replace (path->string (first paths))
+                                                    "tele"
+                                                    "temp-tele"))
 
-                  (define new_records (tandem (first paths)))]
-            ())]))
+                  (define records_new (tandem (first paths)))]
+            (begin (io_file_write temp_path
+                                  records_new)
+                   (iterator (rest paths))))]))
+
+(iterator PATH_POLY)
