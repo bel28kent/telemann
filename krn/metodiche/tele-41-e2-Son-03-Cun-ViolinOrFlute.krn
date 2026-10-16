@@ -1,6 +1,11 @@
 !!!filename: tele-41-e2-Son-03-Cun-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[f#]	*	*k[f#]
+*e:	*	*e:
 *M6/8	*	*M6/8
+!!!OMD: Cunando
 8G	.	16b
 .	.	32cc
 .	.	32dd

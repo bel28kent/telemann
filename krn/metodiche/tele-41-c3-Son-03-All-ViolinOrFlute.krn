@@ -1,6 +1,12 @@
 !!!filename: tele-41-c3-Son-03-All-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[b-e-a-]	*	*k[b-e-a-]
+*c:	*	*c:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Allegro
 8C	.	2gg
 8D	.	.
 8E-	.	.

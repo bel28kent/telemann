@@ -1,6 +1,11 @@
 !!!filename: tele-41-d4-Sol-04-All-Flauto
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Transverse flute
+*clefF4	*	*clefG2
+*k[b-]	*	*k[b-]
+*d:	*	*d:
 *M9/8	*	*M9/8
+!!!OMD: Allegro
 4.DD	.	8dd
 .	.	8ee
 .	.	8ff

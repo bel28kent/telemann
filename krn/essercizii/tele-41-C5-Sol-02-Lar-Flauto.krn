@@ -1,6 +1,11 @@
 !!!filename: tele-41-C5-Sol-02-Lar-Flauto
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Transverse flute
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*C:	*	*C:
 *M6/8	*	*M6/8
+!!!OMD: Largo
 8E	.	8ccc
 =	=	=
 4.F	.	8aa-

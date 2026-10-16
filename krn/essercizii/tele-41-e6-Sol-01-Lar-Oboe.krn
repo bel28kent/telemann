@@ -1,6 +1,12 @@
 !!!filename: tele-41-e6-Sol-01-Lar-Oboe
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Oboe
+*clefF4	*	*clefG2
+*k[f#]	*	*k[f#]
+*e:	*	*e:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Largo
 8r	.	8b
 =	=	=
 8r	.	16.ee

@@ -1,6 +1,11 @@
 !!!filename: tele-41-a6-Sol-03-Soa-Viol
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*a:	*	*a:
 *M6/8	*	*M6/8
+!!!OMD: Soave
 8C	.	8r
 8r	.	8g
 8G	.	8e

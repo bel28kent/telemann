@@ -1,6 +1,12 @@
 !!!filename: tele-41-C5-Sol-01-Ada-Flauto
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Transverse flute
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*C:	*	*C:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Adagio
 4C	.	8r
 .	.	8gg
 4c	.	8ccc

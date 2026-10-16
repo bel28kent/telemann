@@ -1,6 +1,11 @@
 !!!filename: tele-41-a2-Son-01-Lar-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*a:	*	*a:
 *M6/8	*	*M6/8
+!!!OMD: Largo
 8A	.	8a
 =	=	=
 4G	.	4ee

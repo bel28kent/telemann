@@ -1,6 +1,11 @@
 !!!filename: tele-41-B5-Son-01-Lar-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[b-e-]	*	*k[b-e-]
+*B-:	*	*B-:
 *M3/2	*	*M3/2
+!!!OMD: Largo
 2BB-	.	2r
 2D	.	2ff
 2E-	.	4.gg

@@ -1,6 +1,11 @@
 !!!filename: tele-41-d2-Son-03-Tem-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[b-]	*	*k[b-]
+*d:	*	*d:
 *M3/4	*	*M3/4
+!!!OMD: Tempo giusto
 4F	.	16ff
 .	.	16cc
 .	.	16a

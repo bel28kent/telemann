@@ -1,6 +1,11 @@
 !!!filename: tele-41-a2-Son-03-Ond-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*a:	*	*a:
 *M3/4	*	*M3/4
+!!!OMD: Ondeggiando
 4C	.	12cc
 .	.	12ee
 .	.	12gg

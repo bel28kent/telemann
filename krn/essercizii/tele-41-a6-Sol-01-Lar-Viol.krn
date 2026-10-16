@@ -1,6 +1,11 @@
 !!!filename: tele-41-a6-Sol-01-Lar-Viol
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*a:	*	*a:
 *M6/4	*	*M6/4
+!!!OMD: Largo
 4AA	.	2.A
 4BB	.	.
 4C	.	.

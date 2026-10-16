@@ -1,6 +1,11 @@
 !!!filename: tele-41-g3-Son-03-Gra-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[b-e-]	*	*k[b-e-]
+*g:	*	*g:
 *M3/2	*	*M3/2
+!!!OMD: Grave
 2BB-	.	2r
 2B-	.	4.dd
 .	.	8ee-

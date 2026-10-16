@@ -1,6 +1,11 @@
 !!!filename: tele-41-F4-Sol-03-Sic-Violin
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[b-]	*	*k[b-]
+*F:	*	*F:
 *M12/8	*	*M12/8
+!!!OMD: Siciliana
 4.D	.	4a
 .	.	8f
 8r	.	8.d

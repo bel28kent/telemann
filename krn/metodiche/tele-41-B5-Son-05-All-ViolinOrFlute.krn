@@ -1,6 +1,11 @@
 !!!filename: tele-41-B5-Son-05-All-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[b-e-]	*	*k[b-e-]
+*B-:	*	*B-:
 *M12/8	*	*M12/8
+!!!OMD: Allegro
 8r	.	8b-
 =	=	=
 4.D	.	8b-

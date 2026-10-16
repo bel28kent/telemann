@@ -1,6 +1,11 @@
 !!!filename: tele-41-g3-Son-02-Viv-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[b-e-]	*	*k[b-e-]
+*g:	*	*g:
 *M6/8	*	*M6/8
+!!!OMD: Vivace
 8G	.	8r
 8F	.	8dd
 8E-	.	8gg

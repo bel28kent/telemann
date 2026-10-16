@@ -1,6 +1,11 @@
 !!!filename: tele-41-C3-Son-04-Dol-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*C:	*	*C:
 *M6/4	*	*M6/4
+!!!OMD: Dolce
 4r	.	4e
 =	=	=
 4r	.	2a

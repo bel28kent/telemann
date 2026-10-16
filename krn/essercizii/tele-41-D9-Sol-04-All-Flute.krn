@@ -1,6 +1,12 @@
 !!!filename: tele-41-D9-Sol-04-All-Flute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Flute
+*clefF4	*	*clefG2
+*k[f#c#]	*	*k[f#c#]
+*D:	*	*D:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Allegro
 8r	.	8aa
 =	=	=
 2d	.	8ff#

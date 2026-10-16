@@ -1,6 +1,12 @@
 !!!filename: tele-41-e5-Sol-01-Can-Viol
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[f#]	*	*k[f#]
+*e:	*	*e:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Cantabile
 8E	.	8B
 8r	.	[8g
 8F#	.	16g]

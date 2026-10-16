@@ -1,6 +1,12 @@
 !!!filename: tele-41-a2-Son-02-All-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*a:	*	*a:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Allegro
 4AA	.	16a
 .	.	16b
 .	.	16cc
