@@ -6,7 +6,7 @@
 (define SPACE                                 " ")
 (define TAB                                   "\t")
 
-(define TANDME_NULL                           "*")
+(define TANDEM_NULL                           "*")
 
 (define TANDEM_INSTRUMENT_CONTINUO            "*I\"Basso continuo")
 (define TANDEM_INSTRUMENT_FLAUTO              "*I\"Transverse flute")
