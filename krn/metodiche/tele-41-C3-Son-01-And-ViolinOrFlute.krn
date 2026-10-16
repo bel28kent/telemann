@@ -1,6 +1,12 @@
 !!!filename: tele-41-C3-Son-01-And-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Violin or flute
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*C:	*	*C:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Andante
 8c	.	[4cc
 8C	.	.
 4.c	.	16cc]

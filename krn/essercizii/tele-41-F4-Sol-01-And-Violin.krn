@@ -1,6 +1,12 @@
 !!!filename: tele-41-F4-Sol-01-And-Violin
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Violin
+*clefF4	*	*clefG2
+*k[b-]	*	*k[b-]
+*F:	*	*F:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Andante
 8F	.	[4ff
 8F	.	.
 8E	.	16ff]

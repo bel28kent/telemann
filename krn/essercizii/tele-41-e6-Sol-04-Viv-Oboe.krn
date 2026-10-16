@@ -1,6 +1,11 @@
 !!!filename: tele-41-e6-Sol-04-Viv-Oboe
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Oboe
+*clefF4	*	*clefG2
+*k[f#]	*	*k[f#]
+*e:	*	*e:
 *M3/8	*	*M3/8
+!!!OMD: Vivace
 4E	.	16r
 .	.	16e
 .	.	16g

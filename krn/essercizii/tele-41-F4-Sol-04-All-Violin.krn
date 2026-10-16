@@ -1,6 +1,11 @@
 !!!filename: tele-41-F4-Sol-04-All-Violin
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Violin
+*clefF4	*	*clefG2
+*k[b-]	*	*k[b-]
+*F:	*	*F:
 *M12/8	*	*M12/8
+!!!OMD: Allegro
 8r	.	8cc
 =	=	=
 4.F	.	8ff

@@ -1,6 +1,11 @@
 !!!filename: tele-41-D9-Sol-01-Lar-Flute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Flute
+*clefF4	*	*clefG2
+*k[f#c#]	*	*k[f#c#]
+*D:	*	*D:
 *M3/2	*	*M3/2
+!!!OMD: Largo
 1D	.	2r
 .	.	2ddd
 2r	.	2ff#

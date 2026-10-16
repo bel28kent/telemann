@@ -1,6 +1,11 @@
 !!!filename: tele-41-C5-Sol-03-Viv-Flauto
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Transverse flute
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*C:	*	*C:
 *M3/4	*	*M3/4
+!!!OMD: Vivace
 4C	.	8r
 .	.	8gg
 8r	.	8ee

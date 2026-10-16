@@ -1,6 +1,11 @@
 !!!filename: tele-41-c3-Son-05-All-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Violin or flute
+*clefF4	*	*clefG2
+*k[b-e-a-]	*	*k[b-e-a-]
+*c:	*	*c:
 *M6/8	*	*M6/8
+!!!OMD: Allegro
 8r	.	8gg
 =	=	=
 4.r	.	8ee-

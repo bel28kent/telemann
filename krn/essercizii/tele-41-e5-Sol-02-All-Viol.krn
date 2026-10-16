@@ -1,6 +1,11 @@
 !!!filename: tele-41-e5-Sol-02-All-Viol
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Viola da gamba
+*clefF4	*	*clefG2
+*k[f#]	*	*k[f#]
+*e:	*	*e:
 *M6/8	*	*M6/8
+!!!OMD: Allegro
 8r	.	8B
 =	=	=
 4.E	.	8G

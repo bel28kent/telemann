@@ -1,6 +1,12 @@
 !!!filename: tele-41-G4-Son-01-Can-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Violin or flute
+*clefF4	*	*clefG2
+*k[f#c#]	*	*k[f#c#]
+*G:	*	*G:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Cantabile
 8GG	.	16g
 .	.	16a
 8G	.	16b

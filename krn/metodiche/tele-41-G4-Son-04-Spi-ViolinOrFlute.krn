@@ -1,6 +1,11 @@
 !!!filename: tele-41-G4-Son-04-Spi-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Violin or flute
+*clefF4	*	*clefG2
+*k[f#c#]	*	*k[f#c#]
+*G:	*	*G:
 *M3/4	*	*M3/4
+!!!OMD: Spirituoso
 4GG	.	8r
 .	.	16r
 .	.	16g

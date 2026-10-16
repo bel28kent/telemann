@@ -1,6 +1,12 @@
 !!!filename: tele-41-G9-Sol-01-Can-Flute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Flute
+*clefF4	*	*clefG2
+*k[f#c#]	*	*k[f#c#]
+*G:	*	*G:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Cantabile
 8G	.	8b
 8G	.	[8b
 8G	.	16b]

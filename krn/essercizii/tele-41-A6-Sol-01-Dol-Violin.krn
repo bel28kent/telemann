@@ -1,6 +1,11 @@
 !!!filename: tele-41-A6-Sol-01-Dol-Violin
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Violin
+*clefF4	*	*clefG2
+*k[f#c#g#]	*	*k[f#c#g#]
+*A:	*	*A:
 *M3/4	*	*M3/4
+!!!OMD: Dolce
 2AA	.	4r
 .	.	4aa
 4r	.	4ee

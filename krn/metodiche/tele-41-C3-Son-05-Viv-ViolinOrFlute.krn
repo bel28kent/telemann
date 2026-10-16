@@ -1,6 +1,11 @@
 !!!filename: tele-41-C3-Son-05-Viv-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Violin or flute
+*clefF4	*	*clefG2
+*k[]	*	*k[]
+*C:	*	*C:
 *M6/8	*	*M6/8
+!!!OMD: Vivace
 4.c	.	8gg
 .	.	4ee
 4.B	.	8ff

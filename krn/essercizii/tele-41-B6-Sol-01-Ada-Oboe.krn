@@ -1,6 +1,12 @@
 !!!filename: tele-41-B6-Sol-01-Ada-Oboe
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Oboe
+*clefF4	*	*clefG2
+*k[b-e-]	*	*k[b-e-]
+*B-:	*	*B-:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Adagio
 8BB-	.	[4dd
 16.B-	.	.
 32A	.	.

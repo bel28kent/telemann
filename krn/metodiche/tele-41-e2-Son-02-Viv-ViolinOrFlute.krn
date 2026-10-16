@@ -1,6 +1,12 @@
 !!!filename: tele-41-e2-Son-02-Viv-ViolinOrFlute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Violin or flute
+*clefF4	*	*clefG2
+*k[f#]	*	*k[f#]
+*e:	*	*e:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Vivace
 8r	.	8b
 =	=	=
 4r	.	8ee

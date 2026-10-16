@@ -1,6 +1,11 @@
 !!!filename: tele-41-G9-Sol-04-All-Flute
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Flute
+*clefF4	*	*clefG2
+*k[f#c#]	*	*k[f#c#]
+*G:	*	*G:
 *M3/4	*	*M3/4
+!!!OMD: Allegro
 4GG	.	8gg
 .	.	8dd
 4r	.	8dd

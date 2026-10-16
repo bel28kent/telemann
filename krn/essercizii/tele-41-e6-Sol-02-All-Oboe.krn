@@ -1,6 +1,12 @@
 !!!filename: tele-41-e6-Sol-02-All-Oboe
 **kern	**fb	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Oboe
+*clefF4	*	*clefG2
+*k[f#]	*	*k[f#]
+*e:	*	*e:
 *M4/4	*	*M4/4
+*met(c)	*	*met(c)
+!!!OMD: Allegro
 4.E	.	4e
 .	.	4.b
 8D#	.	.
