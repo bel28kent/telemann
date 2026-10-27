@@ -42,7 +42,7 @@
         [(regexp-match? #px"D" key) TANDEM_KEY_SIGNATURE_2_SHARP]
         [(regexp-match? #px"E" key) TANDEM_KEY_SIGNATURE_4_SHARP]
         [(regexp-match? #px"F" key) TANDEM_KEY_SIGNATURE_1_FLAT]
-        [(regexp-match? #px"G" key) TANDEM_KEY_SIGNATURE_2_SHARP]
+        [(regexp-match? #px"G" key) TANDEM_KEY_SIGNATURE_1_SHARP]
         [(regexp-match? #px"a" key) TANDEM_KEY_SIGNATURE_EMPTY]
         [(regexp-match? #px"c" key) TANDEM_KEY_SIGNATURE_3_FLAT]
         [(regexp-match? #px"d" key) TANDEM_KEY_SIGNATURE_1_FLAT]
