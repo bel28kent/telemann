@@ -2,8 +2,8 @@
 **kern	**fb	**kern
 *I"Basso continuo	*I"Basso continuo	*I"Flute
 *clefF4	*	*clefG2
-*k[f#c#]	*	*k[f#c#]
-*G:	*	*G:
+*k[f#]	*	*k[f#]
+*e:	*	*e:
 *M4/4	*	*M4/4
 *met(c)	*	*met(c)
 !!!OMD: Affettuoso
@@ -16,46 +16,47 @@
 .	.	16gg
 .	.	16b
 8r	.	[4ff#
-8E	.	.
-4D#	.	16ff#]
+8E	4 2	.
+4D#	6 5	16ff#]
 .	.	16b
 .	.	16aa
 .	.	16b
 =	=	=
 8r	.	16gg
 .	.	16ee
-8G	.	[8bb
+8GL	6	[8bb
 8A	.	16bb]
 .	.	16ccc
-8c	.	16aa
+8cJ	6	16aa
 .	.	16ff#
-8B	.	4dd#
+8B	#	4dd#
 8BB	.	.
 4r	.	8r
 .	.	8f#
 =	=	=
 8r	.	[4b
-8B	.	.
+8B	n	.
 4BB	.	16b]
 .	.	16f#
 .	.	16dd
 .	.	16f#
 8r	.	[4cc#
-8BB	.	.
-4AA#	.	16cc#]
+8BB	4 2+r	.
+4AA#	6 5	16cc#]
 .	.	16f#
 .	.	16ee
 .	.	16f#
+!!LO:LB:g=original
 =	=	=
 8r	.	16dd
 .	.	16b
-8D	.	[8ff#
+8DL	6	[8ff#
 8E	.	16ff#]
 .	.	16gg
-8G	.	16ee
+8GJ	6	16ee
 .	.	16cc#
 8r	.	4a#
-8F#	.	.
+8F#	#	.
 4FF#	.	16r
 .	.	16cc#
 .	.	16dd
@@ -63,13 +64,13 @@
 =	=	=
 8r	.	16dd#
 .	.	16ff#
-8D#	.	[8aa
-4BB	.	16aa]
+8D#	6 5nr	[8aa
+4BB	7 #	16aa]
 .	.	16gg#
 .	.	16aa
 .	.	16bb
 8r	.	4gg#
-8E	.	.
+8E	#	.
 4EE	.	16r
 .	.	16b
 .	.	16cc#
@@ -77,38 +78,41 @@
 =	=	=
 8r	.	16cc#
 .	.	16ee
-8C#	.	[8gg
-4AA	.	16gg]
+8C#	6 5nr	[8ggn
+4AA	7 #	16gg]
 .	.	16ff#
 .	.	16gg
 .	.	16aa
 8r	.	4ff#
-8D	.	.
+8DL	.	.
 8DD	.	8r
-8B	.	8gg
+8BJ	6	8gg
 =	=	=
+!! TODO: line below needs tremblement
 8r	.	8.ee
 8c	.	.
 .	.	16dd#
-4G	.	8ee
+4G	6	8ee
 .	.	16bb
 .	.	16gg
+!! TODO: line below needs tremblement
 8r	.	8.ee
 8c	.	.
 .	.	16dd#
-4G	.	8ee
+4G	6	8ee
 .	.	8gg
+!!LO:LB:g=original
 =	=	=
 8r	.	16ff
 .	.	16ee
-8A	.	8ff
-8B	.	8r
-8BB	.	8dd#
-8C	.	8ee
+8AL	6nr	8ff
+8B	#	8r
+8BBJ	.	8dd#
+8CL	.	8ee
 8A	.	16ff#
 .	.	16gg
-8B	.	8.dd
-8BB	.	.
+8B	#	8.dd#
+8BBJ	.	.
 .	.	16ee
 =	=	=
 8E	.	4ee
@@ -119,7 +123,7 @@
 .	.	16ee
 8r	.	16cc
 .	.	16a#
-8D#	.	8b
+8D#	6	8b
 4E	.	16r
 .	.	16gg
 .	.	16dd#
@@ -127,20 +131,22 @@
 =	=	=
 8r	.	16cc
 .	.	16g#
-8F#	.	8a
-8BB	.	16r
+8F#L	7	8an
+8BB	7 #	16r
 .	.	16ccc
-8D#	.	16bb
+8D#J	6	16bb
 .	.	16aa
-4E	.	16gg
+4E	.	16ggn
 .	.	16ff#
 .	.	16gg
 .	.	16aa
-4C	.	8.aa
+!! TODO: line below needs tremblement
+4C	6	8.aa
 .	.	16bb
 =	=	=
-4BB	.	4bb
+4BB	#	4bb
 4r	.	4r
 2r	.	2r
+==	==	==
 *-	*-	*-
 !!!filter: autobeam
