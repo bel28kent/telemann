@@ -30,7 +30,7 @@
           (error "could not identify instrumentation" path)]))
 
 (define (get_clef instrumentation)
-  (if (string=? instrumentation "Viol")
+  (if (string=? instrumentation TANDEM_INSTRUMENT_VIOL)
       TANDEM_CLEF_TENOR
       TANDEM_CLEF_TREBLE))
 
