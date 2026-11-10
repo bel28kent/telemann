@@ -12,7 +12,7 @@
 4.D	.	8ff
 .	.	8gg
 .	.	8aa
-4.C#	.	8gg
+4.C#	5 6	8gg
 .	.	8ff
 .	.	8ee
 =	=	=
@@ -32,7 +32,7 @@
 4.D	.	8aa
 .	.	8bb-
 .	.	8ccc
-4.E	.	8bb-
+4.E	6 5	8bb-
 .	.	8aa
 .	.	8gg
 =	=	=
@@ -45,6 +45,7 @@
 4.r	.	8aa
 .	.	8ff
 .	.	8aa
+!!LO:LB:g=original
 =	=	=
 4.F	.	8aa
 .	.	8bb-
@@ -52,7 +53,7 @@
 4.FF	.	8ccc
 .	.	8bb-
 .	.	8aa
-4.BB-	.	8ddd
+4.BB-	6	8ddd
 .	.	8bb-
 .	.	8gg
 =	=	=
@@ -69,10 +70,10 @@
 4.C	.	8gg
 .	.	8aa
 .	.	8bb-
-4.BB-	.	8bb-
+4.BB-	6	8bb-
 .	.	8aa
 .	.	8gg
-4.AA	.	8ccc
+4.AA	6	8ccc
 .	.	8aa
 .	.	8ff
 =	=	=
@@ -85,18 +86,19 @@
 4.r	.	8dd
 .	.	8ff
 .	.	8bb-
+!!LO:LB:g=original
 =	=	=
 4.BB-	.	8ff
 .	.	8gg
 .	.	8aa
-4.AA	.	8aa
+4.AA	6	8aa
 .	.	8gg
 .	.	8ff
 4.GG	.	8bb-
 .	.	8gg
 .	.	8ee
 =	=	=
-4.E	.	8cc
+4.E	6	8cc
 .	.	8ee
 .	.	8cc
 4.r	.	8cc
@@ -106,7 +108,7 @@
 .	.	8ccc
 .	.	8cc
 =	=	=
-4.EE	.	8cc
+4.EE	6	8cc
 .	.	8ee
 .	.	8cc
 4.r	.	8cc
@@ -125,6 +127,7 @@
 4.r	.	8cc
 .	.	8aa
 .	.	8cc
+!!LO:LB:g=original
 =	=	=
 4.C	.	8cc
 .	.	8dd
@@ -145,54 +148,59 @@
 4c	.	4.r
 8B-	.	.
 =	=	=
-8A	.	8ccc
+8A	6	8ccc
 8A	.	8aa
 8A	.	8ccc
-8G	.	[4.bb-
+!! TODO: line below needs tremblement
+8G	7	[4.bb-
 8G	.	.
 8G	.	.
-8c	.	8bb-]
+8c	7	8bb-]
 8c	.	8aa
 8c	.	8gg
 =	=	=
 8F	.	8aa
 8F	.	8ff
 8F	.	8aa
+!! TODO: line below needs tremblement
 8c	.	[4.gg
 8c	.	.
 8c	.	.
 8C	.	8gg]
 8C	.	8ff
 8C	.	8ee
+!!LO:LB:g=original
 =	=	=
-8B-	.	8ddd
+8B-	6	8ddd
 8B-	.	8bb-
 8B-	.	8ddd
-8A	.	[4.ccc
+!! TODO: line below needs tremblement
+8A	7	[4.ccc
 8A	.	.
 8A	.	.
-8d	.	8ccc]
+8d	#	8ccc]
 8d	.	8bb-
 8d	.	8aa
 =	=	=
 8G	.	8bb-
 8G	.	8gg
 8G	.	8bb-
-8d	.	[4.aa
+!! TODO: line below needs tremblement
+8d	n	[4.aa
 8d	.	.
 8d	.	.
 8D	.	8aa]
 8D	.	8gg
 8D	.	8ff
 =	=	=
-4AA	.	[4.fff
+4AA	6	[4.fff
 8GG	.	.
 4FF	.	8fff]
 .	.	8eee
 8BB-	.	8ddd
-4AA	.	8ccc
+4AA	6	8ccc
 .	.	8ddd
-8GG	.	8bb-
+8GG	6	8bb-
 =	=	=
 4.FF	.	8aa
 .	.	8bb-
@@ -203,15 +211,16 @@
 4.r	.	8a
 .	.	8cc
 .	.	8ff
+!!LO:LB:g=original
 =	=	=
-4AA	.	[4.fff
+4AA	6	[4.fff
 8GG	.	.
 4FF	.	8fff]
 .	.	8eee
 8BB-	.	8ddd
-4AA	.	8ccc
+4AA	6	8ccc
 .	.	8ddd
-8GG	.	8bb-
+8GG	6	8bb-
 =	=	=
 4.FF	.	8aa
 .	.	8bb-
@@ -226,40 +235,41 @@
 4.BB-	.	8dd
 .	.	8ff
 .	.	8ff
-4.AA	.	8cc
+4.AA	6	8cc
 .	.	8ff
 .	.	8ff
-4.D	.	8b-
+4.D	6	8b-
 .	.	8ff
 .	.	8ff
 =	=	=
-4.C	.	8a
+4.C	6 4	8a
 .	.	8ff
 .	.	8ff
-4.BB-	.	8g
+4.BB-	6 5	8g
 .	.	8ff
 .	.	8ff
-4.AA	.	8f
+4.AA	6	8f
 .	.	8ff
 .	.	8ff
 =	=	=
 4.BB-	.	8dd
 .	.	8ff
 .	.	8ff
-4.AA	.	8cc
+4.AA	6	8cc
 .	.	8ff
 .	.	8ff
-4.D	.	8b-
+4.D	6	8b-
 .	.	8ff
 .	.	8ff
+!!LO:LB:g=original
 =	=	=
-4.C	.	8a
+4.C	6 4	8a
 .	.	8ff
 .	.	8ff
-4.BB-	.	8g
+4.BB-	6 5	8g
 .	.	8ff
 .	.	8ff
-4.AA	.	8f
+4.AA	6	8f
 .	.	8ff
 .	.	8ff
 =	=	=
@@ -271,7 +281,7 @@
 .	.	8gg
 8r	.	8ddd
 8r	.	8ccc
-8E	.	8bb-
+8E	6 5	8bb-
 =	=	=
 4F	.	8aa
 .	.	8gg
@@ -293,31 +303,32 @@
 =	=	=
 2.FF	.	2.f
 4.r	.	4.r
-=	=	=
-4.A	.	8ccc
+!!LO:LB:g=original
+=:|:	=:|:	=:|:
+4.A	6	8ccc
 .	.	8bb-
 .	.	8aa
-4.c	.	8aa
+4.c	4+r 2	8aa
 .	.	8gg
 .	.	8ff#
-4.A	.	8ff#
+4.A	6\	8ff#
 .	.	8gg
 .	.	8aa
 =	=	=
-4.F#	.	16dd
+4.F#	6 5	16dd
 .	.	16ee
 .	.	4ff#
-4.D	.	16ff#
+4.D	7 #	16ff#
 .	.	16gg
 .	.	4aa
-4.F#	.	16aa
+4.F#	6 5	16aa
 .	.	16bb-
 .	.	4ccc
 =	=	=
-4.A	.	16ccc
+4.A	6\	16ccc
 .	.	16ddd
 .	.	[4eee-
-4.F#	.	8eee-]
+4.F#	7-r	8eee-]
 .	.	8ddd
 .	.	8ccc
 4.r	.	8bb-
@@ -332,31 +343,32 @@
 .	.	8g
 4G	.	4.r
 8A	.	.
+!!LO:LB:g=original
 =	=	=
-4.B	.	8ddd
+4.B	6	8ddd
 .	.	8ccc
 .	.	8bb
-4.d	.	8bb
+4.d	4+r 2	8bb
 .	.	8aa
 .	.	8gg#
-4.B	.	8gg#
+4.B	6\	8gg#
 .	.	8aa
 .	.	8bb
 =	=	=
-4.G#	.	16ee
+4.G#	6 5	16ee
 .	.	16ff#
 .	.	4gg#
-4.E	.	16gg#
+4.E	7 #	16gg#
 .	.	16aa
 .	.	4bb
-4.G#	.	16bb
+4.G#	6 5	16bb
 .	.	16ccc
 .	.	4ddd
 =	=	=
-4.B	.	16ddd
+4.B	6\	16ddd
 .	.	16eee
-.	.	[4fff
-4.G#	.	8fff]
+.	.	[4fffn
+4.G#	7	8fff]
 .	.	8eee
 .	.	8ddd
 4.r	.	8ccc
@@ -369,8 +381,9 @@
 4.AA	.	8ee
 .	.	8aa
 .	.	8a
-4C	.	4.r
+4C	6	4.r
 8AA	.	.
+!!LO:LB:g=original
 =	=	=
 4.D	.	8ff
 .	.	8dd
@@ -378,22 +391,25 @@
 4.r	.	8aa
 .	.	8gg#
 .	.	8aa
+!! TODO: line below needs tremblement
 4.r	.	4.aa
 =	=	=
-4.C	.	8ee
+4.C	6	8ee
 .	.	8cc
 .	.	8ee
 4.r	.	8aa
 .	.	8gg#
 .	.	8aa
+!! TODO: line below needs tremblement
 4.r	.	4.aa
 =	=	=
-4.BB	.	8dd
+4.BB	7	8dd
 .	.	8b
 .	.	8dd
 4.r	.	8aa
 .	.	8gg#
 .	.	8aa
+!! TODO: line below needs tremblement
 4.r	.	4.aa
 =	=	=
 4.AA	.	8cc
@@ -405,6 +421,7 @@
 4.r	.	8aa
 .	.	8ee
 .	.	8aa
+!!LO:LB:g=original
 =	=	=
 8AA	.	[4.ccc
 8C	.	.
@@ -412,7 +429,7 @@
 4.A	.	8ccc]
 .	.	8bb
 .	.	8aa
-4.G#	.	8ddd
+4.G#	6 5	8ddd
 .	.	8ccc
 .	.	8bb
 =	=	=
@@ -422,14 +439,14 @@
 4.A	.	8ccc]
 .	.	8bb
 .	.	8aa
-4.G#	.	8ddd
+4.G#	6 5	8ddd
 .	.	8ccc
 .	.	8bb
 =	=	=
 4A	.	8ccc
 .	.	8bb
 8d	.	8aa
-4e	.	[4.gg#
+4e	#	[4.gg#
 8d	.	.
 4e	.	4gg#]
 8E	.	8aa
@@ -438,11 +455,12 @@
 4.A	.	8r
 .	.	8ccc
 .	.	8aa
-4.d	.	8ff#
+4.d	#	8ff#
 .	.	8aa
 .	.	8ddd
+!!LO:LB:g=original
 =	=	=
-4.G	.	8bb-
+4.G	-	8bb-X
 .	.	8ddd
 .	.	8bb-
 4.r	.	8gg
@@ -455,85 +473,91 @@
 4.F	.	8aa
 .	.	8ccc
 .	.	8aa
-4.A	.	8ff
+4.A	6	8ff
 .	.	8aa
 .	.	8ff
 4.B-	.	8dd
 .	.	8ff
 .	.	8bb-
 =	=	=
-4.E	.	8gg
+4.E	7	8gg
 .	.	8bb-
 .	.	8gg
 4.r	.	8ee
 .	.	8gg
 .	.	8ee
-4.A	.	8cc#
+4.A	#	8cc#
 .	.	8ee
 .	.	8aa
 =	=	=
 4.D	.	8ff
 .	.	8aa
 .	.	8ff
-4.F	.	8dd
+4.F	6	8dd
 .	.	8ff
 .	.	8dd
 4.D	.	8ff
 .	.	8aa
 .	.	8ff
+!!LO:LB:g=original
 =	=	=
-4.G	.	8bb-
+4.G	6	8bb-
 .	.	8ddd
 .	.	8bb-
-4.B-	.	8gg
+4.B-	6	8gg
 .	.	8bb-
 .	.	8gg
-4.G	.	8ee
+4.G	6	8ee
 .	.	8gg
 .	.	8ee
 =	=	=
-4A	.	8cc#
+4A	#	8cc#
 .	.	8ee
 8r	.	8cc#
 8AA	.	4.a
 8C#	.	.
 8E	.	.
-4A	.	4.r
+4A	#	4.r
 8G	.	.
 =	=	=
-8F	.	8aa
+8F	6	8aa
 8F	.	8ff
 8F	.	8aa
-8E	.	[4.gg
+!! TODO: line below needs tremblement
+8E	7	[4.gg
 8E	.	.
 8E	.	.
-8A	.	8gg]
+8A	7 #	8gg]
 8A	.	8ff
 8A	.	8ee
 =	=	=
 8D	.	8ff
 8D	.	8dd
 8D	.	8ff
-8A	.	[4.ee
+!! TODO: line below needs tremblement
+8A	#	[4.ee
 8A	.	.
 8A	.	.
 8AA	.	8ee]
 8AA	.	8dd
 8AA	.	8cc#
+!!LO:LB:g=original
 =	=	=
-8G	.	8bb-
+8G	5	8bb-
 8G	.	8gg
 8G	.	8bb-
-8F	.	[4.aa
+!! TODO: line below needs tremblement
+8F	6	[4.aa
 8F	.	.
 8F	.	.
-8B-	.	8aa]
+8B-	7	8aa]
 8B-	.	8gg
 8B-	.	8ff
 =	=	=
-8C#	.	8gg
+8C#	6 5	8gg
 8C#	.	8ee
 8C#	.	8gg
+!! TODO: line below needs tremblement
 8D	.	[4.ff
 8D	.	.
 8D	.	.
@@ -541,14 +565,14 @@
 8DD	.	8ee
 8DD	.	8dd
 =	=	=
-4F	.	[4.ddd
+4F	6	[4.ddd
 8E	.	.
 4D	.	8ddd]
 .	.	8ccc
 8G	.	8bb-
-4F	.	8aa
+4F	6	8aa
 .	.	8bb-
-8E	.	8gg
+8E	6\	8gg
 =	=	=
 4.D	.	8ff
 .	.	8gg
@@ -559,15 +583,16 @@
 4.r	.	8aa
 .	.	8ff
 .	.	8dd
+!!LO:LB:g=original
 =	=	=
-4F	.	[4.ddd
+4F	6	[4.ddd
 8E	.	.
 4D	.	8ddd]
-.	.	8ccc
+.	.	8cccn
 8G	.	8bb-
-4F	.	8aa
+4F	6	8aa
 .	.	8bb-
-8E	.	8gg
+8E	6\	8gg
 =	=	=
 4.D	.	8ff
 .	.	8gg
@@ -582,9 +607,10 @@
 4G	.	8bb-
 .	.	8gg
 8D	.	8aa
-4A	.	4.ff
+4A	6 4	(4.ff
 8G	.	.
-4A	.	4ee
+!! TODO: line below needs tremblement
+4A	5 #	4ee)
 8AA	.	8dd
 =	=	=
 8D	.	4.dd
@@ -593,41 +619,42 @@
 4.d	.	8r
 .	.	8ee
 .	.	8ff
-4.c#	.	8gg
+4.c#	6	8gg
 .	.	8ff
 .	.	8ee
+!!LO:LB:g=original
 =	=	=
 4.d	.	8ff
 .	.	8a
 .	.	8a
-4.c	.	8ee
+4.cn	6	8ee
 .	.	8a
 .	.	8a
-4.B-	.	8dd
+4.B-	7	8dd
 .	.	8a
 .	.	8a
 =	=	=
-4.A	.	8cc#
+4.A	#	8cc#
 .	.	8a
 .	.	8a
 4.r	.	8dd
 .	.	8a
 .	.	8a
-4.C#	.	8ee
+4.C#	6	8ee
 .	.	8a
 .	.	8a
 =	=	=
 4.D	.	8ff
 .	.	8a
 .	.	8a
-4.C	.	8ee
+4.Cn	6	8ee
 .	.	8a
 .	.	8a
-4.BB-	.	8dd
+4.BB-	7	8dd
 .	.	8a
 .	.	8a
 =	=	=
-4.AA	.	8cc#
+4.AA	#	8cc#
 .	.	8a
 .	.	8a
 4.r	.	8dd
@@ -636,11 +663,12 @@
 4.A	.	8ee
 .	.	8a
 .	.	8a
+!!LO:LB:g=original
 =	=	=
-8B-	.	[4.gg
+8B-	6	[4.gg
 8A	.	.
 8G	.	.
-4.c#	.	8gg]
+4.c#	6 5	8gg]
 .	.	8ff
 .	.	8ee
 8r	.	8bb-
@@ -650,7 +678,7 @@
 4d	.	8ff
 .	.	8ee
 8G	.	8dd
-4A	.	[4.cc#
+4A	#	[4.cc#
 8G	.	.
 4A	.	4cc#]
 8AA	.	8dd
@@ -667,5 +695,6 @@
 =	=	=
 2.D	.	2.dd
 4.r	.	4.r
+==:|	==:|	==:|
 *-	*-	*-
 !!!filter: autobeam
