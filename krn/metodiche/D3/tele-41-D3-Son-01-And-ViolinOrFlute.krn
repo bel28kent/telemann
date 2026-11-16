@@ -1,472 +1,738 @@
 !!!filename: tele-41-D3-Son-01-And-ViolinOrFlute
-**kern	**fb	**kern
-*I"Basso continuo	*I"Basso continuo	*I"Violin or flute
-*clefF4	*	*clefG2
-*k[f#c#]	*	*k[f#c#]
-*D:	*	*D:
-*M4/4	*	*M4/4
-*met(c)	*	*met(c)
+**kern	**fb	**kern	**kern
+*I"Basso continuo	*I"Basso continuo	*I"Violin or flute	*I"Violin or flute
+*clefF4	*	*clefG2	*clefG2
+*k[f#c#]	*	*k[f#c#]	*k[f#c#]
+*D:	*	*D:	*D:
+*M4/4	*	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)
 !!!OMD: Andante
-16.d	.	16.aa
-32c#	.	32a
-=	=	=
-8B	.	8dd
-8BB	.	16.dd
-.	.	32cc#
-8B	.	8dd
-8A	.	8dd
-8G	.	8bb
-8F#	.	8aa
-8r	.	8r
-16.c#	.	16.gg
-32d	.	32ff#
-=	=	=
-8A	.	8ee
-8A#	.	16.ff#
-.	.	32cc#
-8B	.	8dd
-8E	.	16.ee
-.	.	32b
-8A	.	8cc#
-8AA	.	8a
-8r	.	8r
-8F#	.	16.dd
-.	.	32a
-=	=	=
-8G	.	8b
-16.G	.	[8ee
-32GG	.	.
-8G	.	16.ee]
-.	.	32ff#
-8E	.	16.gg
-.	.	32b
-8A	.	8cc#
-16.A	.	[8ff#
-32AA	.	.
-8A	.	16.ff#]
-.	.	32gg
-8F#	.	16.aa
-.	.	32cc#
-=	=	=
-8B	.	8dd
-16.B	.	[8gg
-32BB	.	.
-8B	.	16.gg]
-.	.	32ff#
-8c#	.	16.gg
-.	.	32ee
-8d	.	16.ff#
-.	.	32gg
-16.F#	.	16.aa
-32G	.	32bb
-8A	.	8.ee
-8AA	.	.
-.	.	16dd
-=	=	=
-8D	.	4dd
-16.d	.	.
-32D	.	.
-8d	.	8r
-8D	.	16.ff#
-.	.	32dd
-8r	.	8ee
-16.c#	.	8aa
-32C#	.	.
-8c#	.	8a
-8A	.	16.cc#
-.	.	32a
-=	=	=
-8r	.	8b
-16.G#	.	8ee
-32GG#	.	.
-8G#	.	8e
-8E	.	16.g#
-.	.	32e
-8r	.	8a
-16.F#	.	4a
-32FF#	.	.
-8F#	.	.
-8E	.	16.cc#
-.	.	32a
-=	=	=
-8D	.	8b
-16.D	.	4b
-32BB	.	.
-8E	.	.
-8EE	.	16.dd
-.	.	32b
-4AA	.	8cc#
-.	.	16ff#
-.	.	16ee
-8r	.	16ee
-.	.	16dd#
-8A	.	16dd#
-.	.	16ee
-=	=	=
-8G#	.	16ee
-.	.	16dd#
-16.G#	.	[8ee
-32F#	.	.
-8E	.	16.ee]
-.	.	32aa
-8e	.	16.gg#
-.	.	32dd#
-8r	.	16ee
-.	.	16dd#
-16.G#	.	[8ee
-32F#	.	.
-8E	.	16.ee]
-.	.	32bb
-8e	.	16.gg#
-.	.	32dd#
-=	=	=
-8r	.	16ee
-.	.	16dd#
-16.G#	.	8ee
-32F#	.	.
-8E	.	8r
-8c#	.	16.a
-.	.	32e
-8D	.	8f#
-16.D	.	[8b
-32DD	.	.
-8D	.	16.b]
-.	.	32cc#
-8BB	.	16.dd
-.	.	32f#
-=	=	=
-8E	.	8g#
-16.E	.	[8cc#
-32EE	.	.
-8E	.	16.cc#]
-.	.	32dd
-8C#	.	16.ee
-.	.	32g#
-8F#	.	8a
-16.F#	.	[8dd
-32FF#	.	.
-8F#	.	16.dd]
-.	.	32cc#
-8G#	.	16.dd
-.	.	32b
-=	=	=
-8A	.	16.cc#
-.	.	32dd
-16.C#	.	16.ee
-32D	.	32ff#
-8E	.	8.b
-8EE	.	.
-.	.	16a
-8AA	.	4a
-16.A	.	.
-32E	.	.
-8F#	.	8r
-8C#	.	16.aa
-.	.	32ee
-=	=	=
-8D	.	8ff#
-16.d	.	16.ff#
-32A	.	32cc#
-8B	.	8dd
-8F#	.	16.dd
-.	.	32a
-8G	.	8b
-16.G	.	8g
-32F#	.	.
-8E	.	8r
-8D#	.	16.bb
-.	.	32ff#
-=	=	=
-8E	.	8gg
-8B	.	16.gg
-.	.	32dd#
-8c	.	16.ee
-.	.	32gg
-8A	.	16.ff#
-.	.	32ee
-8B	.	16.dd#
-.	.	32cc#
-16.B	.	8b
-32A	.	.
-16.G	.	8r
-32F#	.	.
-8E	.	16.b
-.	.	32e
-=	=	=
-8A	.	8cc
-8G#	.	16.b
-.	.	32e
-8A	.	16.cc
-.	.	32ee
-8G#	.	16.b
-.	.	32ee
-8A	.	16.cc
-.	.	32b
-8AA	.	16.cc
-.	.	32b
-8r	.	8a
-8A#	.	16.cc#
-.	.	32f#
-=	=	=
-8B	.	8dd
-8A#	.	16.cc#
-.	.	32f#
-8B	.	16.dd
-.	.	32ff#
-8A#	.	16.cc#
-.	.	32ff#
-8B	.	16.dd
-.	.	32cc#
-8BB	.	16.dd
-.	.	32cc#
-8r	.	8b
-16.G	.	16.bb
-32F#	.	32b
-=	=	=
-8G	.	8ee
-8E	.	16.ee
-.	.	32dd#
-8c	.	8ee
-8B	.	8ee
-4A	.	8ccc
-.	.	8bb
-8G	.	8r
-16.F#	.	16.aa
-32E	.	32gg
-=	=	=
-16.D#	.	16.ff#
-32B	.	32dd#
-16.G	.	16.ee
-32A	.	32ff#
-8B	.	8.ff#
-8BB	.	.
-.	.	16ee
-8E	.	4ee
-16.e	.	.
-32B	.	.
-8e	.	8r
-8E	.	16.b
-.	.	32cc#
-=	=	=
-8F#	.	16.dd
-.	.	32ee
-16.D	.	4ff#
-32F#	.	.
-8GG#	.	.
-8G#	.	16.ee
-.	.	32dd
-8r	.	16.cc#
-.	.	32b
-16.A	.	8a
-32E	.	.
-8A	.	8r
-8AA	.	16.cc#
-.	.	32a
-=	=	=
-8r	.	8dd
-16.F#	.	4dd
-32D	.	.
-8B	.	.
-8A	.	16.ff#
-.	.	32dd
-8G	.	8ee
-16.G	.	4ee
-32E	.	.
-8A	.	.
-8AA	.	16.gg
-.	.	32ee
-=	=	=
-8D	.	16.ff#
-.	.	32ee
-8DD	.	16.dd
-.	.	32ee
-8r	.	16.ff#
-.	.	32gg
-16.D	.	4aa
-32E	.	.
-8F#	.	.
-16.G	.	8dd
-32F#	.	.
-8E	.	8gg
-8D	.	8ff#
-=	=	=
-8A	.	8ff#
-16.AA	.	8ee
-32BB	.	.
-8C#	.	8r
-8AA	.	16.aa
-.	.	32a
-8BB	.	8dd
-8B	.	16.dd
-.	.	32cc#
-8r	.	8dd
-8A	.	8dd
-=	=	=
-8G	.	8bb
-16.F#	.	8aa
-32E	.	.
-8F#	.	8r
-16.E	.	16.gg
-32D	.	32ff#
-8c#	.	16.gg
-.	.	32ee
-8d	.	16.ff#
-.	.	32gg
-8A	.	8.ee
-8AA	.	.
-.	.	16dd
-=	=	=
-8D	.	4dd
-16.F#	.	.
-32E	.	.
-8D	.	8r
-8C#	.	16.a
-.	.	32g
-8D	.	16.f#
-.	.	32g
-8DD	.	16.a
-.	.	32b
-8r	.	8cc
-16.E	.	8cc
-32F#	.	.
-=	=	=
-8G	.	16.cc#
-.	.	32a
-16.G	.	4b
-32GG	.	.
-8G	.	.
-8c	.	16ee
-.	.	16cc
-8B	.	16dd
-.	.	16b
-8F#	.	16cc
-.	.	16a
-8G	.	16b
-.	.	16g
-8D	.	16cc
-.	.	16a
-=	=	=
-8GG	.	16b
-.	.	16a
-16.B	.	8g
-32A	.	.
-8G	.	8r
-8D#	.	16.b
-.	.	32a
-8E	.	16.g#
-.	.	32a
-8EE	.	16.b
-.	.	32cc#
-8r	.	8dd
-16.F#	.	8dd
-32G#	.	.
-=	=	=
-8A	.	16.dd
-.	.	32b
-16.A	.	4cc#
-32AA	.	.
-8A	.	.
-8d	.	16ff#
-.	.	16dd
-8c#	.	16ee
-.	.	16cc#
-8G#	.	16dd
-.	.	16b
-8A	.	16cc#
-.	.	16a
-8E	.	16dd
-.	.	16b
-=	=	=
-8AA	.	16cc#
-.	.	16b
-16.A	.	8a
-32E	.	.
-8F#	.	8r
-8C#	.	16.aa
-.	.	32ee
-8D	.	8ff#
-16.d	.	16.ff#
-32A	.	32cc#
-8B	.	8dd
-8F#	.	16.dd
-.	.	32a
-=	=	=
-8G	.	8b
-8G	.	16bb
-.	.	16aa
-8F#	.	16aa
-.	.	16gg
-8E	.	16gg
-.	.	16ff#
-8D	.	8ff#
-8B	.	16gg
-.	.	16ff#
-8A	.	16ff#
-.	.	16ee
-8G	.	16ee
-.	.	16dd
-=	=	=
-8F#	.	16dd
-.	.	16cc#
-16.F#	.	[8dd
-32E	.	.
-8D	.	16.dd]
-.	.	32gg
-8d	.	16.ff#
-.	.	32cc#
-8r	.	16dd
-.	.	16cc#
-16.F#	.	[8dd
-32E	.	.
-8D	.	16.dd]
-.	.	32aa
-8d	.	16.ff#
-.	.	32cc#
-=	=	=
-8r	.	16dd
-.	.	16cc#
-16.F#	.	8dd
-32E	.	.
-8D	.	8r
-8F#	.	16.aa
-.	.	32a
-8G	.	8b
-16.G	.	[8ee
-32GG	.	.
-8G	.	16.ee]
-.	.	32ff#
-8E	.	16.gg
-.	.	32b
-=	=	=
-8A	.	8cc#
-16.A	.	[8ff#
-32AA	.	.
-8A	.	16.ff#]
-.	.	32gg
-8F#	.	16.aa
-.	.	32cc#
-8B	.	8dd
-16.B	.	[8gg
-32BB	.	.
-8B	.	16.gg]
-.	.	32ff#
-8c#	.	16.gg
-.	.	32ee
-=	=	=
-8d	.	16.ff#
-.	.	32gg
-16.F#	.	16.aa
-32G	.	32bb
-8A	.	8.ee
-8AA	.	.
-.	.	16dd
-4D	.	8dd
-.	.	8f#
-4AA	.	8e
-.	.	8cc#
-=	=	=
-4DD	.	4dd
-4r	.	4r
-2r	.	2r
-*-	*-	*-
+16.d	.	16.aa	16.aa
+32c#	6	32a	32a
+=	=	=	=
+8BL	.	(16.dd	8dd
+.	.	32ee)	.
+8BB	.	(16.dd	(16.dd
+.	.	32cc#)	32cc#)
+8B	.	(24ddL	8dd
+.	.	24ee	.
+.	.	24ff#)J	.
+8AJ	6 4	(24ff#L	8dd
+.	.	24ee	.
+.	.	24dd)J	.
+8G	.	(16.gg	8bb
+.	.	64aa	.
+.	.	64bb)	.
+8F#	6	8aa	8aa
+8r	.	8r	8r
+16.c#	6 5	16.gg	16.gg
+32d	.	32ff#	32ff#
+=	=	=	=
+8AL	.	(16ee	8ee
+.	.	32ff#	.
+.	.	32gg	.
+8A#	6	16.ff#)	16.ff#
+.	.	32cc#	32cc#
+8B	.	(16dd	8dd
+.	.	32cc#	.
+.	.	32b	.
+8EJ	#	16.gg#)	16.ee
+.	.	32e	32b
+.	.	(16ddqq	.
+8A	.	8cc#)L	8cc#
+.	.	(16bqq	.
+8AA	.	8a)J	8a
+8r	.	8r	8r
+8F#	6	16.dd	16.dd
+.	.	32a	32a
+!!LO:LB:g=original			
+=	=	=	=
+8G	.	(24b	8b
+.	.	24g	.
+.	.	24b)	.
+16.G	6	[8ee	[8ee
+32GG	.	.	.
+8G	6	(24ee]L	16.ee]
+.	.	24dd#	.
+.	.	24ee)J	.
+.	.	.	32ff#
+8E	.	(24ggL	16.gg
+.	.	24ee	.
+.	.	24b)J	.
+.	.	.	32b
+8A	.	(24cc#	8cc#
+.	.	24a	.
+.	.	24cc#)	.
+16.A	6	[8ff#	[8ff#
+32AA	.	.	.
+8A	6	(24ff#]L	16.ff#]
+.	.	24ee	.
+.	.	24ff#)J	.
+.	.	.	32gg
+8F#	.	(24aaL	16.aa
+.	.	24ff#	.
+.	.	24cc#)J	.
+.	.	.	32cc#
+=	=	=	=
+8B	.	(24dd	8dd
+.	.	24b	.
+.	.	24dd)	.
+16.B	6	[8gg	[8gg
+32BB	.	.	.
+8B	6	(24gg]L	16.gg]
+.	.	24ff#	.
+.	.	24gg)J	.
+.	.	.	32ff#
+8c#	6 5	(24eeL	16.gg
+.	.	24ff#	.
+.	.	24gg)J	.
+.	.	.	32ee
+8d	.	(24ff#L	16.ff#
+.	.	24aa	.
+.	.	24gg)J	.
+.	.	.	32gg
+16.F#	6	(24aaL	16.aa
+.	.	24bb	.
+.	.	24gg)J	.
+32G	.	.	32bb
+.	.	(8ff#qq	.
+!! TODO: line below needs tremblement
+8A	.	8.ee)L	8.ee
+8AA	.	.	.
+.	.	16ddJ	16dd
+=	=	=	=
+8D	.	4dd	4dd
+16.d	.	.	.
+32D	.	.	.
+8d	.	8r	8r
+8D	.	16.ff#	16.ff#
+.	.	32dd	32dd
+8r	.	(32ee	8ee
+.	.	32gg#	.
+.	.	32ff#	.
+.	.	32ee)	.
+16.c#	6	8aa`	8aa
+32C#	.	.	.
+8c#	6	8a	8a
+8A	.	16.cc#	16.cc#
+.	.	32a	32a
+!!LO:LB:g=original			
+=	=	=	=
+8r	.	(32b	8b
+.	.	32dd#	.
+.	.	32cc#	.
+.	.	32b)	.
+16.G#	6	8ee`	8ee
+32GG#	.	.	.
+8G#	.	8e	8e
+8E	#	16.g#	16.g#
+.	.	32e	32e
+8r	.	16a	8a
+.	.	8a	.
+16.F#	.	.	4a
+.	.	([16a	.
+32FF#	.	.	.
+8F#	.	24a]L	.
+.	.	24b	.
+.	.	24cc#)J	.
+8E	6 4	(24cc#L	16.cc#
+.	.	24b	.
+.	.	24aJ	.
+.	.	.	32a
+=	=	=	=
+8D	6 5	16b	8b
+.	.	8b	.
+16.D	.	.	4b
+.	.	([16b	.
+32BB	.	.	.
+8E	#	24b]L	.
+.	.	24cc#	.
+.	.	24dd)J	.
+8EE	.	(24ddL	16.dd
+.	.	24cc#	.
+.	.	24b)J	.
+.	.	.	32b
+4AA	5	(24cc#L	8cc#
+.	.	24b	.
+.	.	24a)J	.
+.	6	(16ff#L	(16ff#
+.	.	16a)J	16ee)
+8r	.	(16g#L	(16eeL
+.	.	16ee)J	16dd#)J
+8A	4+r 2	(16f#L	(16dd#L
+.	.	16dd#)J	16ee)J
+=	=	=	=
+8G#	6	(16e	(16ee
+.	.	16dd#)	16dd#)
+16.G#	.	([8ee	[8ee
+32F#	.	.	.
+8E	#	24ee]L	16.ee]
+.	.	24gg#	.
+.	.	24aa)J	.
+.	.	.	32aa
+8e	.	(24gg#L	16.gg#
+.	.	24ee	.
+.	.	24dd#)J	.
+.	.	.	32dd#
+8r	.	(16e	16ee
+.	.	16dd#)	16dd#
+16.G#	6	([8ee	[8ee
+32F#	.	.	.
+8E	#	24ee]L	16.ee]
+.	.	24gg#	.
+.	.	24bb)J	.
+.	.	.	32bb
+8e	.	(24gg#L	16.gg#
+.	.	24ee	.
+.	.	24dd#)J	.
+.	.	.	32dd#
+!!LO:LB:g=original			
+=	=	=	=
+8r	.	(16e	(16ee
+.	.	16dd#)	16dd#)
+16.G#	6	8ee	8ee
+32F#	.	.	.
+8E	#	8r	8r
+8c#	6	16.a	16.a
+.	.	32e	32e
+8D	.	(16f#	8f#
+.	.	16dn	.
+16.D	6	16f#	[8b
+.	.	16b)	.
+32DD	.	.	.
+8D	6	16r	16.b]
+.	.	(32b	.
+.	.	32cc#	32cc#
+8BB	.	32dd	16.dd
+.	.	32cc#	.
+.	.	32b	.
+.	.	32a)	32f#
+=	=	=	=
+8E	#	(16g#	8g#
+.	.	16e	.
+16.E	6 #	16g#	[8cc#
+.	.	16cc#)	.
+32EE	.	.	.
+8E	6 #	16r	16.cc#]
+.	.	(32cc#	.
+.	.	32dd	32dd
+8C#	.	32ee	16.ee
+.	.	32dd	.
+.	.	32cc#	.
+.	.	32b)	32g#
+8F#	.	(16a	8a
+.	.	16f#	.
+16.F#	6	16a	[8dd
+.	.	16dd)	.
+32FF#	.	.	.
+8F#	6	16r	16.dd]
+.	.	(32dd	.
+.	.	32cc#	32cc#
+8G#	6 5	32b	16.dd
+.	.	32cc#	.
+.	.	32dd	.
+.	.	32b)	32b
+=	=	=	=
+8A	.	(32cc#L	16.cc#
+.	.	32a	.
+.	.	32cc#	.
+.	.	32dd)J	32dd
+16.C#	6	(24eeL	16.ee
+.	.	24a	.
+.	.	24ff#)J	.
+32D	.	.	32ff#
+.	.	(8cc#qq	.
+!! TODO: line below needs tremblement
+8E	#	8.b)L	8.b
+8EE	.	.	.
+.	.	16aJ	16a
+8AA	.	4a	4a
+16.A	.	.	.
+32E	.	.	.
+8F#	6	8r	8r
+8C#	6	16.aa	16.aa
+.	.	32ee	32ee
+!!LO:LB:g=original			
+=	=	=	=
+8D	.	8ff#	8ff#
+16.d	.	[16ff#	16.ff#
+.	.	64ff#]	.
+.	.	64ee	.
+32A	.	64dd	32cc#
+.	.	64cc#	.
+8B	6	8dd	8dd
+8F#	6	16.dd	16.dd
+.	.	32a	32a
+8G	.	(32cc	8b
+.	.	16.b)	.
+16.G	.	(32a	8g
+.	.	16.g)	.
+32F#	.	.	.
+8E	.	8r	8r
+8D#	6	16.bb	16.bb
+.	.	32ff#	32ff#
+=	=	=	=
+8E	.	8gg	8gg
+8B	6 #	[16gg	16.gg
+.	.	64gg]	.
+.	.	64ff#	.
+.	.	64ee	32dd#
+.	.	64dd#	.
+8c	.	8ee	16.ee
+.	.	.	32gg
+8A	.	16.ccc	16.ff#
+.	.	32ee	32ee
+!! TODO: line below needs tremblement
+8B	#	(16.dd#X	16.dd#X
+.	.	32cc#)	32cc#
+16.B	.	8b	8b
+32A	.	.	.
+16.G	6	8r	8r
+32F#	.	.	.
+8E	#	16.b	16.b
+.	.	32e	32e
+=	=	=	=
+8A	n	(16cc	8cc
+.	.	32b	.
+.	.	32a	.
+8G#	6	16.b)	16.b
+.	.	32e	32e
+8A	n	(32ccnL	16.cc
+.	.	32b	.
+.	.	32cc	.
+.	.	32ee)J	32ee
+8G#	6	(32bL	16.b
+.	.	32a	.
+.	.	32b	.
+.	.	32ee)J	32ee
+8A	n	(24ccL	(16.cc
+.	.	24dd	.
+.	.	24b)J	.
+.	.	.	32b)
+8AA	.	(24ccL	(16.cc
+.	.	24dd	.
+.	.	24b)J	.
+.	.	.	32b)
+8r	.	8a	8a
+8A#	6	16.cc#	16.cc#
+.	.	32f#	32f#
+!!LO:LB:g=original			
+=	=	=	=
+8B	.	(16dd	8dd
+.	.	32cc#	.
+.	.	32b	.
+8A#	6	16.cc#)	16.cc#
+.	.	32f#	32f#
+8B	.	(32ddL	16.dd
+.	.	32ff#	.
+.	.	32ee	.
+.	.	32ff#)J	32ff#
+8A#	6	(32cc#L	16.cc#
+.	.	32ff#	.
+.	.	32ee	.
+.	.	32ff#)J	32ff#
+8B	.	(24ddL	(16.dd
+.	.	24ee	.
+.	.	24cc#)J	.
+.	.	.	32cc#)
+8BB	.	(24ddL	(16.dd
+.	.	24ee	.
+.	.	24cc#)J	.
+.	.	.	32cc#)
+8r	.	8b	8b
+16.G	6	16.bb	16.bb
+32F#	6\	32b	32b
+=	=	=	=
+8GL	6	8ee	8ee
+8E	.	(24gg	(16.ee
+.	.	24ff#	.
+.	.	24ee)	.
+.	.	.	32dd#)
+8c	.	8ee	8ee
+8BJ	6 4	8ee	8ee
+4A	5 n	(16.aa	8ccc
+.	.	64bb	.
+.	.	64ccc)	.
+.	4+r 2	8bb`	8bb
+8G	6	8r	8r
+16.F#	6\	16.aa	16.aa
+32E	.	32gg	32gg
+=	=	=	=
+16.D#	6	(24ff#L	16.ff#
+.	.	24ee	.
+.	.	24dd#)J	.
+32B	#	.	32dd#
+16.G	6_	(24eeL	16.ee
+.	.	24b	.
+.	.	24ff#)J	.
+32A	.	.	32ff#
+.	.	(8ggqq	.
+!! TODO: line below needs tremblement
+8B	#	8.ff#)L	8.ff#
+8BB	.	.	.
+.	.	16eeJ	16ee
+8E	.	4ee	4ee
+16.e	_	.	.
+32B	.	.	.
+8e	X	8r	8r
+8E	.	16.b	16.b
+.	.	32cc#	32cc#
+!!LO:LB:g=original			
+=	=	=	=
+8F#	6	(24dd	(16.dd
+.	.	24ff#	.
+.	.	24ee)	.
+.	.	.	32ee)
+16.D	.	(16.ff#	4ff#
+32F#	.	32a)	.
+8GG#	7	(16.b	.
+.	.	32ff#)	.
+8G#	6	(24ee	16.ee
+.	.	24ff#	.
+.	.	24dd)	.
+.	.	.	32dd
+8r	.	(24cc#	(16.cc#
+.	.	24dd	.
+.	.	24b)	.
+.	.	.	32b)
+!! TODO: line below needs tremblement
+16.A	_	8a	8a
+32E	.	.	.
+8A	.	32r	8r
+.	.	(32a	.
+.	.	32b	.
+.	.	32cc#	.
+!! TODO: line below needs tremblement
+8AA	X	16.cc#	16.cc#
+.	.	64b	32a
+.	.	64cc#)	.
+=	=	=	=
+8r	.	16dd	8dd
+.	.	16aa	.
+16.F#	6	4dd	4dd
+32D	.	.	.
+8B	.	.	.
+8A	6 4	(32ff#	16.ff#
+.	.	32ee	.
+.	.	32ff#	.
+.	.	32dd)	32dd
+8G	6 5	16ee	8ee
+.	.	16bb	.
+16.G	.	4ee	4ee
+32E	.	.	.
+8A	.	.	.
+8AA	.	(32gg	16.gg
+.	.	32ff#	.
+.	.	32gg	.
+.	.	32ee)	32ee
+=	=	=	=
+8D	.	(24ff#L	(16.ff#
+.	.	24gg	.
+.	.	24ee)J	.
+.	.	.	32ee)
+8DD	.	(24ddL	(16.dd
+.	.	24ff#	.
+.	.	24ee)J	.
+.	.	.	32ee)
+8r	.	(24ff#	(16.ff#
+.	.	24aa	.
+.	.	24gg)	.
+.	.	.	32gg)
+16.D	.	[8aa	4aa
+32E	.	.	.
+8F#	6	16aa]	.
+.	.	16a	.
+16.G	.	16b	8ddL
+.	.	16dd	.
+32F#	.	.	.
+8E	6	(24ggL	8gg
+.	.	24ff#	.
+.	.	24ee)J	.
+8D	.	(24ff#L	8ff#J
+.	.	24dd	.
+.	.	24ff#)J	.
+!!LO:LB:g=original			
+=	=	=	=
+!! TODO: line below needs tremblement
+8A	6 4	8ff#	8ff#
+16.AA	5 3	8ee	8ee
+32BB	.	.	.
+8C#	6	8r	8r
+8AA	.	16.aa	16.aa
+.	.	32a	32a
+8BB	.	8dd	8dd
+8B	.	(16.dd	(16.dd
+.	.	32cc#)	32cc#)
+8r	.	24dd`	8dd
+.	.	(24dd	.
+.	.	24ee	.
+8A	6 4	24ff#	8dd
+.	.	24gg	.
+.	.	24aa)	.
+=	=	=	=
+.	.	(16aaqq	.
+8G	.	8bb)L	8bb
+16.F#	6_	8aaJ	8aa
+32E	.	.	.
+8F#	6	8r	8r
+!! TODO: line below needs tremblement
+16.E	6	16.gg	16.gg
+32D	.	32ff#	32ff#
+8c#L	6 5	(24gg	16.gg
+.	.	24ff#	.
+.	.	24ee	.
+.	.	.	32ee
+8d	.	16.ff#)	16.ff#
+.	.	32gg	32gg
+.	.	(8ff#qq	.
+8A	.	8.ee)L	8.ee
+8AAJ	.	.	.
+.	.	16ddJ	16dd
+=	=	=	=
+8D	.	4dd	4dd
+16.F#	6_	.	.
+32E	.	.	.
+8D	X	8r	8r
+8C#	6	16.a	16.a
+.	.	32g	32g
+8D	.	16f#`	(16.f#
+.	.	(32d	.
+.	.	32e	32g)
+8DD	.	32f#	(16.a
+.	.	32g	.
+.	.	32a	.
+.	.	32b)	32b)
+8r	.	(32cc	8cc
+.	.	32dd	.
+.	.	32cc	.
+.	.	32b	.
+16.E	6nr_	16.cc)	8cc
+32F#	.	32cc	.
+!!LO:LB:g=original			
+=	=	=	=
+8G	5 4nr	(24ccL	(16.cc
+.	.	24a	.
+.	.	24cc)J	.
+.	.	.	32a)
+.	.	(8ccqq	.
+!! TODO: line below needs tremblement
+16.G	3	4b)	4b
+32GG	.	.	.
+8G	.	.	.
+8c	.	(24ee	(16ee
+.	.	24cc	.
+.	.	.	16cc)
+.	.	24ee)	.
+8B	6	(24ddL	(16dd
+.	.	24b	.
+.	.	.	16b)
+.	.	24dd)J	.
+8F#	6 5nr	(24ccL	(16cc
+.	.	24a	.
+.	.	.	16a)
+.	.	24cc)J	.
+8G	.	(24bL	(16b
+.	.	24g	.
+.	.	.	16g)
+.	.	24b)J	.
+8D	.	(24ccL	(16cc
+.	.	24a	.
+.	.	.	16a)
+.	.	24cc)J	.
+=	=	=	=
+8GG	.	(24b	(16b
+.	.	24g	.
+.	.	.	16a)
+.	.	24f#)	.
+16.B	6_	8g`	8g
+32A	.	.	.
+8G	X	8r	8r
+8D#	6	16.b	16.b
+.	.	32a	32a
+8E	#	(24g#	(16.g#
+.	.	24f#	.
+.	.	24e)	.
+.	.	.	32a)
+8EE	.	(16.b	(16.b
+.	.	32e)	32cc#)
+8r	.	(32dd	8dd
+.	.	32cc#	.
+.	.	32b	.
+.	.	32cc#	.
+16.F#	6_	16.dd)	8dd
+32G#	.	32dd	.
+=	=	=	=
+8A	5 4	(24ddL	(16.dd
+.	.	24e	.
+.	.	24dd)J	.
+.	.	.	32b)
+.	.	(8ddqq	.
+!! TODO: line below needs tremblement
+16.A	3	4cc#)	4cc#
+32AA	.	.	.
+8A	.	.	.
+8d	.	(32ff#	(16ff#
+.	.	32ee	.
+.	.	32dd	16dd)
+.	.	32ff#)	.
+8c#	6	(32eeL	(16ee
+.	.	32dd	.
+.	.	32cc#	16cc#)
+.	.	32ee)J	.
+8G#	6 5	(32ddL	(16dd
+.	.	32cc#	.
+.	.	32b	16b)
+.	.	32dd)J	.
+8A	.	(32cc#L	(16cc#
+.	.	32b	.
+.	.	32a	16a)
+.	.	32cc#)J	.
+8E	#	(32ddL	(16dd
+.	.	32cc#	.
+.	.	32b	16b)
+.	.	32dd)J	.
+!!LO:LB:g=original			
+=	=	=	=
+8AA	.	(32cc#	(16cc#
+.	.	32b	.
+.	.	32a	16b)
+.	.	32g#)	.
+16.A	_	8a`	8a
+32E	.	.	.
+8F#	6	8r	8r
+8C#	6	16.aa	16.aa
+.	.	32ee	32ee
+8D	.	8ff#	8ff#
+16.d	.	[16ff#	16.ff#
+.	.	64ff#]	.
+.	.	64ee	.
+32A	6	64dd	32cc#
+.	.	64cc#	.
+8B	.	8dd	8dd
+8F#	6	16.dd	16.dd
+.	.	32a	32a
+=	=	=	=
+8GL	.	8b	8b
+8G	.	(16bb	(16bb
+.	.	16dd)	16aa)
+8F#	6	(16aa	(16aa
+.	.	16dd)	16gg)
+8EJ	6	(16gg	(16gg
+.	.	16cc#)	16ff#)
+8DL	.	(16ff#L	8ff#
+.	.	16dd)J	.
+8B	6	(24ggL	(16gg
+.	.	24aa	.
+.	.	.	16ff#)
+.	.	24gg)J	.
+8A	6 4	(24ff#L	(16ff#
+.	.	24gg	.
+.	.	.	16ee)
+.	.	24ff#)J	.
+8GJ	4 2	(24eeL	(16ee
+.	.	24ff#	.
+.	.	.	16dd)
+.	.	24ee)J	.
+=	=	=	=
+8F#	6	16dd	(16dd
+.	.	16a	16cc#)
+(16.F#	_	[8dd	[8dd
+32E)	.	.	.
+8D	X	(24dd]L	16.dd]
+.	.	24ff#	.
+.	.	24ee)J	.
+.	.	.	32gg
+8d	.	(24ff#L	16.ff#
+.	.	24dd	.
+.	.	24cc#)J	.
+.	.	.	32cc#
+8r	.	16dd	(16dd
+.	.	16a	16cc#)
+16.F#	6_	[8dd	[8dd
+32E	.	.	.
+8D	X	(24dd]L	16.dd]
+.	.	24ff#	.
+.	.	24gg)J	.
+.	.	.	32aa
+8d	.	(24aaL	16.ff#
+.	.	24ff#	.
+.	.	24cc#)J	.
+.	.	.	32cc#
+!!LO:LB:g=original			
+=	=	=	=
+8r	.	16dd	(16dd
+.	.	16a	16cc#)
+16.F#	6_	8dd	8dd
+32E	.	.	.
+8D	X	8r	8r
+8F#	6	(24aa	16.aa
+.	.	24a	.
+.	.	24cc)	.
+.	.	.	32a
+8G	5	16.b	8b
+.	.	32dd#	.
+16.G	6	[8ee	[8ee
+32GG	.	.	.
+8G	6	(24ee]L	16.ee]
+.	.	24ff#	.
+.	.	24gg)J	.
+.	.	.	32ff#
+8E	.	(24ggL	16.gg
+.	.	24ff#	.
+.	.	24ee)J	.
+.	.	.	32b
+=	=	=	=
+.	.	(16ddqq	.
+8A	5	16.cc#)	8cc#
+.	.	32gg	.
+16.A	6	[8ff#	[8ff#
+32AA	.	.	.
+8A	.	(24ff#]L	16.ff#]
+.	.	24gg	.
+.	.	24aa)J	.
+.	.	.	32gg
+8F#	.	(24aaL	16.aa
+.	.	24gg	.
+.	.	24ff#)J	.
+.	.	.	32cc#
+.	.	(16eeqq	.
+8B	5	16.dd)L	8dd
+.	.	32ff#	.
+16.B	6	[8ggJ	[8gg
+32BB	.	.	.
+8B	6	(24gg]L	16.gg]
+.	.	24aa	.
+.	.	24bb)J	.
+.	.	.	32ff#
+8c#	.	(24aaL	16.gg
+.	.	24ff#	.
+.	.	24gg)J	.
+.	.	.	32ee
+=	=	=	=
+8d	.	(32ff#	16.ff#
+.	.	32gg	.
+!! TODO: line below needs tremblement
+.	.	32gg	.
+.	.	64ff#	32gg
+.	.	64gg	.
+16.F#	6	16.aa)	16.aa
+32G	.	32bb	32bb
+.	.	(8ff#qq	.
+!! TODO: line below needs tremblement
+8A	.	8.ee)L	8.ee
+8AA	.	.	.
+.	.	16ddJ	16dd
+4D	.	8dd	8ddL
+.	.	(24f#	8f#
+.	.	24e	.
+.	.	24d)	.
+4AA	.	8e	8e
+.	.	(32dd	8cc#J
+.	.	16.cc#)	.
+=	=	=	=
+4DD	.	4d	4dd
+4r	.	4r	4r
+2r	.	2r	2r
+==	==	==	==
+*-	*-	*-	*-
 !!!filter: autobeam
