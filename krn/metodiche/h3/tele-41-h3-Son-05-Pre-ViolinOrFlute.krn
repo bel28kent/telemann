@@ -1,182 +1,206 @@
 !!!filename: tele-41-h3-Son-05-Pre-ViolinOrFlute
-**kern	**fb	**kern
-*I"Basso continuo	*I"Basso continuo	*I"Violin or flute
-*clefF4	*	*clefG2
-*k[f#c#]	*	*k[f#c#]
-*b:	*	*b:
-*M4/4	*	*M4/4
-*met(c)	*	*met(c)
+**kern	**fb	**dynam	**kern	**dynam
+*I"Basso continuo	*I"Basso continuo	*	*I"Violin or flute	*
+*clefF4	*	*	*clefG2	*
+*k[f#c#]	*	*	*k[f#c#]	*
+*b:	*	*	*b:	*
+*M4/4	*	*	*M4/4	*
+*met(c)	*	*	*met(c)	*
+*>[A,A,B,B1,B,B2]	*>[A,A,B,B1,B,B2]	*	*>[A,A,B,B1,B,B2]	*
 !!!OMD: Presto
-4BB	.	8b
-.	.	8dd
-4AA#	.	8cc#
-.	.	8ee
-4BB	.	8dd
-.	.	8ff#
-4C#	.	8ee
-.	.	8gg
-=	=	=
-2D	.	4ff#
-.	.	4b
-2r	.	4ff#
-.	.	4b
-=	=	=
-4G	.	2bb
-4E	.	.
-4A	.	2aa
-4AA	.	.
-=	=	=
-4D	.	2.ff#
-4DD	.	.
-4d	.	.
-4c#	.	4ee
-=	=	=
-2B	.	4dd
-.	.	8cc#
-.	.	8dd
-2G#	.	4ee
-.	.	4dd
-=	=	=
-2A	.	4cc#
-.	.	8b
-.	.	8cc#
-2F#	.	4dd
-.	.	4cc#
-=	=	=
-2G	.	4b
-.	.	8cc#
-.	.	8dd
-2E	.	4cc#
-.	.	4b
-=	=	=
-4F#	.	2a#
-4FF#	.	.
-4F#	.	2r
-4FF#	.	.
-=	=	=
-2BB	.	4dd
-.	.	8cc#
-.	.	8dd
-2GG#	.	4ee
-.	.	4dd
-=	=	=
-2AA	.	4cc#
-.	.	8b
-.	.	8cc#
-2FF#	.	4dd
-.	.	4cc#
-=	=	=
-2GG	.	4b
-.	.	8cc#
-.	.	8dd
-2EE	.	4cc#
-.	.	4b
-=	=	=
-1FF#	.	1a#
-=	=	=
-4D	.	8dd
-.	.	8ff#
-4C#	.	8ee
-.	.	8gg
-4D	.	8ff#
-.	.	8aa
-4E	.	8gg
-.	.	8bb
-=	=	=
-2F#	.	4aa
-.	.	4dd
-2r	.	4aa
-.	.	4dd
-=	=	=
-4C#	.	2aa
-4AA	.	.
-4D#	.	2ff#
-4BB	.	.
-=	=	=
-4E	.	2gg
-4EE	.	.
-4E	.	8r
-.	.	8aa
-4EE	.	8gg
-.	.	8aa
-=	=	=
-4G	.	8bb
-.	.	8gg
-4F#	.	8aa
-.	.	8ff#
-4E	.	8gg
-.	.	8ee
-4D	.	8ff#
-.	.	8dd
-=	=	=
-4E	.	8gg
-.	.	8ee
-4D	.	8ff#
-.	.	8dd
-4C#	.	8ee
-.	.	8cc#
-4BB	.	8dd
-.	.	8b
-=	=	=
-2F#	.	4cc#
-.	.	4f#
-2r	.	4cc#
-.	.	4f#
-=	=	=
-2A#	.	4.cc#
-.	.	16b
-.	.	16cc#
-2B	.	4dd
-.	.	4b
-=	=	=
-2A	.	4ee
-.	.	4a
-2r	.	4ee
-.	.	4a
-=	=	=
-2c#	.	4.ee
-.	.	16dd
-.	.	16ee
-2d	.	4ff#
-.	.	4dd
-=	=	=
-2E	.	4gg
-.	.	4ee
-2F#	.	4aa#
-.	.	4ff#
-=	=	=
-2G	.	4bb
-.	.	4b
-2r	.	2r
-=	=	=
-2F#	.	4dd
-.	.	8cc#
-.	.	8dd
-2FF#	.	4ee
-.	.	4cc#
-=	=	=
-2BB	.	8b
-.	.	8cc#
-.	.	8dd
-.	.	8ee
-2r	.	4ff#
-.	.	4dd
-=	=	=
-2E	.	4gg
-.	.	4ee
-2F#	.	4aa#
-.	.	4ff#
-=	=	=
-2G	.	4bb
-.	.	4b
-2r	.	2r
-=	=	=
-2F#	.	4dd
-.	.	8cc#
-.	.	8dd
-2FF#	.	4ee
-.	.	4cc#
-=	=	=
-1BB	.	1b
-*-	*-	*-
+*>A	*>A	*	*>A	*
+4BB	.	.	(8bL	.
+.	.	.	8dd)	.
+4AA#	6	.	(8cc#	.
+.	.	.	8ee)J	.
+4BB	_	.	(8ddL	.
+.	.	.	8ff#)	.
+4C#	.	.	(8ee	.
+.	.	.	8gg)J	.
+=	=	=	=	=
+2D	6	.	4ff#	.
+.	.	.	4b	.
+2r	.	.	4ff#	.
+.	.	.	4b	.
+=	=	=	=	=
+4G	6 5	.	2bb	.
+4E	.	.	.	.
+4A	.	.	2aa	.
+4AA	.	.	.	.
+=	=	=	=	=
+.	.	.	(4ggqq	.
+!! TODO: line below needs tremblement
+4D	.	.	2.ff#)	.
+4DD	.	.	.	.
+4d	.	.	.	.
+4c#	6\	.	4ee	.
+=	=	=	=	=
+2B	.	.	4dd	.
+.	.	.	8cc#	.
+.	.	.	8dd	.
+2G#	6	.	4ee	.
+.	.	.	4dd	.
+=	=	=	=	=
+2A	.	.	4cc#	.
+.	.	.	8b	.
+.	.	.	8cc#	.
+2F#	6	.	4dd	.
+.	.	.	4cc#	.
+=	=	=	=	=
+2G	.	.	4b	.
+.	.	.	8cc#	.
+.	.	.	8dd	.
+2E	6	.	4cc#	.
+.	.	.	4b	.
+!!LO:LB:g=original
+=	=	=	=	=
+!! TODO: line below needs tremblement
+4F#	#	.	2a#	.
+4FF#	.	.	.	.
+4F#	.	.	2r	.
+4FF#	.	.	.	.
+=	=	=	=	=
+2BB	.	p	4dd	p
+.	.	.	8cc#	.
+.	.	.	8dd	.
+2GG#	6	.	4ee	.
+.	.	.	4dd	.
+=	=	=	=	=
+2AA	.	.	4cc#	.
+.	.	.	8b	.
+.	.	.	8cc#	.
+2FF#	6	.	4dd	.
+.	.	.	4cc#	.
+=	=	=	=	=
+2GG	.	.	4b	.
+.	.	.	8cc#	.
+.	.	.	8dd	.
+2EE	6	.	4cc#	.
+.	.	.	4b	.
+=	=	=	=	=
+!! TODO: line below needs tremblement
+1FF#	#	.	1a#	.
+=:|:	=:|:	=:|:	=:|:	=:|:
+*>B	*>B	*	*>B	*
+4D	5	f	(8ddL	f
+.	.	.	8ff#)	.
+4C#	6	.	(8ee	.
+.	.	.	8gg)J	.
+4D	.	.	(8ff#L	.
+.	.	.	8aa)	.
+4E	7	.	(8gg	.
+.	.	.	8bb)J	.
+=	=	=	=	=
+2F#	6	.	4aa	.
+.	.	.	4dd	.
+2r	.	.	4aa	.
+.	.	.	4dd	.
+=	=	=	=	=
+4C#	6	.	2aa	.
+4AA	.	.	.	.
+!! TODO: line below needs tremblement
+4D#	6 5	.	2ff#	.
+4BB	.	.	.	.
+!!LO:LB:g=original
+=	=	=	=	=
+4E	.	.	2gg	.
+4EE	.	.	.	.
+4E	.	.	8r	.
+.	.	.	8aaL	.
+4EE	.	.	8gg	.
+.	.	.	8aaJ	.
+=	=	=	=	=
+4G	5	.	8bbL	.
+.	.	.	8gg	.
+4F#	6	.	8aa	.
+.	.	.	8ff#J	.
+4E	6	.	8ggL	.
+.	.	.	8ee	.
+4D	.	.	8ff#	.
+.	.	.	8ddJ	.
+=	=	=	=	=
+4E	.	.	8ggL	.
+.	.	.	8ee	.
+4D	6	.	8ff#	.
+.	.	.	8ddJ	.
+4C#	6	.	8eeL	.
+.	.	.	8cc#	.
+4BB	.	.	8dd	.
+.	.	.	8bJ	.
+=	=	=	=	=
+2F#	#	.	4cc#	.
+.	.	.	4f#	.
+2r	.	.	4cc#	.
+.	.	.	4f#	.
+=	=	=	=	=
+!! TODO: line below needs tremblement
+2A#	6	.	(4.cc#	.
+.	.	.	16b	.
+.	.	.	16cc#)	.
+2B	.	.	4dd	.
+.	.	.	4b	.
+=	=	=	=	=
+2An	5	.	4ee	.
+.	.	.	4a	.
+2r	.	.	4ee	.
+.	.	.	4a	.
+=	=	=	=	=
+!! TODO: line below needs tremblement
+2c#	6	.	(4.ee	.
+.	.	.	16dd	.
+.	.	.	16ee)	.
+2d	.	.	4ff#	.
+.	.	.	4dd	.
+!!LO:LB:g=original
+=	=	=	=	=
+2E	.	.	4gg	.
+.	.	.	4ee	.
+2F#	#	.	4aa#	.
+.	.	.	4ff#	.
+=	=	=	=	=
+2G	7	.	4bb	.
+.	.	.	4b	.
+2r	6	.	2r	.
+=	=	=	=	=
+2F#	6 4	.	4dd	.
+.	.	.	(8cc#	.
+.	.	.	8dd)	.
+2FF#	5 #	.	4ee	.
+.	.	.	4cc#	.
+=	=	=	=	=
+2BB	.	p	(8bL	p
+.	.	.	8cc#	.
+.	.	.	8dd	.
+.	.	.	8eeJ	.
+2r	.	.	4ff#)	.
+.	.	.	4dd	.
+=	=	=	=	=
+2E	.	.	4gg	.
+.	.	.	4ee	.
+2F#	#	.	4aa#	.
+.	.	.	4ff#	.
+=	=	=	=	=
+2G	7	.	4bb	.
+.	.	.	4b	.
+2r	6	.	2r	.
+=	=	=	=	=
+2F#	6 4	f	4dd	f
+.	.	.	8cc#	.
+.	.	.	8dd	.
+2FF#	5 #	.	4ee	.
+.	.	.	4cc#	.
+=	=	=	=	=
+*>B1	*>B1	*	*>B1	*
+4BB	.	.	2b	.
+(8D	6	.	.	.
+8C#)	.	.	.	.
+(8BBL	.	.	2r	.
+8D)	.	.	.	.
+(8C#	6	.	.	.
+8E)J	.	.	.	.
+=:|	=:|	=:|	=:|	=:|
+*>B2	*>B2	*	*>B2	*
+1BB	.	.	1b	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
 !!!filter: autobeam
