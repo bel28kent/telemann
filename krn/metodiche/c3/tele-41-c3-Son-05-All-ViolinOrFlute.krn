@@ -315,6 +315,7 @@
 4.E-	.	(8g
 .	.	8b)
 .	.	8cc
+!! TODO: line below needs tremblement
 (8E	6 5	4.b-
 8D	.	.
 8E)	.	.
@@ -323,6 +324,7 @@
 4.F	.	(8a
 .	.	8ee-
 .	.	8dd)
+!! TODO: line below needs tremblement
 (8F#	6 5	4.cc
 8E	.	.
 8F#)	.	.
@@ -330,6 +332,7 @@
 4.G	n	(8b
 .	.	8dd
 .	.	8ee-)
+!! TODO: line below needs tremblement
 (8GG	6 5 n	4.dd
 8FF	.	.
 8GG)	.	.
